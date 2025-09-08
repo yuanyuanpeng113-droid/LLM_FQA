@@ -1,0 +1,6889 @@
+[
+    {
+        "id": 1,
+        "question": "1949年，我国粮食总产量为_____亿吨，人均仅209公斤原粮。",
+        "answer": [
+            "1.13"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 2,
+        "question": "1950年在全国范围内开展_____改革，3亿多农民“耕者有其田”，生产积极性高涨的农民垦荒辟地，农业生产得到迅速恢复和发展。",
+        "answer": [
+            "土地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 3,
+        "question": "1958年，我国开始实行“_____”制度，为了缓解人口对土地的沉重压力，大举开荒造田以增加耕地面积。",
+        "answer": [
+            "人民公社"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 4,
+        "question": "1981年中央一号文件《关于制止农村建房侵占耕地的紧急通知》针对“个人和单位乱占滥用耕地”的现象首次提出“_____”这一概念。",
+        "answer": [
+            "耕地保护"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 5,
+        "question": "1982年中央一号文件_____指出：在建立和完善农业生产责任制的过程中，必须坚持土地的集体所有制，切实注意保护耕地和合理利用耕地。",
+        "answer": [
+            "《全国农村工作会议纪要》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 6,
+        "question": "1982年《政府工作报告》指出，“_____是农村‘两股歪风’之一”。",
+        "answer": [
+            "滥占耕地建房"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 7,
+        "question": "1983年中央一号文件_____指出“严格控制占用耕地建房”、“要教育群众从我国人口多耕地少的实际出发，爱惜每一寸耕地”。",
+        "answer": [
+            "《当前农村经济政策的若干问题》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 8,
+        "question": "_____年《国务院关于严格贯彻执行<国家建设征用土地条例>的通知》指出“各用地部门要注意贯彻节约用地的方针，少占或不占耕地”。",
+        "answer": [
+            "1983"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 9,
+        "question": "1986年《中共中央国务院关于加强土地管理、制止乱占耕地的通知》提出“_____”的基本国策，再次深化了耕地保护的概念。",
+        "answer": [
+            "十分珍惜和合理利用每一寸土地，切实保护耕地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 10,
+        "question": "1996年全国土地管理厅局长会议提出“_____总量动态平衡”。",
+        "answer": [
+            "耕地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 11,
+        "question": "2007年《政府工作报告》要求守住18亿亩耕地_____。",
+        "answer": [
+            "“红线”"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 12,
+        "question": "2008年中央1号文件《关于切实加强农业基础建设进一步促进农业发展农民增收的若干意见》指出“加强_____”。",
+        "answer": [
+            "耕地保护和土壤改良"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 13,
+        "question": "2008年党的十七届三中全会通过的《中共中央关于推进农村改革发展若干重大问题的决定》提出“_____确保基本农田总量不减少、用途不改变、质量有提高”。",
+        "answer": [
+            "划定永久基本农田，建立保护补偿机制，"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 14,
+        "question": "2009年中央1号文件《关于2009年促进农业稳定发展农民持续增收的若干意见》指出“实行最严格的耕地保护制度和最严格的节约用地制度”、“加快_____”。",
+        "answer": [
+            "高标准农田建设"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 15,
+        "question": "2009年中央1号文件《关于2009年促进农业稳定发展农民持续增收的若干意见》指出“_____”、“加快高标准农田建设。",
+        "answer": [
+            "实行最严格的耕地保护制度和最严格的节约用地制度"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 16,
+        "question": "国土资源部从2009年3月至11月开展“_____”。",
+        "answer": [
+            "保增长保红线行动"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 17,
+        "question": "2010年中央1号文件《关于加大统筹城乡发展力度进一步夯实农业农村发展基础的若干意见》指出“_____”。按照统筹规划、分工协作、集中投入、连片推进的要求，加快建设高产稳产基本农田。",
+        "answer": [
+            "大力建设高标准农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 18,
+        "question": "2010年国土资源部又在“双保行动”的基础上提出实施“_____”。",
+        "answer": [
+            "双保工程"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 19,
+        "question": "2011年_____提出“严格保护耕地，加快农村土地整理复垦”、加强以农田水利设施为基础的田间工程建设，改造中低产田，大规模建设旱涝保收高标准农田”、“探索建立耕地保护补偿”、“在有条件的地方开展耕地保护补偿试点”",
+        "answer": [
+            "《国民经济和社会发展第十二个五年规划纲要》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 20,
+        "question": "2012年中央1号文件_____指出“加强高标准农田建设。加快永久基本农田划定工作，启动耕地保护补偿试点。",
+        "answer": [
+            "《关于加快推进农业科技创新持续增强农产品供给保障能力的若干意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 21,
+        "question": "国土资源部_____指出“耕地质量建设与管理是落实最严格的耕地保护制度的重要内容”，并提出“耕地数量管控、质量管理和生态管护”、“提升耕地保护水平，全面加强耕地质量建设与管理工作”。",
+        "answer": [
+            "《关于提升耕地保护水平全面加强耕地质量建设与管理的通知》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 22,
+        "question": "国土资源部《高标准基本农田建设标准》对高标准农田建设的目标、条件、内容与技术标准等进行明确规定，并提出到2020年中国要确保建成8亿亩、力争建成10亿亩_____。",
+        "answer": [
+            "高标准基本农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 23,
+        "question": "2013年中央1号文件_____提出，关于“落实和完善最严格的耕地保护制度，加大力度推进高标准农田建设”的问题。",
+        "answer": [
+            "《关于加快发展现代农业进一步增强农村发展活力的若干意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 24,
+        "question": "2014年中央1号文件《_____提出“建立农业可持续发展长效机制”。",
+        "answer": [
+            "关于全面深化农村改革加快推进农业现代化的若干意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 25,
+        "question": "2014年《_____指出：“将优质耕地划为永久基本农田”、“饭碗牢牢地端在自己手上”。",
+        "answer": [
+            "关于进一步做好永久基本农田划定工作的通知》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 26,
+        "question": "2014年刘彦随认为，耕地保护行为是_____“三大”主体基于自身利益而做出的理性选择。",
+        "answer": [
+            "中央政府、地方政府、农民"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 27,
+        "question": "_____指出“坚决守住耕地红线。落实最严格的耕地保护制度，确保现有耕地面积基本稳定、土壤质量不下降。规范耕地占补平衡，严格实行耕地“占一补一”、“先补后占”和“占优补优”。",
+        "answer": [
+            "《国务院关于建立健全粮食安全省长责任制的若干意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 28,
+        "question": "2015年中央1号文件《关于加大改革创新力度加快农业现代化建设的若干意见》指出“全面开展_____划定工作。",
+        "answer": [
+            "永久基本农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 29,
+        "question": "2015年《关于全面划定永久基本农田实行特殊保护的通知》中要求基本农田划定要_____，实现“定量”“定质”“定位”“定责”保护。",
+        "answer": [
+            "上图入库、落地到户"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 30,
+        "question": "2016年中央1号文件《关于落实发展新理念加快农业现代化实现全面小康目标的若干意见》指出“大规模推进高标准农田建设”、“坚持最严格的耕地保护制度，坚守耕地红线，全面划定永久基本农田，大力实施农村土地整治，推进耕地_____“三位一体”保护。",
+        "answer": [
+            "数量、质量、生态"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "中"
+    },
+    {
+        "id": 31,
+        "question": "《中华人民共和国国民经济和社会发展第十三个五年规划纲要》指出“坚持最严格的耕地保护制度，全面划定永久基本农田。实施藏粮于地、藏粮于技战略，以粮食等大宗农产品主产区为重点，大规模推进农田水利、土地整治、_____建设。",
+        "answer": [
+            "中低产田改造和高标准农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "中"
+    },
+    {
+        "id": 32,
+        "question": "_____提出“实施农用地分类管理，保障农业生产环境安全”、“划定农用地土壤环境质量类别。",
+        "answer": [
+            "《土壤污染防治行动计划》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 33,
+        "question": "2017年中央1号文件《_____指出“集中治理农业环境突出问题。实施耕地、草原、河湖休养生息规划。全面落实永久基本农田特殊保护政策措施，实施耕地质量保护和提升行动，持续推进中低产田改造。加快高标准农田建设，提高建设质量”。",
+        "answer": [
+            "关于深入推进农业供给侧结构性改革加快培育农业农村发展新动能的若干意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 34,
+        "question": "2017年国土资源部《关于改进管理方式切实落实耕地占补平衡的通知》提出要建立以_____为基础、_____为核心的耕地占补平衡新机制。",
+        "answer": [
+            "数量",
+            "产能"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "中"
+    },
+    {
+        "id": 35,
+        "question": "2017年_____指出“做好第三次全国土地调查工作是落实最严格的耕地保护制度和最严格的节约用地制度、保障国家粮食安全和社会稳定、维护农民合法权益的重要内容”",
+        "answer": [
+            "《国务院关于开展第三次全国土地调查的通知》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 36,
+        "question": "_____提出了耕地细化调查、耕地质量等级调查评价和耕地分等定级调查评价的具体要求。",
+        "answer": [
+            "《第三次全国土地调查实施方案》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 37,
+        "question": "《关于做好耕地质量等级调查评价工作的通知》明确了_____调查的重点任务、具体内容以及保障措施。",
+        "answer": [
+            "耕地质量等级"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 38,
+        "question": "_____指出“像保护大熊猫一样保护耕地，着力加强耕地数量、质量、生态‘三位一体’保护，着力加强耕地管控、建设、激励多措并举保护，采取更加有力措施，依法加强耕地占补平衡规范管理”",
+        "answer": [
+            "《中共中央国务院关于加强耕地保护和改进占补平衡的意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 39,
+        "question": "2018年自然资源部成立，统一行使_____职责。",
+        "answer": [
+            "全民所有自然资源资产所有者"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 40,
+        "question": "2018年中央1号文件_____指出“全面落实永久基本农田特殊保护制度，加快划定和建设粮食生产功能区、重要农产品生产保护区，完善支持政策。",
+        "answer": [
+            "《关于实施乡村振兴战略的意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 41,
+        "question": "《关于实施跨省域补充耕地国家统筹有关问题的通知》进一步明确跨省域补充耕地国家统筹实施有关要求，统筹补充的_____。",
+        "answer": [
+            "耕地数量、水田规模和粮食产能"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "中"
+    },
+    {
+        "id": 42,
+        "question": "2019年《中共中央国务院关于建立国土空间规划体系并监督实施的若干意见》提出“建立_____并监督实施”。",
+        "answer": [
+            "国土空间规划体系"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 43,
+        "question": "2019年中央1号文件《关于坚持农业农村优先发展做好“三农”工作的若干意见》指出“完成高标准农田建设任务。巩固和提高粮食生产能力，到2020年确保建成8亿亩_____”、“推进重金属污染耕地治理修复和种植结构调整试点”。",
+        "answer": [
+            "高标准农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 44,
+        "question": "_____提出“永久基本农田质量建设”、“生态退耕；农田整治、土壤培肥改良、退化耕地综合治理、污染耕地阻控修复”。",
+        "answer": [
+            "《关于加强和改进永久基本农田保护工作的通知》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 45,
+        "question": "_____指出“突出抓好耕地保护、地力提升和高效节水灌溉，大力推进高标准农田建设”。",
+        "answer": [
+            "《关于切实加强高标准农田建设提升国家粮食安全保障能力的意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 46,
+        "question": "《自然资源部关于开展全域土地综合整治试点工作的通知》指出“整体推进农用地整理、建设用地整理和乡村生态保护修复，优化生产、生活、生态空间格局，促进耕地保护和土地集约节约利用”、“确保整治区域内耕地质量有提升、新增耕地面积不少于原有耕地面积的_____左右，并做到建设用地总量_____、生态保护红线_____”。",
+        "answer": [
+            "5%",
+            "不增加",
+            "不突破"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "中"
+    },
+    {
+        "id": 47,
+        "question": "《关于进一步做好受污染耕地安全利用工作的通知》对_____安全利用提出“要因地制宜选用安全利用类、治理修复类、严格管控类措施”。",
+        "answer": [
+            "受污染耕地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 48,
+        "question": "2020年中央1号文件_____指出“以粮食生产功能区和重要农产品生产保护区为重点加快推进高标准农田建设，修编建设规划，合理确定投资标准，完善工程建设、验收、监督检查机制，确保建一块成一块”。",
+        "answer": [
+            "《关于抓好“三农”领域重点工作确保如期实现全面小康的意见》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 49,
+        "question": "_____指出：“严禁违规占用耕地绿化造林、严禁超标准建设绿色通道、严禁违规占用耕地挖湖造景、严禁占用永久基本农田扩大自然保护地、严禁违规占用耕地从事非农建设、严禁违法违规批地用地、全面开展耕地保护检查、严格落实耕地保护责任”。",
+        "answer": [
+            "《国务院办公厅关于坚决制止耕地“非农化”行为的通知》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 50,
+        "question": "《国务院办公厅关于防止耕地“非粮化”稳定粮食生产的意见》指出“坚持科学合理利用耕地资源、明确耕地利用优先序、严禁违规占用_____种树挖塘、加强耕地种粮情况监测”。",
+        "answer": [
+            "永久基本农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 51,
+        "question": "《关于做好2020年退化耕地治理与耕地质量等级调查评价工作的通知》指出：“选择一批耕地酸化、盐碱化问题突出的重点县开展退化耕地治理试点，建立集中连片示范区，探索应用土壤改良、地力培肥、治理修复等综合技术模式提升_____”。",
+        "answer": [
+            "耕地质量"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 52,
+        "question": "2021年中央1号文件《关于全面推进乡村振兴加快农业农村现代化的意见》明确指出：“采取‘长牙齿’的措施，落实最严格的耕地保护制度”、“永久基本农田重点用于粮食特别是口粮生产，一般耕地主要用于粮食和棉、油、糖、蔬菜等农产品及饲草饲料生产。必须坚守18亿亩耕地红线，坚决遏制耕地_____防止_____。",
+        "answer": [
+            "‘非农化’、",
+            "‘非粮化’"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "中"
+    },
+    {
+        "id": 53,
+        "question": "2021年《耕地卫片监督方案（试行）》为落实最严格的_____，对卫片监督的内容、方法以及年度检查评估要求做出了规定。",
+        "answer": [
+            "耕地保护制度"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 54,
+        "question": "2022年中央1号文件《关于做好2022年全面推进乡村振兴重点工作的意见》指出要“落实‘长牙齿’的耕地保护硬措施，实行耕地保护党政同责，严守18亿亩耕地红线”、“全面完成高标准农田建设阶段性任务。多渠道增加投入，2022年建设高标准农田_____亿亩，累计建成高效节水灌溉面积_____亿亩”。",
+        "answer": [
+            "1",
+            "4"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 55,
+        "question": "2022年_____指出“全面查明查清我国土壤类型及分布规律、土壤资源现状及变化趋势，真实准确掌握土壤质量、性状和利用状况等基础数据，提升土壤资源保护和利用水平，为守住耕地红线、优化农业生产布局、确保国家粮食安全奠定坚实基础，为加快农业农村现代化、全面推进乡村振兴、促进生态文明建设提供有力支撑”。",
+        "answer": [
+            "《国务院关于开展第三次全国土壤普查的通知》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 56,
+        "question": "2023年中央1号文件《关于做好二〇二三年全面推进乡村振兴重点工作的意见》指出“加强耕地保护和用途管控。严格耕地占补平衡管理，实行部门联合开展补充耕地验收评定和“市县审核、省级复核、社会监督”机制，确保补充的耕地_____。严格控制耕地转为_____。",
+        "answer": [
+            "数量相等、质量相当、产能不降",
+            "其他农用地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "高"
+    },
+    {
+        "id": 57,
+        "question": "2014年刘彦随[23]依据中国新型城镇化背景,形成_____“六位一体”融合机制，实现保护耕地资源、保障粮食安全、保证农民权益的长远战略标。",
+        "answer": [
+            "耕地保护用途管制、整治提质、产能提升、空间规划、流转增值、权益保障"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "高"
+    },
+    {
+        "id": 58,
+        "question": "《中华人民共和国刑法》第三百四十二条规定：“违反土地管理法规，非法占用耕地改作他用，数量较大，造成耕地大量毁坏的，处_____以下有期徒刑或者拘役，并处或者单处罚金”。第四百一十条规定：“国家机关工作人员询私舞弊，违法土地管理法规，滥用职权，非法批准征用、占用土地，或者非法低价出让国有土地使用权，情节严重的，处_____年以下有期徒刑成者拘役，致使国家或者集体利益遭受特别重大损失的，处_____有期徒刑”。",
+        "answer": [
+            "５年",
+            "3",
+            "3年以上7年以下"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "高"
+    },
+    {
+        "id": 59,
+        "question": "_____第三十三条规定：“省、自治区、直辖市人民政府应当严格执行土地利用总体规划和年度土地利用计划，采取措施，确保本行政区域内耕地不减少。",
+        "answer": [
+            "《中华人民共和国土地管理法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 60,
+        "question": "_____第二百四十四条规定：“国家对耕地实行特殊保护，严格限制农用地转为建设用地，控制建设用地总量。",
+        "answer": [
+            "《中华人民共和国民法典》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 61,
+        "question": "_____第四条规定：“制定和实施城乡规划，应当遵循城乡统筹、合理布局、节约土地、集约发展和先规划后建设的原则，",
+        "answer": [
+            "《中华人民共和国城乡规划法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 62,
+        "question": "_____第二十八条规定：“承包期内，发包方不得调整承包地。",
+        "answer": [
+            "《中华人民共和国农村土地承包法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 63,
+        "question": "_____第三十三条规定：“各级人民政府应当加强对农业环境的保护，促进农业环境保护新技术的使用，加强对农业污染源的监测预警，",
+        "answer": [
+            "《中华人民共和国环境保护法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 64,
+        "question": "_____第五十条规定：“县级以上地方人民政府应当依法将符合条件的优先保护类耕地划为永久基本农田，实行严格保护。",
+        "answer": [
+            "《中华人民共和国土壤污染防治法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 65,
+        "question": "_____第五十八条规定：“农民和农业生产经营组织应当保养耕地，合理使用化肥、农药、农用薄膜，增加使用有机肥料，采用先进技术，保护和提高地力，防止农用地的污染、破坏和地力衰退。",
+        "answer": [
+            "《中华人民共和国农业法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 66,
+        "question": "_____第十四条规定：“国家建立农用地分类管理制度，严格保护耕地，严格控制农用地转为建设用地，严格控制耕地转为林地、园地等其他类型农用地。",
+        "answer": [
+            "《中华人民共和国乡村振兴促进法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 67,
+        "question": "_____在国家建设用地供给中规定，“凡有荒地可以利用的，不得占用耕地；凡有劣地可以利用的，不得占用良田”。",
+        "answer": [
+            "《国家建设征用土地条例》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 68,
+        "question": "_____第八条规定：“国家实行占用耕地补偿制度。”第十一条规定：“县级以上地方人民政府应当采取措施，预防和治理耕地土壤流失、污染，有计划地改造中低产田，建设高标准农田，提高耕地质量，保护黑土地等优质耕地，并依法对建设所占用耕地耕作层的土壤利用作出合理安排。”第十三条规定：“省、自治区、直辖市人民政府对本行政区域耕地保护负总责，其主要负责人是本行政区域耕地保护的_____。",
+        "answer": [
+            "《中华人民共和国土地管理法实施条例》",
+            "第一责任人"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "中"
+    },
+    {
+        "id": 69,
+        "question": "_____10章72条，明确耕地保护基本原则、耕地保护在国土空间规划中的优先序、永久基本农田划定和保护要求、耕地转为其他农用地和建设占用耕地管控、耕地质量、耕地生态、监督管理等方面的主要制度。",
+        "answer": [
+            "《耕地保护法（草案）》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 70,
+        "question": "国家土地管理局制定_____，对土地违法案件的类型、处理原则和处理程序等作出明确规定。",
+        "answer": [
+            "《土地违法案件处理暂行办法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 71,
+        "question": "_____规定：“严格依据土地利用总体规划，控制建设用地总量，保护耕地”、“占用耕地与补充耕地相平衡”。",
+        "answer": [
+            "《土地利用年度计划管理办法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 72,
+        "question": "_____利用经济杠杆，提出对闲置土地征收闲置费、新增建设用地的土地有偿使用费要专项用于耕地开发等。",
+        "answer": [
+            "《新增建设用地土地有偿使用费财务管理暂行办法》"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 73,
+        "question": "_____：用以种植农作物的土地,包括休闲地、草田轮作地、撂荒未满三年的轮歇地,以种植农作物为主间有零星果树、桑树或其他树木的土地,每年能保证收获一季的已垦滩地和海涂以及耕地中宽度<1.0m_____~2.0m_____的沟、渠、路和田埂",
+        "answer": [
+            "耕地",
+            "南方",
+            "北方"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 74,
+        "question": "_____：是保持必需的耕地面积和保护耕地质量，免于退化的活动。",
+        "answer": [
+            "耕地保护"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 75,
+        "question": "_____：有水源保证和灌溉设施,在一般年景能正常灌溉，用于种植水生作物的耕地,包括灌溉的水旱轮作地。",
+        "answer": [
+            "灌溉水田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 76,
+        "question": "_____：无灌溉设施,依靠天然降雨来种植水生作物的耕地,包括无灌溉设施的水旱轮作地。",
+        "answer": [
+            "雨育水田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 77,
+        "question": "_____：水田菜地以外,有水源保证和灌溉设施,在一般年景能正常灌溉的耕地。",
+        "answer": [
+            "水浇地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 78,
+        "question": "_____：无灌溉设施,主要靠天然降水种植旱作物的耕地;包括没有灌溉设施,仅靠引洪灌溉的耕地。",
+        "answer": [
+            "早地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 79,
+        "question": "_____：对废弃地采取整治措施,使其恢复到可利用状态的活动。",
+        "answer": [
+            "土地复垦"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 80,
+        "question": "_____：为改变地块零散、插花状况,改良土地,提高土地利用率、生产率、劳动生产率和改善环境,而采取的一整套合理组织土地利用、调整土地权属的综合措施。",
+        "answer": [
+            "土地整理"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 81,
+        "question": "_____：农用地的土地整理,包括归并零散地块、调整农地结构和地界、建设农业基础设施、改良士地等。",
+        "answer": [
+            "农用地整理"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 82,
+        "question": "_____：根据一定时期人口和国民经济对农产品的需求,依据土地利用总体规划确定的不得占用的耕地。",
+        "answer": [
+            "基本农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 83,
+        "question": "_____：为对基本农田实行特殊保护而依法划定的区域。",
+        "answer": [
+            "基本农田保护区"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 84,
+        "question": "_____：用地单位进行非农业建设,经批准占用耕地而又没有条件开垦与所占耕地相当的耕地时，由用地单位缴纳的用于开垦新耕地的费用。",
+        "answer": [
+            "耕地开垦费"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 85,
+        "question": "_____：用于农作物种植的土地。",
+        "answer": [
+            "耕地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 86,
+        "question": "_____：在当前管理水平下，由土壤立地条件、自然属性等相关要素构成的耕地生产能力。",
+        "answer": [
+            "耕地地力"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 87,
+        "question": "_____：土壤作为一个动态生命系统具有的维持其功能的持续能力,用清洁程度、生物多样性表示。",
+        "answer": [
+            "土壤健康状况"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 88,
+        "question": "_____：土壤养分的数量、形态、分解、转化规律以及土壤的保肥、供肥性能。",
+        "answer": [
+            "土壤养分状况"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 89,
+        "question": "_____：土壤溶液的酸碱性强弱程度，以pH值表示。",
+        "answer": [
+            "土壤酸碱度"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 90,
+        "question": "_____：土体中妨碍农作物正常生长发育、对农产品产量和品质造成不良影响的因素。",
+        "answer": [
+            "土壤障碍因素"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 91,
+        "question": "_____：在土壤剖面中出现的阻碍根系伸展、影响水分渗透的层次。",
+        "answer": [
+            "土壤障碍层次"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 92,
+        "question": "_____：土壤底层或地下水的易溶性盐分随毛管水上升到地表,水分散失后,使盐分积累在表层土壤中,当土壤含盐量过高时,形成的盐化危害。或受人类特殊活动影响,在使用高矿化度水进行灌溉及在于旱气候条件下没有排水功能、地下水位较浅的土壤上进行灌溉时产生的次生盐化危害。",
+        "answer": [
+            "土壤盐渍化"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 93,
+        "question": "_____：受地下水或渍水引起土壤处于饱和状态,呈强烈还原状态而形成蓝灰色潜育层的一种土壤形成过程。",
+        "answer": [
+            "士壤潜育化"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 94,
+        "question": "_____：作物能够利用的母质层以上的土体总厚度;当有障碍层时,为障碍层以上的土层厚度。",
+        "answer": [
+            "有效土层厚度"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 95,
+        "question": "_____：经耕种熟化而形成的土壤表土层厚度。",
+        "answer": [
+            "耕层厚度"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 96,
+        "question": "_____：耕层土壤颗粒的大小及其组合情况。",
+        "answer": [
+            "耕层质地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 97,
+        "question": "_____：土壤剖面中不同质地层次的排列。",
+        "answer": [
+            "质地构型"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 98,
+        "question": "_____：预期灌溉用水量在多年灌溉中能够得到满足的程度。",
+        "answer": [
+            "灌溉能力"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 99,
+        "question": "_____：为保证农作物正常生长,及时排除农田地表积水,有效控制和降低地下水位的能力。",
+        "answer": [
+            "排水能力"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 100,
+        "question": "_____：农田四周的林带保护面积与农田总面积之比。",
+        "answer": [
+            "农田林网化率"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 101,
+        "question": "_____：田块平整、集中连片、设施完善、节水高效、农电配套、宜机作业、土壤肥沃、生态友好、抗灾能力强，与现代农业生产和经营方式相适应的旱涝保收、稳产高产的耕地。",
+        "answer": [
+            "高标准农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 102,
+        "question": "_____：为减轻或消除主要限制性因素、全面提高农田综合生产能力而开展的田块整治、灌溉与排水、田间道路、农田防护与生态环境保护、农田输配电等农田基础设施建设和土壤改良、障碍土层消除、土壤培肥等农田地力提升活动。",
+        "answer": [
+            "高标准农田建设"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 103,
+        "question": "_____：为满足农田耕作、灌溉与排水、水土保持等需要而采取的田块修筑和耕地地力保持措施。",
+        "answer": [
+            "田块整治工程"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 104,
+        "question": "_____：作物能够利用的母质层以上的土体总厚度;当有障碍层时,为障碍层以上的土层厚度。",
+        "answer": [
+            "有效土层厚度"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 105,
+        "question": "_____：在现有自然及经济技术条件下，通过开发、复垦或整理等土地整治措施能够转化为耕地的土地资源。",
+        "answer": [
+            "耕地后备资源"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 106,
+        "question": "_____：为满足人类生产、生活和生态功能需要，依据土地整治规划及相关规划，对未利用、低效和闲置利用、损毁和退化土地进行综合治理的活动:是土地开发、土地整理、土地复垦、土地修复的统称。",
+        "answer": [
+            "士地整治"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 107,
+        "question": "_____：对未利用土地，通过工程、生物或综合措施，使其达到可利用状态的活动，包括开发为农用地和开发为建设用地。",
+        "answer": [
+            "土地开发"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 108,
+        "question": "_____：对生产建设和自然灾害损毁的土地，采取综合整治措施，使其达到可利用状态的活动。",
+        "answer": [
+            "土地复垦"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 109,
+        "question": "_____：由耕地地力、土壤健康状况和田间基础设施构成的满足农产品持续产出和质量安全的能力。",
+        "answer": [
+            "耕地质量"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 110,
+        "question": "_____：在固定田块上,通过多年连续定点调查、田间试验、样品采集与分析化验等方式,监测耕地地力、土壤健康状况和田间基础设施等因子动态变化的过程。",
+        "answer": [
+            "耕地质量长期定位监测"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 111,
+        "question": "_____：为进行长期耕地质量监测而设置的观测试验和取样的固定地块及附属设施设备等,简称耕地质量监测点。",
+        "answer": [
+            "耕地质量长期定位监测点"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 112,
+        "question": "_____：土壤立地条件、自然属性、健康状况、农田建设管理等与耕地质量有关的数据、原始记录等,及其相关动态变化信息,表达形式包括:文字、数宇、符号、图形、图像、影像等。",
+        "answer": [
+            "耕地质量信息"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 113,
+        "question": "_____：污染物积累到一定程度，对周边环境造成污染，存在危害食用类农产品质量安全的风险的耕地。",
+        "answer": [
+            "受污染耕地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 114,
+        "question": "_____：通过源头控制、农艺调控、土壤改良、植物修复等措施，减少耕地土壤中污染物的输人、总量或降低其活性，从而降低农产品污染物超标风险，改善受污染耕地土壤环境质量。本文件所规定的治理与修复措施不包括改变食用类农产品种植结构的措施,如改种花卉林木、退耕还林还草等。",
+        "answer": [
+            "受污染耕地治理与修复"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 115,
+        "question": "_____：在耕地污染调查的础上,协同农产品质量安全,分析耕地污染状况评估耕地种植的农产品中污染物超标风险,确定耕地污染治理与修复的区域范围、污染物种类和目标等,其方法、程序目标等由相关标准予以规定。",
+        "answer": [
+            "耕地污染风险评估"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 116,
+        "question": "_____：按照一定时期人口和社会经济发展对农产品的需求，依据土地利用总体规划与相关规定确定的不得占用的耕地。",
+        "answer": [
+            "基本农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 117,
+        "question": "_____：为对基本农田实行特殊保护和管理而依据土地利用总体规划和依照法定程序确定的特定保护区域。",
+        "answer": [
+            "基本农田保护区"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 118,
+        "question": "_____：在基本农田保护区内划定的具体的基本农田地块。",
+        "answer": [
+            "基本农田保护片"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 119,
+        "question": "_____：在基本农田保护片_____界线范围内的土地利用地类图斑。",
+        "answer": [
+            "基本农田图斑",
+            "块"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 120,
+        "question": "_____：依据土地管理法、基本农田保护条例及相关规定，对因土地利用总体规划修编.建设项目占用及其他原因导致基本农田发生变化，按照规定程序重新确定基本农田空间位置、数量、地类等现状信息的过程。包括基本农田调整划定、基本农田占用补划。",
+        "answer": [
+            "基本农田划定"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 121,
+        "question": "_____:依据土地管理法、基本农田保护条例及相关规定，对因土地利用总体规划修编导致基本农田局部发生变化，按照规定程序重新确定基本农田空间位置、数量、地类等现状信息的过程。",
+        "answer": [
+            "基本农田调整划定"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 122,
+        "question": "_____：依据土地管理法、基本农田保护条例及相关规定，对依法批准或认定的建设项目占用基本农田或者因生态退耕、自然灾害损毁等原因导致基本农田发生变化，按照规定程序补充确定基本农田空间位置、数量、地类等现状信息的过程。",
+        "answer": [
+            "基本农田占用补划"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 123,
+        "question": "_____：土地利用总体规划修编中，为补划规划期内不易确定具体范围的建设项目占用的基本农田，在完成上级规划下达的基本农田保护任务基础上多划出一定面积的基本农田。",
+        "answer": [
+            "增划基本农田"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 124,
+        "question": "_____：耕地满足作物生长和安全生产的能力,包括耕地地力、土壤健康状况等自然形成的,投资田间基础设施建设形成的，以及由气候因素、土地利用水平等自然和社会经济因素所决定的满足农产品持续产出和质量安全的要求。",
+        "answer": [
+            "耕地质量"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 125,
+        "question": "_____：直接用于农业生产的土地,包括耕地、林地、草地、农田水利用地、养殖水面等。",
+        "answer": [
+            "农用地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 126,
+        "question": "_____：在全国范围内,按照标准耕作制度,根据规定的方法和程序进行的农用地质量综合评定,划分出的农用地质量等别。",
+        "answer": [
+            "农用地质量等"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 127,
+        "question": "_____：在全国范围内,按照标准耕作制度,在一定的光温、气候资源条件和土地条件下,根据规定的方法和程序进行的农用地质量综合评定,划分出的农用地质量等别。",
+        "answer": [
+            "农用地自然等"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 128,
+        "question": "_____：在全国范围内,按照标准耕作制度,在一定的自然条件和平均土地利用条件下,根据规定的方法和程序进行的农用地质量综合评定,划分出的农用地质量等别。",
+        "answer": [
+            "农用地利用等"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 129,
+        "question": "_____：在全国范围内,按照标准耕作制度,在一定的自然条件、平均土地利用条件、平均土地经济条件下根据规定的方法和程序进行的农用地质量综合评定,划分出的农用地质量等别。",
+        "answer": [
+            "农用地经济等"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 130,
+        "question": "_____：在行政区内,依据构成土地质量的自然属性、社会经济状况和区位条件,根据地方土地管理和实际情况需要，遵照与委托方要求相一致的原则，即根据一定的农用地定级目的,按照规定的方法和程序进行的农用地质量综合、定量评定,划分出的农用地级别。",
+        "answer": [
+            "农用地级"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 131,
+        "question": "_____：能够种植农作物并经常耕种的土地。",
+        "answer": [
+            "耕地"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 132,
+        "question": "_____：在当前管理水平下,由土壤本身特性、自然条件和基础设施水平等要素综合构成的耕地生产能力。",
+        "answer": [
+            "耕地地力"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 133,
+        "question": "_____：耕地土壤中有害物质对人或其他生物产生不良或有害影响的程度。本标准所指耕地环境质量,界定在土壤重金属污染、农药残留与灌溉水质量等方面。",
+        "answer": [
+            "耕地环境质量"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 134,
+        "question": "_____：通过定点调查、观测记载和采样测试等方式,对耕地的理化性状、生产能力和环境质量进行动态评估的一系列工作。",
+        "answer": [
+            "耕地质量监测"
+        ],
+        "domain": "耕地保护Cultivated land protection",
+        "difficulty level": "低"
+    },
+    {
+        "id": 135,
+        "question": "土壤微生物的营养类型有：_____。",
+        "answer": [
+            "化能有机营养型、化能无机营养型、光能有机营养型、光能无机营养型"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 136,
+        "question": "土壤矿质颗粒大小粒级由小到大划分为：_____。",
+        "answer": [
+            "石砾、砂粒、粉砂粒、粘粒"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 137,
+        "question": "土壤中的不良结构体种类有：_____。",
+        "answer": [
+            "块状结构、核状结构、柱状棱柱状结构、片状结构"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 138,
+        "question": "土壤肥力因素有：_____。",
+        "answer": [
+            "水、肥、气和热"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 139,
+        "question": "人们常说的五大圈层系统分别为：_____。",
+        "answer": [
+            "岩石圈、土壤圈、水圈、生物圈、大气圈"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 140,
+        "question": "土壤热量的来源主要有：_____三种。",
+        "answer": [
+            "太阳辐射能、生物热和地热"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 141,
+        "question": "影响土壤可塑性的因素主要有：_____等。",
+        "answer": [
+            "有机质、土壤质地、交换性阳离子"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 142,
+        "question": "目前我国土壤退化的类型主要有：_____等。",
+        "answer": [
+            "水土流失、土壤酸化、土壤盐碱化、土壤污染"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 143,
+        "question": "交换性阳离子可以分为盐基离子和致酸离子，其中，Al3+为：_____，NH4+和Ca2+为：_____。",
+        "answer": [
+            "致酸离子",
+            "盐基离子"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 144,
+        "question": "土壤养分元素根据植物的需要量可以划分为_____和_____。",
+        "answer": [
+            "大量养分元素",
+            "微量养分元素"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 145,
+        "question": "_____:土壤是指地球表面上能够生长植物的疏松表层，它的本质特征是具有肥力。",
+        "answer": [
+            "土壤"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 146,
+        "question": "_____：是指组成矿物的中心离子被电性相同、大小相近的离子所取代而晶格构造保持不变的现象。",
+        "answer": ["同晶替代"],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 147,
+        "question": "_____：指除未分解和半分解的动、植物组织和土壤生命体等以外的土壤中有机化合物的总称。",
+        "answer": [
+            "土壤腐殖质"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 148,
+        "question": "_____：是指经土壤微生物作用后,由多酚和多醌类物质聚合而成的含芳香环结构的，新形成的黄色至棕黑色的高分子有机化合物。",
+        "answer": [
+            "土壤腐殖物质"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 149,
+        "question": "_____：是指土壤有机质通过微生物的作用分解为简单的化合物，同时释放出矿质养分的过程。",
+        "answer": [
+            "矿化过程"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 150,
+        "question": "_____：是指有机质在微生物的作用下，通过生化和化学作用转化为腐殖质的过程。",
+        "answer": [
+            "腐殖化过程"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 151,
+        "question": "_____：单位容积固体土粒(不包含粒间孔隙的体积）的质量。单位为：克/厘米3。",
+        "answer": [
+            "土壤密度"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 152,
+        "question": "_____:通常根据土粒直径大小及其性质上的变化，将其划分为若干组，称为土壤粒级（粒组）。",
+        "answer": [
+            "粒级"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 153,
+        "question": "_____：细粒部分则根据颗粒半径与颗粒在静水中沉降速率的关系_____计算不同粒级土粒在静水中的沉降速度，把土粒看作光滑的实心球体，取与此粒级沉降速率相同的圆球直径作为其当量粒径。",
+        "answer": [
+            "当量粒径",
+            "斯托克斯定律"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 154,
+        "question": "_____:是指土壤中各粒级矿物质土粒所占的百分含量，也称颗粒组成。",
+        "answer": [
+            "机械组成"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 155,
+        "question": "_____：是根据机械组成划分的土壤类型，一般分为砂土、壤土和粘土三类。",
+        "answer": [
+            "土壤质地"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 156,
+        "question": "_____：是土粒互相排列和团聚成为一定形状和大小的结构的土块或土团。",
+        "answer": [
+            "土壤结构体"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 157,
+        "question": "_____:是由土壤结构体的种类、数量及结构体内外的孔隙状况等产生的综合性质。",
+        "answer": [
+            "土壤结构性"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 158,
+        "question": "_____：是指相当于一定的土壤水吸力的孔径。",
+        "answer": [
+            "当量孔径"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 159,
+        "question": "_____：地下水位较浅时，毛管上升水达到最大时土壤的含水量。",
+        "answer": [
+            "毛管持水量"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 160,
+        "question": "_____：毛管悬着水达到最大值时的土壤含水量称为田间持水量。",
+        "answer": [
+            "田间持水量"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 161,
+        "question": "_____：为了可逆地等温地在标准大气压下从指定高度的纯水水体中移动无穷小量的水到土壤水分中去，每单位数量的纯水所需作的功的数量。",
+        "answer": [
+            "土水势"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 162,
+        "question": "_____：是指土壤水承受一定吸力时所处的能态，简称吸力。",
+        "answer": [
+            "土壤水吸力"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 163,
+        "question": "_____:指土壤水分含量与土壤水吸力的关系曲线。",
+        "answer": [
+            "土壤水分特征曲线"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 164,
+        "question": "_____:对于同一土壤,即使在恒温条件下，土壤脱湿曲线（由湿变干）与吸湿曲线（由干变湿）不重合的现象，称为滞后现象。",
+        "answer": [
+            "滞后现象"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 165,
+        "question": "_____：当植物因根无法吸水而发生永久萎焉时土壤含水量，称为萎焉系数或萎焉点。",
+        "answer": [
+            "萎焉系数"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 166,
+        "question": "_____:是指单位质量（重量)或容积的土壤每升高(或降低）1℃所需要（或放出的）热量。",
+        "answer": [
+            "土壤的热容量"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 167,
+        "question": "_____：是指单位厚度（1cm）土层,温度差为1℃时，每秒钟经单位断面_____。",
+        "answer": [
+            "土壤的导热率",
+            "1cm2）通过的热量焦耳数，单位为J/（cm。s.℃"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 168,
+        "question": "_____：是指在标准状况下，在土层垂直方向上每厘米距离内，1℃的温度梯度下，每秒钟流人1cm2土壤断面面积的热量,使单位体积（1cm3)土壤所发生的温度变化。",
+        "answer": [
+            "土壤的热扩散率"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 169,
+        "question": "_____：同晶置换一般形成于矿物的结晶过程,一旦晶体形成，它所具有的电荷就不受外界环境（如pH、电解质浓度等）影响，故称之为永久电荷、恒电荷或结构电荷。",
+        "answer": [
+            "永久电荷"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 170,
+        "question": "_____：数量和符号随介质pH变化而发生变化的表面电荷。",
+        "answer": [
+            "可变电荷"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 171,
+        "question": "_____：是指每千克干土所吸附的全部交换性阳离子的厘摩尔数，以cmol(+）/kg表示。",
+        "answer": [
+            "土壤阳离子交换量"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 172,
+        "question": "_____:就是指土壤中各种交换性盐基离子的总量占阳离子交换量的百分数。",
+        "answer": [
+            "土壤盐基饱和度"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 173,
+        "question": "_____：指的是与土壤固相处于平衡状态的土壤溶液中的H+离子。",
+        "answer": [
+            "活性酸"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 174,
+        "question": "_____：指吸附在土壤胶体表面的交换性致酸离子（H+和Al3+)，交换性氢和铝离子只有转移到溶液中,转变成溶液中的氢离子时，才会显示酸性，故称潜性酸。",
+        "answer": [
+            "潜性酸"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 175,
+        "question": "_____：是土壤在生态系统界面内维持生产,保障环境质量，促进动物与人类健康行为的能力",
+        "answer": [
+            "土壤质量"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 176,
+        "question": "_____:指土体中二氧化硅淋失，而铁铝氧化物相对富集的过程。",
+        "answer": [
+            "富铝化过程"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 177,
+        "question": "_____：用过量的中性盐溶液（如1mol/LKCl或0。06mol/LBaCl2）浸提土壤时，土壤胶体表面吸附的H+或Al3+大部分被交换出来，再以标准碱液滴定溶液中的H+,这样测得的酸度称为交换性酸度，以厘摩尔（+）/千克为单位。",
+        "answer": [
+            "交换性酸度"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 178,
+        "question": "五大成土因素是指：_____,其中_____是主导因素。",
+        "answer": [
+            "母质、气候、地形、时间、生物",
+            "生物"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 179,
+        "question": "土壤基本粒级有：_____。",
+        "answer": [
+            "石砾、砂粒、粉粒、粘粒"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 180,
+        "question": "影响土壤阳离子交换能力的因素是：_____。",
+        "answer": [
+            "电荷价、离子半径和离子浓度"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 181,
+        "question": "按照吸附机理可以把土壤吸附性能分为：_____。",
+        "answer": [
+            "交换性吸附、专性吸附和负吸附"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 182,
+        "question": "产生阳离子专性吸附的土壤胶体物质是：_____，被专性吸附的阳离子主要是BⅠ、BⅡ族和其它过渡金属离子。",
+        "answer": [
+            "铁、铝、锰的氧化物及其水化物"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 183,
+        "question": "土壤钾元素形态可分为：_____。",
+        "answer": [
+            "水溶态钾、交换性钾、非交换性钾、矿物态钾"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 184,
+        "question": "旱作土壤有效水含量为田间持水量与：_____的差值。",
+        "answer": [
+            "萎焉系数"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 185,
+        "question": "良好的土壤结构性，实质上是具有良好的空隙性，即要求：_____大，而且大小孔隙合理分布，有利于土壤水、肥、气、热状况的调节和植物根系活动。",
+        "answer": [
+            "总孔隙"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 186,
+        "question": "根据土壤胶体表面的结构特点,大致可将土壤胶体表面分为：_____等3种类型，2：1型粘土矿物的表面属于硅氧烷类型。",
+        "answer": [
+            "硅氧烷型表面、水合氧化物表面、有机物表面"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 187,
+        "question": "根据土壤水分所受力的作用，土壤水分类型分为：_____。",
+        "answer": [
+            "吸附水、毛管水、重力水"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 188,
+        "question": "土壤三相的导热率顺序是：_____，热容量顺序是：_____。",
+        "answer": [
+            "固>液>气",
+            "液>固>气"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 189,
+        "question": "土壤潜性酸包括：_____，其中：_____更能代表潜性酸度。",
+        "answer": [
+            "交换性酸和水解性酸",
+            "交换性酸度"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 190,
+        "question": "土壤微生物营养类型的多样性包括：_____。",
+        "answer": [
+            "土壤微生物类型多样性、土壤微生物种群多样性、土壤微生物营养类型多样性、微生物呼吸类型多样性"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 191,
+        "question": "土壤胶体电荷产生的原因有：_____。",
+        "answer": [
+            "同晶替代、吸附、断键、解离"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 192,
+        "question": "土壤碱度的液相指标是：_____，固相指标碱化度。",
+        "answer": [
+            "总碱度"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 193,
+        "question": "土壤水分含量的常用表示方法有：_____。",
+        "answer": [
+            "质量含水量、容积含水量、相对含水量、土壤水贮量"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 194,
+        "question": "1：1型粘土矿物是由_____层硅片和_____层铝片结合而成,代表矿物是：_____;2：1型粘土矿物由_____层硅片和_____层铝片结合而成，胀缩型如蒙脱，非胀缩型如伊利石。",
+        "answer": [
+            "1",
+            "1",
+            "高岭石",
+            "2",
+            "1"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 195,
+        "question": "影响交换性阳离子有效度的因素是：_____。",
+        "answer": [
+            "离子饱和度、互补离子和粘土矿物种类"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 196,
+        "question": "影响土壤阳离子交换量的因素是：_____。",
+        "answer": [
+            "土壤质地、PH、粘土矿物类型"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 197,
+        "question": "评价土壤质量的参数指标应符合的条件是：_____。",
+        "answer": [
+            "代表性、通用性、灵敏性和经济性"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 198,
+        "question": "我国将土壤退化分为：_____、不包括以上各项的土壤性质恶化和耕地的非农业占用。",
+        "answer": [
+            "土壤侵蚀、土壤沙化、土壤盐碱化、土壤污染"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 199,
+        "question": "影响土壤微量元素有效性的因素是：_____。",
+        "answer": [
+            "酸碱度、氧化还原电位、有机质、土壤质地"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 200,
+        "question": "土体内物质的移动按机理可分为：_____。",
+        "answer": [
+            "溶迁作用、还原迁移、螯迁作用、悬迁作用、生物迁移"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 201,
+        "question": "水田土壤中的有效氮以_____为主，而旱地土壤中的有效氮则以_____为主。",
+        "answer": [
+            "铵态氮",
+            "硝态氮"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 202,
+        "question": "土壤团粒形成的粘结团聚过程包括：_____、_____、蚯蚓和其它小动物的作用等过程.",
+        "answer": [
+            "凝聚作用、无机物质的粘结作用",
+            "有机物质的胶结及复合作用和有机-矿质复合体"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 203,
+        "question": "土壤中微量元素的形态有：_____。",
+        "answer": [
+            "水溶态、交换态、专性吸附态、有机态、铁、锰氧化物包被态、矿物态"
+        ],
+        "domain": "《土壤学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 204,
+        "question": "_____：一个地区或生产单位的作物组成、配置、熟制、种植方式的综合。",
+        "answer": [
+            "种植制度"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 205,
+        "question": "按水旱条件可将耕作制度划分为：_____。",
+        "answer": [
+            "水田型，水浇地型，雨养型"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 206,
+        "question": "间套作复合群体的六种互补效应分别是：_______________。",
+        "answer": [
+            "密植效应、时间效应、营养异质效应、边际效应、补偿效应",
+            "、",
+            "正对等效应"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 207,
+        "question": "在耕作学中符号“_____”表示间作。",
+        "answer": [
+            "‖"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 208,
+        "question": "_____是间套作的基本单元。",
+        "answer": [
+            "带宽"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 209,
+        "question": "耕作学的研究任务就是建立一个单位（农户或地区）的合理_____。",
+        "answer": [
+            "耕作制度"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 210,
+        "question": "带宽包括各个作物的_____和_____。",
+        "answer": [
+            "幅宽",
+            "间距"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 211,
+        "question": "共处期间的“五早”管理技术是指：_____。",
+        "answer": [
+            "早间苗、早补苗、早中耕除草、早追肥、早治虫"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 212,
+        "question": "_____是种植制度的主要内容与基础。",
+        "answer": [
+            "作物布局"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 213,
+        "question": "休闲是轮作中的一种特殊类型的_____。",
+        "answer": [
+            "茬口"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 214,
+        "question": "粮食作物中，最主要的是：_____五种作物。",
+        "answer": [
+            "水稻、小麦、玉米、薯类、豆类"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 215,
+        "question": "土壤培肥途径有：_____。",
+        "answer": [
+            "生物养地、化学养地、有机与无机结合"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 216,
+        "question": "在耕作学多熟种植中符号“_____”表示年内接茬播种。",
+        "answer": [
+            "—"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 217,
+        "question": "我国最主要的亚热带作物有_____种。",
+        "answer": [
+            "八"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 218,
+        "question": "农业结构是指农业内部：_____的比重与关系。",
+        "answer": [
+            "农、林、牧、副、渔业"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 219,
+        "question": "耕作制度的分区指标是指：_____。",
+        "answer": [
+            "地理位置、地貌、水分条件、热量条件、作物类型、熟制"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 220,
+        "question": "农业自然资源包括：_____等七大类。",
+        "answer": [
+            "光、热、水、气、土壤、生物、矿物"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 221,
+        "question": "_____条件是决定一个地区能否复种的首要条件。",
+        "answer": [
+            "热量"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 222,
+        "question": "_____：指某一生产单位全年作物总收获面积占总耕地面积的百分比。",
+        "answer": [
+            "复种指数"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 223,
+        "question": "_____：日照长度短于其所要求的临界日长时才能开花的作物。",
+        "answer": [
+            "短日照作物"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 224,
+        "question": "_____：是农作物的生物学特点及其对生态条件的要求与当地实际外界环境相适应的程度。",
+        "answer": [
+            "生态适应性"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 225,
+        "question": "_____：在管理条件相同情况下，为获得与间混套作中各个作物同等的产量，所需各种作物单作面积之比的总和。",
+        "answer": [
+            "土地当量比"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 226,
+        "question": "_____：在作物轮（连）作中，给予后作物以种种影响的前茬作物及其茬地的泛称。",
+        "answer": [
+            "茬口"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 227,
+        "question": "_____：在农田休闲期或作物生育期间进行的表土耕作措施，能使土壤表层疏松，形成幂层，能很好地保持土壤水分，减少地面蒸发。",
+        "answer": [
+            "中耕"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 228,
+        "question": "_____：生物在完成其正常生活周期时所表现的对环境的综合适应特性。",
+        "answer": [
+            "生态位"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 229,
+        "question": "_____：作物生长期内进行光合生产的叶面积与日数的乘积。",
+        "answer": [
+            "光合势"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 230,
+        "question": "_____：利用生物及其遗体培养地力或改良土壤。",
+        "answer": [
+            "生物养地"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 231,
+        "question": "_____：指在同一块田地上，有顺序的轮换种植水稻和旱作物的种植方式。",
+        "answer": [
+            "水旱轮作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 232,
+        "question": "_____：指入土较深、作用较强烈，能显著改变土壤耕层物理性状，后效较长的一类土壤耕作措施。",
+        "answer": [
+            "基本耕作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 233,
+        "question": "_____：作物之间通过生物化学物质，直接或间接地产生有利的相互影响，称为正对等效应（化感作用，它感作用），产生不利的相互影响，为负对等效应。",
+        "answer": [
+            "对等效应"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 234,
+        "question": "_____：植物利用单位体积水分所生产的干物质的产量。",
+        "answer": [
+            "水分利用效率"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 235,
+        "question": "_____：一个地区或生产单位农作物的种植制度及相应的养地制度的综合技术体系。",
+        "answer": [
+            "耕作制度"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 236,
+        "question": "_____：与种植制度相适应的以提高土地生产力为中心的一系列技术措施。",
+        "answer": [
+            "养地制度"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 237,
+        "question": "_____：一个地区或生产单位作物结构与配置的总称。",
+        "answer": [
+            "作物布局"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 238,
+        "question": "_____：作物的种类与品种、面积与比例。",
+        "answer": [
+            "作物结构"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 239,
+        "question": "_____：在同一田块上一年内接连种植二季或二季以上作物的种植方式。",
+        "answer": [
+            "复种"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 240,
+        "question": "_____：一年内在同一块田地上种植作物的季数。",
+        "answer": [
+            "熟制"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 241,
+        "question": "_____：又叫单作，是指在同一块田地上、在一个完整的生长期内只种植一种作物的种植方式。",
+        "answer": [
+            "净作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 242,
+        "question": "_____：在同一田块上，于同一生长期内，成行或成带相间种植两种或两种以上作物的种植方式，也称夹作、间种。",
+        "answer": [
+            "间作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 243,
+        "question": "_____：在前季作物生长的后期（收获前）于其株行间播种或移栽后季作物的种植方式。也称套种、串种。",
+        "answer": [
+            "套作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 244,
+        "question": "_____：在同一块田地上、在同一生长期（季节）内混合种植两种或两种以上作物的种植方式，又称为混种。",
+        "answer": [
+            "混作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 245,
+        "question": "_____：在一年内，于同一田地上种、收多种或多季作物的种植方式。",
+        "answer": [
+            "多熟种植"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 246,
+        "question": "_____：边行植株生长发育较中间的好或差的现象，包括边行优势和边行劣势。",
+        "answer": [
+            "边际效应"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 247,
+        "question": "_____：由同种（品种）植物不同植株构成的植物群体。",
+        "answer": [
+            "单一群体"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 248,
+        "question": "_____：由多种（品种）植物的不同植株构成的植物群体。",
+        "answer": [
+            "复合群体"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 249,
+        "question": "_____：边行植株生长发育较中间好的现象；",
+        "answer": [
+            "边行优势"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 250,
+        "question": "_____：边行植株生长发育较中间差的现象；",
+        "answer": [
+            "边行劣势"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 251,
+        "question": "_____：在同一块田地上，连年种植相同作物或相同复种方式的种植方式。",
+        "answer": [
+            "连作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 252,
+        "question": "_____：在同一块田地上，有序地轮换种植不同作物或不同复种方式的种植方式。",
+        "answer": [
+            "轮作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 253,
+        "question": "_____：通过农机具的机械力量作用于土壤，调整耕作层和地面状况，以调节土壤水分、空温度和养分的关系，为作物播种、出苗和生长发育创造适宜土壤环境的技术措施。",
+        "answer": [
+            "土壤耕作"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 254,
+        "question": "_____：又你零耕作_____，是指直接在前茬地上播种，作物播种前和播种后的整个生长期间不采用传统土壤耕作措施进行作物生产的一种耕种方式。",
+        "answer": [
+            "免耕",
+            "zerotillage"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 255,
+        "question": "_____：在常规耕作基础上尽量减少土壤耕作措施、次数和面积的耕作方法。",
+        "answer": [
+            "少耕"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 256,
+        "question": "__________是指土地在一定的用途条件下，对该用途是否适宜以及适宜的程度或生产力的大小或价格的高低。",
+        "answer": [
+            "土地质量",
+            "："
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 257,
+        "question": "_____：是针对某种特定用途，对土地的适宜性能或价值作出评估或判断。",
+        "answer": [
+            "土地质量评价"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 258,
+        "question": "_____：是指对土地为农作物、牧草、林木正常生长以及建筑物所提供的生态环境条件的综合鉴定。",
+        "answer": [
+            "土地适宜性评价"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 259,
+        "question": "_____：是对土地在某种规定用途下可能达到的生产水平的鉴定。",
+        "answer": [
+            "土地生产力评价"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 260,
+        "question": "_____：指对土地在某种规定用途的条件下可能取得的经济效益的综合鉴定。",
+        "answer": [
+            "土地经济评价"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 261,
+        "question": "_____：一般是指土地权利人依照规定对其权利范围内的土地的利用方式或功能。",
+        "answer": [
+            "土地用途"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 262,
+        "question": "_____：国家为了公共利益的需要，依法将农民集体所有土地变为国有土地的行为。",
+        "answer": [
+            "土地征收"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 263,
+        "question": "_____：利用数字、图表、及文字资料，对土地的数量、质量、分布、权属、和利用状况及其动态变化，进行全面、系统的记载、整理分析一项管理措施。",
+        "answer": [
+            "土地统计"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 264,
+        "question": "_____：是指开发商在当初获得土地的时候是无偿获取的，没有向国家缴纳过土地出让金。",
+        "answer": [
+            "划拨土地"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 265,
+        "question": "_____：是指国家为了社会公共利益的需要，依据法律规定的程序和批准权限批准，并依法给予农村集体经济组织及农民补偿后，将农民集体所有土地使用权收归国有的行政行为。",
+        "answer": [
+            "土地征用"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 266,
+        "question": "_____：是指土地行政主管部门依法对单位和个人执行和遵守土地管理法律、法规情况进行监督检查，并对违法者实施法律制裁的行政执法活动。",
+        "answer": [
+            "土地监察"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 267,
+        "question": "_____：是指国家以土地所有者的身份将土地试用权在一定年限内让与土地使用者，并由土地使用者向国家支付土地出让金的行为。",
+        "answer": [
+            "土地使用权转让"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 268,
+        "question": "_____：人类对土地的利用与改造程度以及土地受人为影响的变化程度。",
+        "answer": [
+            "土地利用程度"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 269,
+        "question": "_____是人类可利用的一切自然资源中最基本、最宝贵的资源。",
+        "answer": [
+            "土地"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 270,
+        "question": "_____：是指人民政府依照法律规定在一定的规划区域内，根据国民经济和社会发展规划、土地供给能力以及各项建设对土地的需要，确定和调整土地利用结构、用地布局的总体规划",
+        "answer": [
+            "土地利用规划"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 271,
+        "question": "_____：一定的用地类型按照一定的构成方式的集合。",
+        "answer": [
+            "土地利用结构"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 272,
+        "question": "_____：是一切土地财产额总和，包括土地所有权，土地使用权，土地租赁权，土地抵押权，土地继承权，地役权等多项权利。",
+        "answer": [
+            "土地产权"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 273,
+        "question": "_____：指的是土地利用方式相同的土地资源单元，是根据土地利用的地域差异划分的，是反映土地用途、性质及其分布规律的基本地域单位。",
+        "answer": [
+            "土地利用类型"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 274,
+        "question": "_____：是指生产过程中，单位面积土地上投放的资本和劳动的数量。",
+        "answer": [
+            "土地经营集约度"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 275,
+        "question": "_____：是指调整国家与国有土地使用者之间经济关系的一系列制度的总称。",
+        "answer": [
+            "国有土地有偿使用制度"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 276,
+        "question": "_____：是指经县级以上人民政府批准，在土地使用者缴纳补偿、安置费用后，将该幅土地交付其使用，或者将土地使用权无偿交付给土地使用者使用的行为。这种方式具有无偿性、无期限性和不可转让性的特点。",
+        "answer": [
+            "土地使用权划拨"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 277,
+        "question": "_____是一个综合的地域概念，即在一定地区内，根据不同区域发展战略、现状和潜力、资源环境承载力和土地利用适宜性，将区域划分为若干地域，并针对不同地域提出土地利用调控指标和措施，实行差别化管理。",
+        "answer": [
+            "土地利用分区"
+        ],
+        "domain": "《耕作学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 278,
+        "question": "_____：是指栽培目的所需要的有经济价值的主产品收获量。",
+        "answer": [
+            "作物经济产量"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 279,
+        "question": "_____：是指从稻作栽培过程中省去肓秧和移栽作业，直接把稻种撒播在大田的技术。",
+        "answer": [
+            "水稻直播"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 280,
+        "question": "_____：是通过耕作起垄，达到增温、保水、保肥、改善田间小气候、促进马铃薯增产增收的一项技术。",
+        "answer": [
+            "马铃薯大垄栽培技术"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 281,
+        "question": "_____：是指烟叶完成干物质积累以后，其化学和物理特性转变得最适于烘烤。此时采收的烟叶烘烤后最符合烤烟的质量要求。",
+        "answer": [
+            "烟叶的工艺成熟"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 282,
+        "question": "_____：是指作物经济产量和生物产量的比值。",
+        "answer": [
+            "作物收获指数"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 283,
+        "question": "_____：是用塑料软盘或常规育秧等方法培育出带土的，相互易于分散的水稻秧苗，以人工或机械将秧苗往空中定向抛撒，利用带土秧苗自身重量落入田间定植的一种栽培方式。",
+        "answer": [
+            "水稻抛栽"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 284,
+        "question": "_____：是指利用现代基因工程技术或通过杂交等手段，使普通优质、高产棉花品种获得抗虫效果的外来基因以提高对棉铃虫等田间害虫抗性的棉花品种通称。",
+        "answer": [
+            "转基因抗虫棉"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 285,
+        "question": "_____：凡是对人类有应用价值，为人类所栽培的各种植物。",
+        "answer": [
+            "广义作物"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 286,
+        "question": "_____：是指田间大面积栽培的农艺作物。",
+        "answer": [
+            "狭义作物"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 287,
+        "question": "_____：指作物在一定的生育阶段内或生长周期中，单位面积所积累的干物质的总量。",
+        "answer": [
+            "作物生物产量"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 288,
+        "question": "_____：指光合产物或有机养份的供应。",
+        "answer": [
+            "作物产量形成的“源”"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 289,
+        "question": "_____：指光合产物的贮藏能力。",
+        "answer": [
+            "作物产量形成的“库”"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 290,
+        "question": "_____：指源与库之间的输导系统是物质运输的渠道。",
+        "answer": [
+            "作物产量形成的“流”"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 291,
+        "question": "_____：是指群体的组成、大小、分布、长相及动态变化等。",
+        "answer": [
+            "作物群体结构"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 292,
+        "question": "_____：指水稻受光照时间长短和温度高低影响而生育期发生变化的现象。",
+        "answer": [
+            "水稻的光温反应特性"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 293,
+        "question": "_____：水稻在最适宜的短日照、高温条件下，必需要经过一个最低限度的营养生长期，才能进入生殖生长，开始幼穗分化。",
+        "answer": [
+            "基本营养生长性"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 294,
+        "question": "_____：指从播种开始，在整个过程中只维持土壤湿润，而始终不保持水层的育秧方式。",
+        "answer": [
+            "水稻旱育秧"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 295,
+        "question": "_____：是指以充分利用自然降水和土壤贮水，减少灌溉次数和灌水量，在非充分灌溉条件下实现高产与高水分利用效率相统一的综合栽培技术体系。",
+        "answer": [
+            "冬小麦节水高产栽培技术"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 296,
+        "question": "_____：是指垄底深松技术、垄体分层施肥技术、垄上精量点播技术。",
+        "answer": [
+            "大豆垄三栽培技术"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 297,
+        "question": "_____：是指油菜在冬前和越冬时出现抽薹和开花现象。",
+        "answer": [
+            "油菜早花"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 298,
+        "question": "_____：烟草未到成熟烟株下部叶片提前发黄，以至于枯萎的现象。",
+        "answer": [
+            "烟叶底烘"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 299,
+        "question": "_____：是指小麦生长必须经过一定时间和一定程度的低温后才能正常抽穗、结实，否则不能形成结实器官。",
+        "answer": [
+            "小麦的春化阶段"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 300,
+        "question": "_____：其糖份最高，蔗汁纯度最佳，还原糖最低，品质最好，是品种高糖高榨最佳时期，是最理想的收获期。",
+        "answer": [
+            "甘蔗工艺成熟"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 301,
+        "question": "我国种植面积和总产量均居第一的是_____。",
+        "answer": [
+            "水稻"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 302,
+        "question": "水稻品种的“三性”指：_____。",
+        "answer": [
+            "感光性、感温性、基本营养生长性"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 303,
+        "question": "影响马铃薯炸片、薯条质量和产品率的主要因素是：_____。",
+        "answer": [
+            "还原糖含量、干物质含量、薯块外形"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 304,
+        "question": "棉花属于_____科,我省主要栽培种是_____。",
+        "answer": [
+            "锦葵",
+            "陆地棉"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 305,
+        "question": "根据优质烟叶的要求，烟叶采收以_____最好。",
+        "answer": [
+            "傍晚"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 306,
+        "question": "小麦的阶段发育分为_____和_____二个阶段。",
+        "answer": [
+            "春化",
+            "光照"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 307,
+        "question": "一般玉米在_____始期及时隔行去雄。",
+        "answer": [
+            "抽雄"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 308,
+        "question": "土壤中氯的含量过高会导致烟叶品质_____。",
+        "answer": [
+            "下降"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 309,
+        "question": "大豆开花初期施_____肥，是公认的增产措施。",
+        "answer": [
+            "氮"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 310,
+        "question": "烟叶烘烤全过程分为：_____三个阶段。",
+        "answer": [
+            "变黄、定色、干筋"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 311,
+        "question": "油菜的冻害有：_____四种表现。",
+        "answer": [
+            "根拔、叶片受冻、蕾苔受冻、缩茎受冻"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 312,
+        "question": "甘蔗贮藏须防热、防冻、_____。",
+        "answer": [
+            "防干、防湿"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 313,
+        "question": "我国的三大粮食作物是：_____。",
+        "answer": [
+            "水稻、小麦、玉米"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 314,
+        "question": "作物产量包括：_____。",
+        "answer": [
+            "生物产量、经济产量"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 315,
+        "question": "禾谷类作物的产量，取决于单位面积上的：_____平均粒重三个因素。",
+        "answer": [
+            "穗数、平均每穗粒数、"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 316,
+        "question": "_____主要是指作物与环境矛盾、群体与个体矛盾、作物体内各器官与各种机能间的矛盾。",
+        "answer": [
+            "作物群体矛盾"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 317,
+        "question": "根据栽培的气候生态不同把水稻分为：_____。",
+        "answer": [
+            "籼稻、粳稻"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 318,
+        "question": "水稻的生育类型可分为：_____三种。",
+        "answer": [
+            "衔接型、重叠型、分离型"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 319,
+        "question": "水稻安全齐穗期的气温指标为日平均气温不低于_____℃，日最高气温不低于_____℃。",
+        "answer": [
+            "20",
+            "23"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 320,
+        "question": "水稻种子催芽过程要做到：_____。",
+        "answer": [
+            "快、齐、匀、壮"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 321,
+        "question": "水稻旱育秧要求土壤的酸碱度在_____以下。",
+        "answer": [
+            "6"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 322,
+        "question": "水稻插秧要求：_____。",
+        "answer": [
+            "浅、直、匀、齐"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 323,
+        "question": "抽穗结实期的中心任务是保穗、攻粒、增_____。",
+        "answer": [
+            "粒重"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 324,
+        "question": "根据小麦通过春化阶段对温度要求不同可将小麦品种分为：_____。",
+        "answer": [
+            "春性、冬性、半冬性"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 325,
+        "question": "在玉米施肥中，_____是重要的微量元素肥料。",
+        "answer": [
+            "锌"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 326,
+        "question": "马铃薯贮藏地点应具有通风、防水湿、防冻、防_____的条件。",
+        "answer": [
+            "病虫传播"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 327,
+        "question": "棉花生产上有经济价值的栽培种只有4个，即：_____。",
+        "answer": [
+            "陆地棉、海岛棉、亚非棉、非洲棉"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 328,
+        "question": "棉花田间管理一般分成5个阶段，即播种至出苗、__________。",
+        "answer": [
+            "：",
+            "苗期、蕾期、花铃期、吐絮期"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 329,
+        "question": "棉花“密、早、矮”栽培技术中的“早”包括了：_____等一系列技术措施。",
+        "answer": [
+            "早播、早中耕、早定苗、早打顶、早停水"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 330,
+        "question": "我国栽培的油菜一般分为：_____三大类。",
+        "answer": [
+            "白菜型、芥菜型、甘蓝型"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 331,
+        "question": "优质油菜栽培要注意两防，一防_____，二防_____。",
+        "answer": [
+            "渍害",
+            "茵核病"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 332,
+        "question": "我国主要糖料作物是：_____。",
+        "answer": [
+            "甘蔗、甜菜"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 333,
+        "question": "高产蔗田土壤要求：_____。",
+        "answer": [
+            "深、松、细、平、肥"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 334,
+        "question": "甘蔗需肥特点表现为两头_____、中间_____。",
+        "answer": [
+            "少",
+            "多"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 335,
+        "question": "烟叶采收做到脚叶_____，顶叶_____，腰叶_____。",
+        "answer": [
+            "采嫩不采老",
+            "采老不采嫩",
+            "适熟采"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 336,
+        "question": "烟草目前主要栽培种是红花烟草和_____烟草。",
+        "answer": [
+            "黄花"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 337,
+        "question": "甘蔗宿根栽培技术要抓好“四早”，“四早”是指_____。",
+        "answer": [
+            "早开垄、早施肥灌水、早查苗补苗、早防治病虫害"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 338,
+        "question": "油菜不宜连作，但也不能同_____科其他作物进行轮作。",
+        "answer": [
+            "十字花"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 339,
+        "question": "_____：指在同—块田地上，—年内前茬作物单作收获后，播种下茬作物的种植方式。",
+        "answer": [
+            "接茬复种"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 340,
+        "question": "_____：大豆结荚后，豆粒开始长大，当豆粒达到最大体积与质量时称为鼓粒期。",
+        "answer": [
+            "大豆的鼓粒期"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 341,
+        "question": "_____：是指某—种栽培植物，在—定自然条件和生产条件下，具有—定经济价值和适应性，个体间主要经济性状基本一致而稳定的群体。",
+        "answer": [
+            "品种"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 342,
+        "question": "复种方法有：_____4种形式。",
+        "answer": [
+            "接茬复种、移栽复种、套种复种、再生复种"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 343,
+        "question": "确定冬小麦适宜播期要根据：_____两种。",
+        "answer": [
+            "气温法、积温法"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 344,
+        "question": "冬小麦子粒成熟过程根据其特点包括：_____4个过程。",
+        "answer": [
+            "乳熟期、面团期、蜡熟期和完熟期"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 345,
+        "question": "影响冬小麦粒重的主要因素有：_____等。",
+        "answer": [
+            "温度、光照、水分、气象因素"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 346,
+        "question": "根据玉米子粒形态及淀粉的结构，我国生产上常见玉米可分为：_____。",
+        "answer": [
+            "硬粒型、马齿型、半马齿型、糯质型、爆裂型、甜质型"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 347,
+        "question": "_____：指小麦从种子萌发到新种子形成的过程。",
+        "answer": [
+            "小麦的一生"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 348,
+        "question": "_____：感温性、感光性、基本营养性",
+        "answer": [
+            "水稻三性"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 349,
+        "question": "_____：大豆开花授粉受精后，子房膨大形成软而小的绿色豆荚,当荚长2㎝时即称之结荚。",
+        "answer": [
+            "结荚"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 350,
+        "question": "_____：是指土壤层和松散的母质层之和。",
+        "answer": [
+            "有效土层厚度"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 351,
+        "question": "_____：一般指耕层土壤的质地.质地分为沙土、壤土、粘土和砾质土4个级别。",
+        "answer": [
+            "表层土壤质地"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 352,
+        "question": "_____：指土壤坡面中不同质地的土层的排列次序。",
+        "answer": [
+            "坡面结构"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 353,
+        "question": "土壤盐渍化程度分为：_____4个区间。",
+        "answer": [
+            "无,轻度盐化,中度盐化,重度盐化"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 354,
+        "question": "_____：指在耕层以下出现白姜层、石灰浆石层、砾石层、粘土磬和铁磬等阻碍耕系伸展或影响水分渗透的层次。",
+        "answer": [
+            "土壤障碍层"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 355,
+        "question": "_____：是指受地形和排水体系共同影响的雨后〔或灌溉后〕地表积水情况。",
+        "answer": [
+            "排水条件"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 356,
+        "question": "_____：是指基岩出露地面占地面的百分比。",
+        "answer": [
+            "地表岩石露头度"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 357,
+        "question": "_____：是对土壤形成条件、土壤类型、土壤质量、土壤利用及其潜力的调查，包括立地条件调查、土壤性状调查和土壤利用方式、强度、产能调查。",
+        "answer": [
+            "土壤普查"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 358,
+        "question": "_____：是研究农作物的生长发育、种植技术和管理方法的学科。",
+        "answer": [
+            "作物栽培学"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 359,
+        "question": "_____：是指影响作物正常生长和产量的各种土壤因素或条件。",
+        "answer": [
+            "土壤障碍"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 360,
+        "question": "_____，酸性土壤是指pH值低于7的土壤。",
+        "answer": [
+            "酸性土壤"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 361,
+        "question": "_____：是指pH值高于7的土壤。",
+        "answer": [
+            "碱性土壤"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 362,
+        "question": "_____：指土壤中盐分含量过高的土壤。",
+        "answer": [
+            "盐渍土壤"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 363,
+        "question": "_____：指长期过度湿润的土壤。",
+        "answer": [
+            "水浸土壤"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 364,
+        "question": "_____：是指土壤中氧气含量不足的情况。",
+        "answer": [
+            "缺氧土壤"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 365,
+        "question": "_____：是指土壤pH值下降的过程。",
+        "answer": [
+            "土壤酸化"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 366,
+        "question": "_____：是指土壤中养分含量不足的状态。",
+        "answer": [
+            "土壤贫瘠"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 367,
+        "question": "_____：是指土壤颗粒聚集结构被破坏的情况。",
+        "answer": [
+            "土壤结构破坏"
+        ],
+        "domain": "《作物生产技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 368,
+        "question": "_____：土壤能供应与协调植物正常生长发育所需要的养分和水、空气、热的能力。",
+        "answer": [
+            "土壤肥力"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 369,
+        "question": "_____：植物必需的营养元素在植物体内不论数量多少都是同等重要的；任何一种营养元素的特殊功能都不能被其它元素所代替。",
+        "answer": [
+            "植物营养元素的同等重要律和不可替代律"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 370,
+        "question": "_____：动植物残体被嫌气性微生物分解又合成，从而形成新的、较稳定的、大分子的、复杂的有机化合物（腐殖质）的过程。",
+        "answer": [
+            "腐殖化过程"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 371,
+        "question": "_____：增加一个因子的供应，可以使作物生长增加，但是遇到另一生长因子不足时，即使增加前一因子也不能使作物生长增加，直到缺乏的因子得到补充，作物才能继续增长。",
+        "answer": [
+            "限制因子律"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 372,
+        "question": "_____：是指氮肥中氮素被当季作物吸收利用的百分率。",
+        "answer": [
+            "氮肥利用率"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 373,
+        "question": "_____：是指单位容积原状土壤（包括孔隙）的烘干重量。",
+        "answer": [
+            "土壤容重"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 374,
+        "question": "_____：是指在各种自然和人为因素影响下，导致土壤生产力、环境调控潜力和可持续发展能力下降甚至完全丧失的过程。或指土壤数量减少和质量降低的过程。",
+        "answer": [
+            "土壤退化"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 375,
+        "question": "_____：土壤中各粒级土粒含量（重量）百分率的组合。",
+        "answer": [
+            "土壤质地"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 376,
+        "question": "_____：土壤垂直地带性分布是指山区的土壤随着海拔高度的变化呈现有规律的更替的现象。",
+        "answer": [
+            "土壤分布的垂直地带性"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 377,
+        "question": "_____：土壤吸附的交换性盐基离子占交换性阳离子总量的百分数。",
+        "answer": [
+            "土壤盐基饱和度"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 378,
+        "question": "_____：毛管悬着水的最大量,是在自然条件下，使土壤孔隙充满水分，当重力水排除后土壤所能保持的最大含水量。",
+        "answer": [
+            "田间持水量"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 379,
+        "question": "_____：进入土壤的有机质在微生物的参与下被转化成的结构更复杂、性质更稳定的高分子含氮有机化合物。",
+        "answer": [
+            "腐殖质"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 380,
+        "question": "_____：单位数量的土壤温度升高或降低1℃所需吸收或放出的热能。",
+        "answer": [
+            "土壤热容量"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 381,
+        "question": "_____：在层状铝硅酸盐形成过程中，在晶形不变的前提下，其晶格中的硅离子或铝离子被大小相近、性质相似的其它阳离子所代替的现象。",
+        "answer": [
+            "同晶代换"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 382,
+        "question": "_____：在通气良好的条件下铵离子或氨分子被硝化细菌氧化成硝态氮的过程。",
+        "answer": [
+            "硝化作用"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 383,
+        "question": "_____：就是地球陆地上能够生产绿色植物收获物的疏松表层。",
+        "answer": [
+            "土壤"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 384,
+        "question": "_____：凡是把正在生长的绿色植物直接耕翻或割下后运往另一块田作肥料的。",
+        "answer": [
+            "绿肥"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 385,
+        "question": "_____：一种营养元素促进另一种元素吸收的生理作用。",
+        "answer": [
+            "协同作用"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 386,
+        "question": "凡是施入土壤或喷洒在作物体上，能直接或间接提供给作物养分、从而获得高产优质的农产品；或能改善土壤的理化生物性质，逐步提高土壤肥力、而不会对环境产生有害影响的物质统称为_____。",
+        "answer": [
+            "肥料"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 387,
+        "question": "_____：有机物质在以微生物为主体的作用下，经过分解和合成等过程，形成一类特殊的、复杂的、性质比较稳定的多种高分子有机化合物，包括部分半腐解的有机物质和全部的腐殖质。",
+        "answer": [
+            "土壤有机质"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 388,
+        "question": "_____：土壤中植物能够吸收利用的磷，主要包括大部分有机磷、水溶性磷和可交换形态的磷等。",
+        "answer": [
+            "土壤有效磷"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 389,
+        "question": "_____：大面积农田上生长的无病虫害的作物，当土壤水肥适宜时，在给定的生长环境中，作物达到高产潜力值的条件下，作物叶面蒸腾、棵间土壤蒸发、组成作物体和消耗于光合作用等生理过程所需要的水分总和。",
+        "answer": [
+            "作物需水量"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 390,
+        "question": "_____：对土壤养分贮量和供给能力，以及植株营养状况进行分析测试，从而做出施肥的建议，分为土壤诊断和植株诊断两种。",
+        "answer": [
+            "营养诊断"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 391,
+        "question": "_____：岩石、矿物在外界因素和内部因素的共同作用下逐渐发生崩解或分解作用。",
+        "answer": [
+            "风化作用"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 392,
+        "question": "_____：是指土壤溶液中当某种养分的浓度出现差异时所引起的养分运动。",
+        "answer": [
+            "扩散"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 393,
+        "question": "_____：氮肥利用率是指氮肥中氮素被当季作物吸收利用的百分率。",
+        "answer": [
+            "氮肥利用率"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 394,
+        "question": "_____：被铁、铝氧化物包裹起来的磷酸盐。",
+        "answer": [
+            "闭蓄态磷"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 395,
+        "question": "_____：含有氮、磷、钾三要素中的任何两个或两个以上要素的肥料，包括化成复合肥料和混成复合肥料。",
+        "answer": [
+            "复合肥料"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 396,
+        "question": "_____：植物通过地上部器官吸收养分和进行代谢的过程。",
+        "answer": [
+            "根外营养"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 397,
+        "question": "_____：指不需要消耗植物代谢能的吸收方式，依电化学势梯度吸收，一般从高浓度到低浓度方向",
+        "answer": [
+            "养分的被动吸收"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 398,
+        "question": "_____：氨基酸在微生物及其所分泌酶的作用下，进一步分解成氨（铵盐）的作用。",
+        "answer": [
+            "铵化作用"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 399,
+        "question": "_____：秸秆、植物残体等有机废弃物在好气条件下堆腐而成的有机肥。",
+        "answer": [
+            "堆肥"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 400,
+        "question": "_____：土壤中交换性盐基离子总量占阳离子交换量的百分数。",
+        "answer": [
+            "盐基饱和度"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 401,
+        "question": "_____：植物生长需要各种养分，但决定植物产量的却是土壤中那个相对含量最小的有效养分，在一定范围内，植物产量随最小养分的变化而增减，无视最小养分的施用，即使施用再多其它养分也难以提高植物产量",
+        "answer": [
+            "最小养分律"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 402,
+        "question": "_____：普钙中含有游离酸，会使肥料吸湿结块，导致肥料中的一些成分发生化学变化，导致水溶性的磷酸一钙转变为难溶性的磷酸铁、磷酸铝，从而降低过磷酸钙有效成分的含量，有效性降低。",
+        "answer": [
+            "磷酸退化作用"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 403,
+        "question": "_____：指一种离子的存在会抑制根系对另外一种离子的吸收。",
+        "answer": [
+            "离子颉抗作用"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 404,
+        "question": "_____：作物对某种养分需求十分迫切，养分元素缺乏、过多或者养分元素间比例失调，对作物生长发育产生严重影响的时期。在作物营养临界期，作物对养分要求的数量并不多，但很迫切，如果在作物营养临界期发生营养障碍，即使以后恢复正常营养，也难以挽回损失。",
+        "answer": [
+            "植物营养临界期"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 405,
+        "question": "_____：指土壤溶液中的氢离子浓度导致的土壤酸度，通常用pH值来表示。3.主动吸收：植物逆浓度梯度吸收离子态养分过程，就是主动吸收。",
+        "answer": [
+            "土壤活性酸"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 406,
+        "question": "_____：是指在水力作用下，土壤表层及其母质被剥蚀、冲刷、搬运而流失的过程。",
+        "answer": [
+            "水土流失"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 407,
+        "question": "_____：是指裸露于地表的岩石矿物经风化作用后残留在原地或以搬运沉积后的风化产物。",
+        "answer": [
+            "母质"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 408,
+        "question": "植物必需的营养元素中，氮、磷、钾三种元素的需要量最多，但土壤中含量较少，必须通过施肥才能满足植物对营养的要求，因此，把氮、磷、钾三种元素称为“_____”。",
+        "answer": [
+            "肥料三要素"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 409,
+        "question": "_____：是以家畜粪尿为主，混以各种垫圈材料及饲料残渣等积制而成的有机肥料。",
+        "answer": [
+            "厩肥"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 410,
+        "question": "_____：又称基肥，是在进行植物播种或移植前，结合耕地施入土壤中的肥料。4.土壤容重：单位容积原状土的干重。",
+        "answer": [
+            "底肥"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 411,
+        "question": "_____：配方施肥是根据作物需肥规律、土壤供肥性能与肥料效应，在有机肥为基础的条件下，产前提出氮、磷、钾和微肥的适宜用量和比例以及相应的施肥技术的的一项综合性科学施肥技术。",
+        "answer": [
+            "配方施肥"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 412,
+        "question": "_____：在植物生长期间施用的肥料，它的作用及时补充植物所需的养分，一般用腐熟的有机肥料、速效性化肥作追肥。",
+        "answer": [
+            "追肥"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 413,
+        "question": "_____：耕作时反映出来的特性。",
+        "answer": [
+            "土壤耕性"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 414,
+        "question": "_____：土壤产出农产品的能力。",
+        "answer": [
+            "土壤生产力"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 415,
+        "question": "_____：地球表面同一纬度从东到西，土壤类型有规律的更替。",
+        "answer": [
+            "土壤经度地带性"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 416,
+        "question": "_____：指岩石、矿物在水、二氧化碳等因素作用下发生化学变化而产生新物质的过程。",
+        "answer": [
+            "化学风化作用"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 417,
+        "question": "_____：每克干重的有机物经过一年分解后转化为腐殖质（干重）的克数。",
+        "answer": [
+            "腐质化系数"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 418,
+        "question": "_____：作物吸收利用的氮素占施入土壤氮素的百分率。",
+        "answer": [
+            "氮的利用率"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 419,
+        "question": "_____：消耗能量使养分有选择的透过质膜进入到细胞内部的吸收。",
+        "answer": [
+            "养分的主动吸收"
+        ],
+        "domain": "《土壤肥料学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 420,
+        "question": "_____：在水力、风力、冻融、重力等外营力作用下，土壤、土壤母质被破坏、侵蚀、转运和沉积的全部过程。",
+        "answer": [
+            "土壤侵蚀"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 421,
+        "question": "_____：保护、开发和合理利用水土资源，防治水土流失，减轻干旱、洪涝、风沙等自然灾害，改善生态环境，发展经济的总体纲要，也是进行水土保持工程建设的基本依据。",
+        "answer": [
+            "水土保持规划"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 422,
+        "question": "_____：在生态系统中，处于两种或两种以上的物质体系、能量体系、结构体系、功能体系之间所形成的界面，以及围绕该界面向外延伸的空间过渡带。",
+        "answer": [
+            "生态脆弱带"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 423,
+        "question": "_____：以一定的树种组成、一定结构和成带或网状配置在遭受不同自然灾害（风沙、干旱、干热风、霜冻等）农田（旱作农田与灌溉农田）上的人工林。",
+        "answer": [
+            "农田防护林"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 424,
+        "question": "土壤由_____5种物质组成。",
+        "answer": [
+            "土壤水分、有机质、矿物质、土壤生物、土壤空气"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 425,
+        "question": "土壤养分根据对作物的有效性可分为_____；根据在土壤中的存在形态可分为_____。",
+        "answer": [
+            "速效养分、缓效养分、无效养分",
+            "水溶态、交换态、矿物态、有机态"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 426,
+        "question": "土壤养分向根表面迁移的方式有_____3种途径。根据成因，土壤中的矿物可分为_____和_____两大类。",
+        "answer": [
+            "截获、扩散、质流",
+            "原生矿物",
+            "次生矿物"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 427,
+        "question": "土壤有机物的转化包括_____和_____两个完全对立的过程。",
+        "answer": [
+            "矿质化",
+            "腐殖化"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 428,
+        "question": "土壤的固磷机制主要有_____、_____四种。",
+        "answer": [
+            "化学固定、吸附固定、闭蓄固定",
+            "生物固定"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 429,
+        "question": "磷肥按溶解性大小可分为_____3类。",
+        "answer": [
+            "难溶性磷肥、水溶性磷肥、弱酸溶性磷肥"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 430,
+        "question": "土壤中的胶结物质主要有_____。",
+        "answer": [
+            "无机胶体和有机胶体"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 431,
+        "question": "土壤水分类型有_____。",
+        "answer": [
+            "吸湿水、膜状水、毛管水、重力水"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 432,
+        "question": "速效性钾包括两部分_____。",
+        "answer": [
+            "交换性钾、水溶性钾"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 433,
+        "question": "土壤胶体具有巨大的_____等特性。",
+        "answer": [
+            "比表面和表面能、带电性、分散性和凝聚性"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 434,
+        "question": "作物吸收的氮素形态主要是_____两种。",
+        "answer": [
+            "铵态氮、硝态氮"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 435,
+        "question": "施肥方式包括三个环节_____。",
+        "answer": [
+            "基肥、种肥、追肥"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 436,
+        "question": "氮肥按氮素化合物的形态可分为_____三类。",
+        "answer": [
+            "铵态氮肥、硝态氮肥、酰胺态氮肥"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 437,
+        "question": "风化作用可以分为三类，包括_____。",
+        "answer": [
+            "物理风化、化学风化、生物风化"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 438,
+        "question": "土壤吸收性能的类型__________。",
+        "answer": [
+            "有",
+            "机械吸收、物理吸收、化学吸收、离子交换吸收、生物吸收"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 439,
+        "question": "土壤结构可以分为四类，它们是_____。",
+        "answer": [
+            "块状和核状、柱状和棱柱状、片状、团粒"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 440,
+        "question": "土壤孔隙的类型_____。",
+        "answer": [
+            "通气孔隙，毛管孔隙，无效孔隙"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 441,
+        "question": "土壤水分的形态有_____。",
+        "answer": [
+            "吸湿水、膜状水、毛管水、重力水"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 442,
+        "question": "植物生长发育所必需的元素有_____个。",
+        "answer": [
+            "16"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 443,
+        "question": "影响植物根系吸收养分的外界环境条件有_______________。",
+        "answer": [
+            "土壤温度、土壤湿度、光照、",
+            "PH",
+            "离子间相互作用和通气性"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 444,
+        "question": "土壤岩石的类型有_____三种。",
+        "answer": [
+            "岩浆岩、沉积岩、变质岩"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 445,
+        "question": "土壤热量的主要来源是_____。",
+        "answer": [
+            "太阳辐射热"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 446,
+        "question": "有机物质中含有的养分大部分是_____，而化肥中的养分是_____。",
+        "answer": [
+            "缓效养分",
+            "速效养分"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 447,
+        "question": "土壤中有机物质包括_____。",
+        "answer": [
+            "新鲜的有机物质、半腐解的有机物质和腐殖物质"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 448,
+        "question": "土壤氮素损失_____的途径有_____。",
+        "answer": [
+            "或无效化",
+            "黏粒对铵的固定、有机质的固定、硝酸根的淋失、氨的挥发、反硝化脱氮"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 449,
+        "question": "土壤永久电荷主要来源于_____。",
+        "answer": [
+            "土同晶替代和矿物晶格断键"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 450,
+        "question": "土壤胶体的类型有_____三种。",
+        "answer": [
+            "无机胶体、有机胶体、有机无机复合胶体"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 451,
+        "question": "土壤的物理机械性质包括_____。",
+        "answer": [
+            "土壤的粘结性、粘着性、涨缩性、可塑性"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 452,
+        "question": "速效性钾包括_____两部分。",
+        "answer": [
+            "交换性钾和水溶性钾"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 453,
+        "question": "土壤的固磷机制主要有四种_____。",
+        "answer": [
+            "化学固定、吸附固定、闭蓄固定、生物固定"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 454,
+        "question": "土壤腐殖质_____三部分组成。",
+        "answer": [
+            "胡敏酸、胡敏素、富里酸"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 455,
+        "question": "绿肥除具有一般有机肥的作用外，还具有_____等特殊作用。",
+        "answer": [
+            "生物改土、生物固氮、生物覆盖"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 456,
+        "question": "国际制土壤质地分类中石砾、砂粒、粉砂粒、粘粒的粒径范围分别为_______________________________________________________。",
+        "answer": [
+            ">2mm",
+            "、",
+            "2",
+            "～",
+            "0.02mm",
+            "、",
+            "0.02",
+            "～",
+            "0.002mm",
+            "、",
+            "<0.002mm"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 457,
+        "question": "磷肥的加工方法主要有_____。",
+        "answer": [
+            "机械法、酸制法、热制法"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 458,
+        "question": "微量营养元素从缺乏到过量之间的临界范围小，因此，在施用微肥时必须注意_____。",
+        "answer": [
+            "施用浓度和施用均匀"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 459,
+        "question": "高温堆肥的堆制腐熟过程可分为四个阶段：__________。",
+        "answer": [
+            "发热阶段、高温阶段、降温阶段、后熟保肥",
+            "阶段"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 460,
+        "question": "作物缺钾的症状一般最先在老叶上表现出症状，水稻缺钾的主要症状是_____。",
+        "answer": [
+            "下部叶片出现褐色斑点"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 461,
+        "question": "_____：土壤溶液改变一个pH单位所需要的酸量或碱量，一般用酸碱滴定方法来测定",
+        "answer": [
+            "土壤缓冲容量"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 462,
+        "question": "_____：跟中不同粒级土粒的配合比例，或在土壤质量中各粒级土粒的质量分数。",
+        "answer": [
+            "土壤质地"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 463,
+        "question": "_____：当外部溶液的离子浓度高于细胞内部溶液的离子浓度时，外部溶液中离子可以通过扩散作用透过质膜进入细胞内，直至细胞内外的离子浓度达到平衡为止。",
+        "answer": [
+            "被动吸收"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 464,
+        "question": "_____：由于根系的分泌物和根系的死亡，在距根极近土壤与远离根的土壤性质差异很大，这个区域。",
+        "answer": [
+            "根际"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 465,
+        "question": "_____：就是对土壤养分贮量和供给能力，以及植株营养状况进行分析测试。",
+        "answer": [
+            "营养诊断"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 466,
+        "question": "_______________：喷施于作物叶片上，能够改善作物营养状况，有利于作物生长发育的物质和材料。",
+        "answer": [
+            "叶",
+            "面",
+            "肥"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 467,
+        "question": "_____：土壤溶液中离子利用土体与根系表面之间存在的浓度差，向根系扩散到达根系表面的过程。",
+        "answer": [
+            "离子扩散"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 468,
+        "question": "_____：土壤中的养分储量是有限的，随着作物每次收获，从土壤中带走大量养分，通过轮作换茬不能完全补充，必须向土壤归还作物所带走的养分，即施肥，否则土壤肥力将下降。",
+        "answer": [
+            "养分归还原理"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 469,
+        "question": "_____：在酸性土壤中，大部分磷酸盐常常被铁的氧化物或水化氧化物的胶膜所包被着，在石灰性土壤，磷酸盐的表面也常常形成钙质胶膜。",
+        "answer": [
+            "闭蓄态磷"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 470,
+        "question": "_____：是指当季作物能够直接吸收的养分，包括水溶态养分和吸附在土壤胶体颗粒上容易被换下来的养分，其含量的高低是土壤养分供给的强度指标。",
+        "answer": [
+            "速效养分"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 471,
+        "question": "一般把能溶于296柠檬酸、中性柠檬酸鞍或微碱性柠檬酸溶液的磷肥称为_____，_____。",
+        "answer": [
+            "弱酸性磷肥",
+            "也称枸溶性磷肥"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 472,
+        "question": "_____：土壤被外力塑成某种形状，当外力消失或干燥后，仍能保持所获形状而不变的性能。",
+        "answer": [
+            "土壤可塑性"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 473,
+        "question": "_____：指微生物将大气中的氮气还原为氨，包括共生固氮、联合固氮和自生固氮。",
+        "answer": [
+            "生物固氮"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 474,
+        "question": "_____：溶解在土壤水中的养分随根系吸收水分而形成的水流，到达根系表面的过程。",
+        "answer": [
+            "质流"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 475,
+        "question": "_____：指作物根系能够吸收利用的土壤水分。",
+        "answer": [
+            "土壤有效水"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 476,
+        "question": "_____：作物生长需要吸收多种养分，但决定产量的是土壤中那个相对含量最少的养分因子。此时继续增加其它养分的供给，不仅不能提高产量，而且可能起相反的作用。",
+        "answer": [
+            "最少养分原理"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 477,
+        "question": "_____：同一气候带内，由于地形、地质、水文等自然条件的不同，土壤类型呈现有规律性分布的现象。",
+        "answer": [
+            "土壤区域地带性"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 478,
+        "question": "_____：单位土壤容积内孔隙所占的比例（一般采用百分数形式）。",
+        "answer": [
+            "土壤孔隙度"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 479,
+        "question": "_____：在合理的施肥量范围内，随着肥料用量的增加作物产量提高，但单位肥料的增产量（即实际报酬）却逐渐减少。此时只有更换新的品种，或采取其它新的技术，才能在提高产量的同时提高报酬。",
+        "answer": [
+            "报酬递减规律"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 480,
+        "question": "典型的土壤胶体微粒包括三个部分：_____。",
+        "answer": [
+            "胶楼、胶粒和胶团"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 481,
+        "question": "土壤生物包括_____。",
+        "answer": [
+            "微生物、原生动物、大型动物和藻类植物"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 482,
+        "question": "养分在作物体内短距离运输依靠_____,而长距离运输依靠_____。",
+        "answer": [
+            "胞间连丝",
+            "叶面蒸腾和根压"
+        ],
+        "domain": "《水土保持学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 483,
+        "question": "_____：是由地球陆地部分一定高度和深度的岩石、矿藏、土壤、水文、大气和植被等要素构成的自然综合体，即陆地及其自然附属物。现实的土地还综合了人类正反活动的成果，是一个自然—经济综合体。",
+        "answer": [
+            "土地"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 484,
+        "question": "_____：又称为土地的物理供给或实质供给，是指地球供给人类可利用的土地的数量，这个数量包括已利用的土地资源和未来可利用的土地资源。",
+        "answer": [
+            "土地的自然供给"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 485,
+        "question": "_____：土地的经济供给是指在土地自然供给的基础上，投入劳动进行开发以后，成为人类可直接用于生产、生活各种用途的土地的供给。",
+        "answer": [
+            "土地的经济供给"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 486,
+        "question": "_____：人类为生存和发展利用土地进行各种生产和消费活动的需求",
+        "answer": [
+            "土地需求"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 487,
+        "question": "_____：指经营较优土地的农业资本家所获得的、并最终归土地所有者占有的超额利润，其来源是产品个别生产价格与社会生产价格的差额。",
+        "answer": [
+            "级差地租"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 488,
+        "question": "_____：不管租种什么样的土地都必须缴纳的地租，其来源于产品的价值高于生产价格的差额形成的超额利润。",
+        "answer": [
+            "绝对地租"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 489,
+        "question": "_____：是指直接生产者在生产中所创造的剩余生产物被土地所有者占有的部分。",
+        "answer": [
+            "地租"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 490,
+        "question": "_____：为购买土地而支付的用货币表示的交换价值，是土地未来地租的资本化。",
+        "answer": [
+            "地价"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 491,
+        "question": "_____：人类通过与土地结合获得物质产品和服务的经济活动过程，这一过程是人类与土地进行物质、能量和价值、信息的交流、转换过程。",
+        "answer": [
+            "土地利用"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 492,
+        "question": "_____：在土地上合理增加物质与劳动投入，以提高土地收益的经营方式。",
+        "answer": [
+            "土地集约利用"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 493,
+        "question": "_____：指把集体所有的土地，采取农户经营、大户经营或集体经营的方式，形成相对较大的土地经营规模，降低经营成本，提高经营效率。",
+        "answer": [
+            "土地的规模利用"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 494,
+        "question": "_____：指相对独立的单项经济活动占用土地面积的大小，是反映土地生产要素利用集中程度的一个指标。",
+        "answer": [
+            "土地的利用规模"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 495,
+        "question": "_____：对未来一定时期内土地资源的开发、利用、整治、保护进行综合平衡，做出统筹安排。有广义和狭义之分。土地利用计划是土地宏观管理的重要手段。",
+        "answer": [
+            "土地利用计划"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 496,
+        "question": "_____：采取计划方法指导、调整未来一定时期内土地资源的利用活动。其主要内容是通过制定和执行土地利用计划，实现土地利用的目标。",
+        "answer": [
+            "土地计划利用"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 497,
+        "question": "_____：是建立在社会、经济、人口、资源、环境相互协调和共同发展的基础上的一种发展，其宗旨是既能相对满足当代人的需要，又不能对后代人的发展造成危害。",
+        "answer": [
+            "可持续发展"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 498,
+        "question": "_____：既指满足当代人对土地利用的需求，又不损害后代人利用土地资源满足其自身需求的能力，同时也不损害当代人及后代人生存和发展所需要的其它利益。",
+        "answer": [
+            "土地可持续利用"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 499,
+        "question": "_____：一个国家或地区在一定的生产技术和投入水平下，用于农业生产的全部土地的生产潜力及其所能供养的人口数量。",
+        "answer": [
+            "土地人口承载力"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 500,
+        "question": "_____：是指人们在一定社会制度下拥有土地的经济形式，即人们在一定社会制度下对土地的占有形式，它是整个土地制度的核心。",
+        "answer": [
+            "土地所有制"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 501,
+        "question": "_____：是对土地使用的程序、条件和形式的规定，是土地制度的另一个重要组成部分。",
+        "answer": [
+            "土地使用制"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 502,
+        "question": "_____：指存在于土地之中的排他性完全权利。包括土地所有权、土地使用权、土地租赁权、土地抵押权、地役权。",
+        "answer": [
+            "产权"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 503,
+        "question": "_____：土地所有权是土地所有制的法律体现形式，是土地所有者所拥有的、受到国家法律保护的排他性专有权利，可以细分为占有权、使用权、收益权、处分权等权能。",
+        "answer": [
+            "土地所有权"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 504,
+        "question": "_____：依法对一定土地进行利用、管理并取得收益的权利，是土地使用制的法律体现形式。",
+        "answer": [
+            "土地使用权"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 505,
+        "question": "_____：国家以土地所有者的身份将土地使用权在一定年限内让与土地使用者，并由土地使用者向国家支付土地使用权出让金的行为。",
+        "answer": [
+            "国有土地使用权的出让"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 506,
+        "question": "_____：指土地使用者将土地使用权再转移的行为，包括出售、交换和赠与。",
+        "answer": [
+            "国有土地使用权的转让"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 507,
+        "question": "_____：指土地的产出与土地投入的对比关系，也就是在一定技术条件和投入水平下，一定面积土地上所获得的收入。",
+        "answer": [
+            "土地报酬"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 508,
+        "question": "_____：是指土地生产某种产品的潜在能力，是土地的自然属性。",
+        "answer": [
+            "土地肥力"
+        ],
+        "domain": "《土地经济学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 509,
+        "question": "国土空间规划是由政府主导的、统筹全社会资源、以_____为中心的国家发展规划。",
+        "answer": [
+            "空间"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 510,
+        "question": "_____的两个国家或地区，_____的国家或地区所占用的实际空间面积小。",
+        "answer": [
+            "面积相同",
+            "人口密度高"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 511,
+        "question": "“_____”体现了国土空间规划的服务性。",
+        "answer": [
+            "以人为本"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 512,
+        "question": "_____：指3个以上城市在空间上相互联系、内部各具特色、经济文化协调发展的区域聚合体。",
+        "answer": [
+            "城市群"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 513,
+        "question": "我国_____的目的是完善土地市场管理与监管制度，防范和打击非法占用、流转土地等侵犯土地供给安全的行为，促进农民增收稳定。",
+        "answer": [
+            "设立土地监管机构"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 514,
+        "question": "_____：是指由国家及各级政府根据当地自然资源、社会经济发展水平等因素，对未来10-15年内土地利用、布局等问题进行战略性规划。",
+        "answer": [
+            "土地利用总体规划"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 515,
+        "question": "_____应当充分听取社会公众和各方面的意见和建议，特别是听取少数民族和弱势群体的意见。",
+        "answer": [
+            "国土空间规划编制机构"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 516,
+        "question": "在县级以上的城市建立公墓（园）都应当按照_____，确定与实际成本相适应的收费标准，限制随意涨价。如确需增加经营性服务项目等，要通过公开协商或审批程序，确保公共墓地的正常运行不受影响。这属于国土空间规划的人居环境领域范畴。",
+        "answer": [
+            "市场定价原则"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 517,
+        "question": "全国用于生活、建设用地到2020年限制为__________。",
+        "answer": [
+            "1.8",
+            "亿亩以下"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 518,
+        "question": "建立_____，加强对重点区域、薄弱环节、重大工程、突发事件的监测预警和环境风险防控。这属于国土空间规划的保护安全领域任务。",
+        "answer": [
+            "长效机制和科学评价机制"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 519,
+        "question": "尊重历史文化遗产，保护优美自然景观和环境，在合理利用已有闲置资源的基础上，积极推进_____。这属于国土空间规划的宜居领域任务。",
+        "answer": [
+            "绿色建筑、智能化和生态化改造"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 520,
+        "question": "开展科学评价，制定合理预警和应急响应机制，完善社会治理网络，提供全过程信息公开服务，促进大众参与和监督。这属于国土空间规划的_____领域任务。",
+        "answer": [
+            "综合协调"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 521,
+        "question": "合理集聚和分散不同产业及底盘优势，推进相关要素资源整合、交通物流互联互通、信息技术融合等方面的工作，打造国内高质量的区域经济发展竞争新优势。这属于国土空间规划的_____领域任务。",
+        "answer": [
+            "功能布局"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 522,
+        "question": "充分评估自然环境承载能力和生态保障水平的快速修复能力，实施生态保护修复和生态恢复补偿，加强对重点生态系统的管控和维护。这属于国土空间规划的_____领域任务。",
+        "answer": [
+            "生态发展"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 523,
+        "question": "_____的国土空间规划的重点在于为人民创造优质的就业机会、良好的生活环境以及主动参与社会治理等，强调规划符合国情、贴近实际和符合居民需求。",
+        "answer": [
+            "以人为中心"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 524,
+        "question": "面临某个问题或挑战时，国土空间规划一般采用的基本的思维方式是_____、_____。",
+        "answer": [
+            "多元化、务实性",
+            "长期性和系统性"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 525,
+        "question": "标志着我国在新时代下加强国土空间管理和加速基础设施建设，进一步推进城市化进程的重要文件是《_____》。",
+        "answer": [
+            "中华人民共和国国土空间规划纲要"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 526,
+        "question": "指导城市规划、城乡规划、特殊功能区规划等相关工作，统领各省级、市级国土空间规划工作的政府部门是_____。",
+        "answer": [
+            "自然资源部"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 527,
+        "question": "国土空间规划具有_____，是以未来为取向，因地制宜的规划形式。",
+        "answer": [
+            "前瞻性"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 528,
+        "question": "中央的国土空间规划和地方的国土空间规划没有冲突，两者之间存在着_____的关系。",
+        "answer": [
+            "相互补充和相互促进"
+        ],
+        "domain": "《国土空间规划》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 529,
+        "question": ".一般了解土壤污染情况时，采集表层土的采样深度为_______________。如要了解土壤污染深度，则应按土壤剖面层次_____。",
+        "answer": [
+            "0",
+            "～",
+            "20cm",
+            "分层取样"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 530,
+        "question": "在土壤背景值研究中，采用了土壤试样的全分解方法。所谓“_____”就是把土壤的矿物晶格彻底破坏，使土壤中的待测元素全部进入试样溶液中。",
+        "answer": [
+            "全分解"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 531,
+        "question": "土壤样品的采样方法有_____四种方法。",
+        "answer": [
+            "对角线采样法、梅花形采样法、棋盘式采样法、蛇形采样法"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 532,
+        "question": "无论采用新鲜土壤样品或风干土壤样品，都需测定_____以便计算土壤中各成分按_____为基准时的校正值。",
+        "answer": [
+            "土壤含水量（率）",
+            "烘干土"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 533,
+        "question": "野外采集回来的土样，一般要经过以下处理程序：__________制成待分析样品，满足各种分析要求。",
+        "answer": [
+            "风干、磨细、过筛、混合",
+            "，分装"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 534,
+        "question": "对土壤环境质量评价，通常采用的模式有_____等。",
+        "answer": [
+            "污染指数、超标率（倍数）评价、内梅罗污染指数评价、背景值及标准偏差评价、综合污染指数法"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 535,
+        "question": "土壤样品全分解方法可分为_______________两种。",
+        "answer": [
+            "酸分解方法",
+            "和",
+            "碱熔融法"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 536,
+        "question": "土壤样品所用网筛材质，在测定金属时使用_____，测定有机污染物时使用_____。",
+        "answer": [
+            "尼龙制品",
+            "铜（金属）制品"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 537,
+        "question": "测定有机污染物的新鲜土壤样品要选用_____盛装，在低温冷冻下保存并尽快进分析。",
+        "answer": [
+            "玻璃容器"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 538,
+        "question": "库存的土壤样品要密封永久保存，分析取用后的样品一般保留_____，预留样品一般保留__________。",
+        "answer": [
+            "半年",
+            "2",
+            "年"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 539,
+        "question": "土壤或底质样品脱水方法主要有_____四种。",
+        "answer": [
+            "自然风干、离心分离、真空冷冻干燥、无水硫酸钠"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 540,
+        "question": "在农田耕作层采土壤混合样时，组成混合样的分点数要在__________。",
+        "answer": [
+            "5~20",
+            "个"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 541,
+        "question": "土壤样品经酸法消解完全后，其消解液一般应呈____________________（含铁量较高的土壤），没有明显沉淀物。",
+        "answer": [
+            "白",
+            "色或",
+            "淡黄",
+            "色"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 542,
+        "question": "采集土壤样品要遵循的两个原则是____________________。",
+        "answer": [
+            "随机",
+            "和",
+            "等量",
+            "原则"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 543,
+        "question": "土壤测定不确定度来源于____________________。",
+        "answer": [
+            "称样",
+            "、",
+            "样品消化",
+            "、样品稀释定容及由标准与测定仪器响应的拟合直线"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 544,
+        "question": "土壤剖面采样次序是_____，先采剖面的底层样品，最后采上层样品。",
+        "answer": [
+            "自下而上"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 545,
+        "question": "大气污染型土壤监测单元以污染源为_______________，灌溉水污染和农用固体废物污染型土壤监测单元采用__________，单元灌溉水污染监测单元采用_______________。",
+        "answer": [
+            "中心",
+            "放射状",
+            "布点",
+            "均匀",
+            "布点",
+            "按水流方向",
+            "带状",
+            "布点"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 546,
+        "question": "土壤样品的测定结果一般保留_____位有效数字，分析结果的精密度数据一般只取_____位有效数字。",
+        "answer": [
+            "3",
+            "1"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 547,
+        "question": "在土壤标准分级中，为保障农业生产，维护人体健康的土壤限制值执行__________。",
+        "answer": [
+            "二级",
+            "标准"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 548,
+        "question": "土壤采样的布点方法有__________三种。",
+        "answer": [
+            "简单随机法、分块随机法和",
+            "系统随机法"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 549,
+        "question": "采集区域环境背景土壤样品时，一般采集____________________的表层土。",
+        "answer": [
+            "0",
+            "～",
+            "20",
+            "cm"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 550,
+        "question": "土壤颜色可采用__________，也可按土壤颜色三角表进行描述。",
+        "answer": [
+            "门塞尔比色卡",
+            "比色"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 551,
+        "question": "土壤背景采样点离铁路、公路至少_______________。",
+        "answer": [
+            "300",
+            "m",
+            "以上"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 552,
+        "question": "土壤样品测定，除挥发酚等项目需用新鲜土样外，多数项目需用__________。",
+        "answer": [
+            "风干",
+            "土样"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 553,
+        "question": "《_____》规定的常规监测项目中的基本项目包括pH值和阳离子交换量。",
+        "answer": [
+            "土壤环境监测技术规范"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 554,
+        "question": "对于面积较小的土壤污染调查和突发性土壤污染事故调查可__________。",
+        "answer": [
+            "直接",
+            "采样"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 555,
+        "question": "区域土壤环境背景调查时，采样点可采__________。",
+        "answer": [
+            "表层样",
+            "或土壤剖面样"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 556,
+        "question": "一般农田土壤环境监测采集耕作层土样，种植一般农作物采____________________，种植果林类农作物采____________________。",
+        "answer": [
+            "0",
+            "～",
+            "20",
+            "cm",
+            "0",
+            "～",
+            "60",
+            "cm"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 557,
+        "question": "土壤监测平行双样（含量范围10～100mg/kg）最大允许相对偏差为__________。",
+        "answer": [
+            "10",
+            "%"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 558,
+        "question": "土壤样品分析中，对数据质量评价，通常采用__________。",
+        "answer": [
+            "精密度、准确度、检出率、定量水平",
+            "等质量评价方法"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 559,
+        "question": "建设项目土壤环境评价监测采样中，非机械干扰土样的每个柱状样取样深度都为_____。",
+        "answer": [
+            "100cm"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 560,
+        "question": "污染事故监测土壤采样时，如果是固体污染物抛洒污染型，等打扫后采集表层_____土样，采样点数不少于_____个。",
+        "answer": [
+            "5cm",
+            "3"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 561,
+        "question": "土壤监测的布点数量要满足_____的基本要求，由均方差和绝对偏差、变异系数和相对偏差计算样品数是样品数的下限数值。",
+        "answer": [
+            "样本容量"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 562,
+        "question": "测试项目需要新鲜土壤样品时，采集后用可密封的_____，并且在__________保存。",
+        "answer": [
+            "聚乙烯或玻璃瓶容器盛装",
+            "4",
+            "℃以下"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 563,
+        "question": "固体废物样品制样时，粒度大于筛孔尺寸、不能筛过的样品应该不多于总量的__________。",
+        "answer": [
+            "5",
+            "%"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 564,
+        "question": "平行双样测定的精密度用_____表示。",
+        "answer": [
+            "相对偏差"
+        ],
+        "domain": "《土壤环境监测》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 565,
+        "question": "对违法用地及其建筑物和其他设施，按法律规定应当拆除或没收的，不得以__________)_______________)取代",
+        "answer": [
+            "(罚款",
+            "",
+            "、",
+            "(",
+            "补办手续"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 566,
+        "question": "土地利用年度计划指标包括_____)",
+        "answer": [
+            "(农用地转用计划指标、土地开发整理计划指标、耕地保有量计划指标"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 567,
+        "question": "国家征收土地的，依照法定程序批准后，由（_____）予以公告并组织实施。",
+        "answer": [
+            "县级以上地方人民政府"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 568,
+        "question": "省、自治区、直辖市的土地利用总体规划，报（_____）批准。",
+        "answer": [
+            "国务院"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 569,
+        "question": "国家实行（_____）制度。国务院授权的机构对省、自治区、直辖市人民政府以及国务院确定的城市人民政府（_____）和（_____）进行督察。",
+        "answer": [
+            "土地督察",
+            "土地利用",
+            "土地管理情况"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 570,
+        "question": "根据国民经济和社会发展状况，土地等级每（_____）年重新评定一次。",
+        "answer": [
+            "5"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 571,
+        "question": "依照国家产业政策，国土资源部对淘汰类、限制类项目分别实行_____)用地。",
+        "answer": [
+            "(禁止和限制"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 572,
+        "question": "国家实行占用耕地补偿制度。非农业建设经批准占用耕地的，按照\"（_____）\"的原则，由占用耕地的单位负责开垦与所占用耕地的数量和质量相当的耕地；没有条件开垦或者开垦的耕地不符合要求的，应当按照省、自治区、直辖市的规定缴纳（_____），专款用于开垦新的耕地。",
+        "answer": [
+            "占多少，垦多少",
+            "耕地开垦费"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 573,
+        "question": "土地利用总体规划实行（_____）审批。",
+        "answer": [
+            "分级"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 574,
+        "question": "国家实行占用耕地_____)。",
+        "answer": [
+            "(补偿制度"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 575,
+        "question": "农用地转用批准后，满两年未实施具体征地或用地行为的，批准文件_____)。",
+        "answer": [
+            "(自动失效"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 576,
+        "question": "新增建设用地土地有偿使用费实行先缴后分，按规定的标准就地全额缴入国库，不得_____)，并由国库按规定的比例就地分成划缴。",
+        "answer": [
+            "(减免"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 577,
+        "question": "腐殖化过程：动植物残体被嫌气性微生物分解又合成，从而形成新的、较稳定的、大分子的、复杂的有机化合物（_____）的过程。",
+        "answer": [
+            "腐殖质"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 578,
+        "question": "_____：是指可溶性磷酸盐转变为难溶性磷酸盐，即有效态磷转化为无效态磷的过程。",
+        "answer": [
+            "磷的固定"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 579,
+        "question": "_____：是指化学上是中性的，但由于作物选择性地吸收养分离子，导致有些养分离子残留在土壤中，并使土壤变酸的肥料。",
+        "answer": [
+            "生理酸性肥料"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 580,
+        "question": "_____：指良好的土壤或可利用的土地，在风蚀和风力堆积作用下，变成含沙很多的土壤或土地甚至变成沙漠的过程。",
+        "answer": [
+            "土壤沙化"
+        ],
+        "domain": "《土地管理》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 581,
+        "question": "_____是对某一中心事物而言，广义指围绕着人群的空间及其可影响人类生产、生活和发展的各种自然因素和社会因素的总和。",
+        "answer": [
+            "环境"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 582,
+        "question": "_____：对人类及动、植物有害的化学物质经人类活动进入土壤，其积累数量和速度超过土壤净化速度的现象。",
+        "answer": [
+            "土壤污染"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 583,
+        "question": "_____：能够超量吸收和积累重金属的植物。",
+        "answer": [
+            "超富集植物"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 584,
+        "question": "_____：未受或少受人类活动（特别是人为污染）影响的土壤环境本身的化学元素组成及其含量。",
+        "answer": [
+            "土壤背景值"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 585,
+        "question": "_____：湖泊、水库和海湾等封闭或半封闭的水体中氮磷等植物营养物质含量过多所引起的水质污染现象。",
+        "answer": [
+            "水体富营养化"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 586,
+        "question": "_____：土壤中农药因降解等原因含量减少75%-100%所需要的时间。",
+        "answer": [
+            "农药残留期"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 587,
+        "question": "_____：覆盖于地球和浅水域底部的土壤所构成的一种连续体或覆盖层，它是地圈系统的重要组成部分。",
+        "answer": [
+            "土壤圈"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 588,
+        "question": "_____：采用化学、物理学和生物学的技术和方法从降低土壤中污染物的浓度，固定土壤污染物，将土壤污染物转化成为低毒或无毒的物质，阻断土壤污染物在生态系统中的转移途径的总称。",
+        "answer": [
+            "土壤污染修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 589,
+        "question": "_____：对未挖掘的土壤进行治理的过程，对土壤没有太大的扰动。",
+        "answer": [
+            "原位修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 590,
+        "question": "_____：指一个或几个有害的生物种群从外界环境侵入土壤，大量繁衍，破坏原来的动态平衡，对人类健康和土壤生态系统造成不良影响。",
+        "answer": [
+            "土壤生物污染"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 591,
+        "question": "_____：一定土壤环境单元、在一定时限内、遵循环境质量标准，既维持土壤生态系统的正常结构与功能，保证农产品的生物学产量与质量，也不使环境系统污染时，土壤环境所能容纳污染物的最大负荷量。",
+        "answer": [
+            "土壤环境容量"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 592,
+        "question": "_____：输入土壤环境中的足以影响土壤环境正常功能，降低作物产量和生物学质量，有害于人体健康的那些物质。包括无机污染物、有机污染物、土壤生物污染、固体废弃物和放射性污染。",
+        "answer": [
+            "土壤污染物"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 593,
+        "question": "_____：在生产、生活和其他活动中产生的丧失原有利用价值或者虽未丧失利用价值但被抛弃或者放弃的固态、半固态和置于容器中的气态的物品、物质以及法律、行政法规规定纳入固体废物管理的物品、物质。",
+        "answer": [
+            "固体废物"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 594,
+        "question": "_____：在地球表面生物，气候，母质，地形和时间等因素综合作用下所形成的能够生长植物，具有生态环境调控功能，处于永恒变化中的矿物质与有机质的疏松混合物。",
+        "answer": [
+            "土壤"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 595,
+        "question": "_____：土壤中生物与非生物环境的相互作用通过能量转换和物质循环构成的整体。",
+        "answer": [
+            "土壤生态系统"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 596,
+        "question": "_____：在人类生存和自然生态系统不致受害的前提下，某一环境所能容纳的污染物的最大负荷量。",
+        "answer": [
+            "环境容量"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 597,
+        "question": "_____：充分开发合理利用一切农业资源，合理的协调农业资源承载力与经济发展的关系，提高资源转化率，使农业资源在时间和空间上优化配置\t，达到农业资源永续利用，使农产品能够不断满足当代人和后代人的需求。",
+        "answer": [
+            "农业可持续发展"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 598,
+        "question": "_____：利用土壤多相，疏松多孔的特点，通过吸附、稀释、扩散、淋溶、挥发、机械阻留等物理作用过程是土壤污染物趋于稳定，毒性或活性减小甚至排出土壤的过程。",
+        "answer": [
+            "物理净化作用"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 599,
+        "question": "_____：通过凝聚和沉淀反应，氧化还原，络合和螯合，酸碱中和等过程，使污染物迁出土壤之外或转化为不被植物吸收的难溶物，并不改变土壤结构和功能的作用方式。",
+        "answer": [
+            "化学净化作用"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 600,
+        "question": "_____：因使用农药而残留于人类食品或动物饲料中的农药母体化合物，还包括在毒理学上有意义的降解产物。",
+        "answer": [
+            "农药残留"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 601,
+        "question": "_____：有机污染物的持久性，可认为该化合物保持其分子完整性，以及通过在环境中运输和分配，维持其理化性质和功能特性的能力。",
+        "answer": [
+            "积累"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 602,
+        "question": "_____：狭义上说，是指用化学方法生产的肥料；广义上说，化肥是指工业生产的一切无机肥及缓效肥，它是氮、磷、钾、微量元素肥料和复合肥的总称。",
+        "answer": [
+            "肥料"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 603,
+        "question": "_____：在城市居民日常生活中或者为城市日常生活提供服务的活动中产生的固体废物以及法律、行政法规规定视为城市生活垃圾的固体废物。",
+        "answer": [
+            "城市生活垃圾"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 604,
+        "question": "_____：是指列入国家危险废物名录或者根据国家规定的危险废物鉴别标准和鉴别方法认定的具有毒性、易燃性、反应性、腐蚀性、浸出毒性和疾病传染性等危险特性的废物。",
+        "answer": [
+            "危险废物"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 605,
+        "question": "_____：废水处理过程中产生的沉淀物质以及从污水表面撇出浮沫的残渣。简单地讲，污泥中污水中的固体部分，在成分上界于有机物和无机物的半固体废物。",
+        "answer": [
+            "污泥"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 606,
+        "question": "_____：通过适宜的手段减少固体废物数量、体积，并尽可能地减少固体废物的种类、降低危险废物的有害成分浓度、减轻或清除其危险特性等，从“源头”上直接减少或减轻固体废物对环境和人体健康的危害，最大限度地合理开发和利用资源和能源的各种有效措施。",
+        "answer": [
+            "减量化"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 607,
+        "question": "_____：农业生产、农产品加工、畜禽养殖业和农村居民生活排放的废弃物的总称。",
+        "answer": [
+            "农业废弃物"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 608,
+        "question": "_____：就是指采用适当的技术从固体废物中回收有用组分和能源，加速物质和能源的循环，再创经济价值的技术和方法。",
+        "answer": [
+            "资源化"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 609,
+        "question": "_____：能源工业的固体废物，热电厂主要消耗煤来发电，因而是粉煤灰的主要来源，其他所有烧煤的锅炉、烟囱也是粉煤灰的重要来源。",
+        "answer": [
+            "粉煤灰"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 610,
+        "question": "_____：对已产生又无法或暂时尚不能资源化利用的固体废物，经过物理、化学或生物方法，进行对环境无害或低危害的安全处理、处置，达到废物的消毒、解毒或稳定化，以防止并减少固体废物的污染危害。",
+        "answer": [
+            "无害化"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 611,
+        "question": "_____：运用化学制剂使土壤中污染物发生酸碱反应，氧化还原，裂解，中和，沉淀，聚合，固化，玻璃质化学反应，使污染物从土壤中分离、降解转化为低毒或无毒化学形态的技术。",
+        "answer": [
+            "化学修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 612,
+        "question": "_____：通过对土壤物理性状和物理过程的调节或控制，使污染物在土壤中分离、转化为低毒或无毒物质的过程。",
+        "answer": [
+            "物理修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 613,
+        "question": "_____：利用天然存在的或特别培养的微生物在可调控的环境条件下将土壤中有毒污染物转化为无毒污染物的处理技术。",
+        "answer": [
+            "生物修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 614,
+        "question": "_____：指对挖掘后的土壤进行原地处理和异地处理的过程。",
+        "answer": [
+            "异位修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 615,
+        "question": "_____：利用植物及其根际微生物对土壤污染物的吸收、挥发、转化、降解、固定作用而去除土壤中污染物的修复技术。",
+        "answer": [
+            "植物修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 616,
+        "question": "_____：是指在自然因素作用下，通过土壤的自身的作用，使污染物在土壤环境中的数量、浓度或形态发生变化，活性、毒性降低的过程。",
+        "answer": [
+            "土壤自净作用"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 617,
+        "question": "__________)：具有毒性、生物蓄积性和半挥发性，在环境中持久存在，能在大气环境中长距离迁移对人类健康和环境造成严重危害的有机污染物。",
+        "answer": [
+            "持久性有机污染物（",
+            "POPS"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 618,
+        "question": "_____：生物体中污染物母体及其代谢物的浓度与水质该污染物母体及其代谢产物的浓度的比值。",
+        "answer": [
+            "生物富集系数"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 619,
+        "question": "_____：通过物理、化学、生物、生态学原理，并采用人工控制措施，使土壤污染物浓度降低，实现污染物无害化和稳定化，以达到人们期望的解毒效果的技术措施。",
+        "answer": [
+            "土壤污染修复"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 620,
+        "question": "_____：污染物的阴阳离子与土壤胶体的阴阳离子发生离子交换吸附作用。",
+        "answer": [
+            "物理化学净化作用"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 621,
+        "question": "_____：有机污染物在微生物及其酶的作用下，通过生物降解，被分解为简单的无机物而消散的过程。",
+        "answer": [
+            "生物净化作用"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 622,
+        "question": "_____：是指造成环境污染和对生态系统产生有害影响的有机化合物。可分为天然有机污染物和人工合成有机污染物。",
+        "answer": [
+            "有机污染物"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 623,
+        "question": "_____：有机物在生物体内经过酶类及其他物质的作用。发生变化，进而消化和排泄的过程。",
+        "answer": [
+            "代谢"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 624,
+        "question": "_____：有机由于各种因素的作用（化学、生物、光照、酸碱等）而逐渐分解，转变为无毒物质的过程。可分为非生物降解和生物降解。",
+        "answer": [
+            "降解"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 625,
+        "question": "_____：有机污染物在环境中受光、热及化学因子作用引起的降解。",
+        "answer": [
+            "非生物降解"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 626,
+        "question": "_____：污染物在环境中发生的空间位置的相对移动过程，可分为机械性、物理—化学性和生物迁移。有机污染物的迁移能力强，则在土壤环境中易扩散稀释，毒害降低。",
+        "answer": [
+            "迁移"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 627,
+        "question": "_____：外源物质经各种途径透过有机体的生物膜而进入血液循环的过程，主要通过消化道、呼吸道和皮肤三种途径。有机污染物易于吸收，则对生物体潜在危害或通过食物链进入人体的危害较大。",
+        "answer": [
+            "吸收"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 628,
+        "question": "_____：能防治植物病虫害、消灭杂草和调节植物生长的一类化学药剂。常见农药有杀虫剂、杀菌剂、除草剂、杀线虫剂、杀软体动物剂、杀鼠剂、植物生长调节剂。",
+        "answer": [
+            "化学农药"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 629,
+        "question": "_____：土壤表面因受太阳辐射和紫外线能而引起的农药分解，称为光化学降解",
+        "answer": [
+            "光化学降解（农药光解作用）"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 630,
+        "question": "_____：指在被污染的土壤上覆盖上非污染土壤。",
+        "answer": [
+            "客土"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 631,
+        "question": "_____：指土壤环境中污染物质的来源，主要包括工业污染源、农业污染源和生物污染源。",
+        "answer": [
+            "土壤环境污染源"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 632,
+        "question": "_____：是一种通过布置在不饱和土壤层中的提取井，利用真空向土壤导入空气，空气流经土壤时，挥发性和半挥发性有机物随空气进入真空井而排出土壤，土壤中污染浓度因而降低的技术。",
+        "answer": [
+            "土壤蒸气提取技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 633,
+        "question": "_____是指通过物理的或化学的作用以固定污染物的一组技术。",
+        "answer": [
+            "固化稳定化技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 634,
+        "question": "_____指向土壤添加黏结剂而引起石块状固体形成的过程；",
+        "answer": [
+            "固化技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 635,
+        "question": "_____：指通过化学物质与污染物之间的化学反应使污染物转化成为不溶态的过程。",
+        "answer": [
+            "稳定化技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 636,
+        "question": "_____：是指使用高温熔融污染土壤使其形成玻璃体或固结成团的技术。",
+        "answer": [
+            "玻璃化技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 637,
+        "question": "_____：是利用高温所产生的物理学或化学作用，如挥发、燃烧、热解将土壤中的有毒物质去除或破坏的过程。",
+        "answer": [
+            "热处理技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 638,
+        "question": "_____：高温条件下（800-2500℃）通过热氧化作用以破坏污染物的异位热处理技术。",
+        "answer": [
+            "焚烧"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 639,
+        "question": "_____：向土壤施加直流电场,在电解、电迁移、扩散、电渗透、电泳等作用的共同作用下，使土壤溶液中的离子向电极附近富集从而被除数去除的技术,称为电动力学技术。",
+        "answer": [
+            "电动学修复技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 640,
+        "question": "_____：指离子和离子型络合物在外加直流电场的作用下向相反电极的移动。",
+        "answer": [
+            "电迁移"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 641,
+        "question": "_____：指当施加一个直流电流于充满液体的多孔介质时，液体就产生相对静止的带电固体表面的移动。当表面带负电时，液体向阴极移动。",
+        "answer": [
+            "电渗透"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 642,
+        "question": "_____：指带电粒子或胶体在电场的作用下的移动，结合在可移动粒子上的污染物也随之而移动。",
+        "answer": [
+            "电泳"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 643,
+        "question": "_____：在污染土壤上覆盖一层清洁土壤，以避免污染土层中的污染物进入食物链。",
+        "answer": [
+            "覆土"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 644,
+        "question": "_____：土壤淋洗技术是在淋洗剂（水或酸或碱溶液、螯合剂、还原剂、络合剂以及表面活性剂溶液）的作用下，将土壤污染物从土壤颗粒去除的一种修复技术。",
+        "answer": [
+            "土壤淋洗技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 645,
+        "question": "_____：原位化学氧化技术是通过混入土壤的氧化剂与污染物发生氧化反应，使污染物降解成为低浓度、低移动性产物的技术。",
+        "answer": [
+            "原位化学氧化技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 646,
+        "question": "_____：化学脱卤修复技术又称气相还原技术，是一种异位化学修复技术，处理过程包括使用特殊还原剂或高温和还原条件使卤化有机污染物还原。",
+        "answer": [
+            "化学脱卤技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 647,
+        "question": "_____：溶剂提取技术，是一种异位修复技术,在该过程中，污染物转移进入有机溶剂或超临界液（SCF）,而后溶剂被分离以进一步处理或弃置。",
+        "answer": [
+            "溶剂提取技术"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 648,
+        "question": "_____指采用一般农业生产上可操作的技术措施，以达到降低土壤重金属有效性、抑制土壤重金属向农作物迁移的技术。农业改良措施包括施用改良物料和调节土壤氧化还原状况等方面。",
+        "answer": [
+            "农业改良措施："
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 649,
+        "question": "_____：指植物根系吸收污染物并将污染物富集于植物体内，而后将植物体收获、集中处置的过程。",
+        "answer": [
+            "植物提取"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 650,
+        "question": "_____：是指土壤中的有机污染物通过根际微生物我活动而被降解的过程。",
+        "answer": [
+            "根际降解"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 651,
+        "question": "_____：是利用植物去除环境中的一些挥发性污染物，即植物将污染物吸收到体内后又将其转化为气态物质，释放到大气中。",
+        "answer": [
+            "植物挥发"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 652,
+        "question": "_____：指被吸收的污染物通过植物体内代谢过程而降解的过程，或污染物在植物产生的化合物（如酶）的作用下在植物体外降解的过程。",
+        "answer": [
+            "植物降解作用（植物转化作用）"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 653,
+        "question": "_____：指通过根系的吸收和富集、根系表面的吸附或植物根圈的沉淀作用而产生的稳定化作用；或利用植物或植物根系保护污染物，使其不因风、侵蚀、淋溶以及土壤分散而迁移的稳定化作用。",
+        "answer": [
+            "植物稳定化作用"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 654,
+        "question": "_____：一般我们把密度在4.5_____g/cm3以上的金属。",
+        "answer": [
+            "重金属",
+            "5.0"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 655,
+        "question": "_____：土壤溶液中重金属离子或络离子随水迁移至地面水体。",
+        "answer": [
+            "物理迁移"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 656,
+        "question": "_____：通过专性吸附或非专性吸附与无机胶体结合；通过络合、螯合或表面吸附与有机胶体结合；通过溶解—沉淀作用进行迁移转化；通过氧化—还原作用进行迁移转化；通过络合—螯合作用进行迁移转化。",
+        "answer": [
+            "物理化学迁移和化学迁移"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 657,
+        "question": "_____：半衰期较短，生物蓄积能力较小的有机污染物",
+        "answer": [
+            "非持久性有机污染物"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 658,
+        "question": "_____指集中在一点或当作一点的小范围排放污染物的污染源",
+        "answer": [
+            "点污染源："
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 659,
+        "question": "_____：指在一个大面积范围内排放污染物的污染源。",
+        "answer": [
+            "面污染源"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 660,
+        "question": "_____：指有机污染物穿透过土壤而逸向空间的移动。",
+        "answer": [
+            "挥发"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 661,
+        "question": "_____：对于一些污染物，微生物虽然可以降解他们，但却不能利用该污染物作为碳源合成自身生长所需要的有机质，因此需要另外的生长基质维持自身的生长。",
+        "answer": [
+            "共代谢"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 662,
+        "question": "_____：指有机物在微生物的作用下彻底分解为H2O、CO2和简单的无机化合物的过程，是彻底的生物降解（终极降解)，可从根本上清除有毒物质的环境污染。实质都是酶促反应。",
+        "answer": [
+            "矿化作用"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 663,
+        "question": "_____：指在生物处理体系中投加具体有特定功能的微生物来改善原有处理体系的处理效果，如对难降解有机物的除去。",
+        "answer": [
+            "生物强化法"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 664,
+        "question": "_____：定期的向污染环境投加H2O2和营养物，以满足污染环境中已经存在的降解菌的需要，使微生物把污染环境中的污染物彻底矿化成CO2和H2O。",
+        "answer": [
+            "生物培养法"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 665,
+        "question": "_____：直接向污染的环境中接入外源的污染降解菌，同时提供这些细菌生长所需的营养。",
+        "answer": [
+            "投菌法"
+        ],
+        "domain": "《土壤修复技术》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 666,
+        "question": "一般来说，经典的发生学分类通常将地球陆地上的土壤划分为三大类别（或三大土纲）：_____。",
+        "answer": [
+            "地带性土壤或显域土、隐地带性土壤或隐域土、非地带性土壤或泛域土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 667,
+        "question": "土壤资源的丧失与退化比较严重和突出的问题主要有_____。",
+        "answer": [
+            "土壤侵蚀、土地荒漠化、土壤退化、土壤污染、耕地占用"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 668,
+        "question": "土壤是个多相分散体系，由_____等四种不同物质组成。",
+        "answer": [
+            "有机质、矿物质、空气、水分"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 669,
+        "question": "陆地生态系统的“三向地带性”是_____。",
+        "answer": [
+            "指纬度地带性、经度地带性和垂直地带性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 670,
+        "question": "按热量的地域差异及其对其他成分的影响，我国可以分为_____六个热量带。",
+        "answer": [
+            "寒温带、温带、暖温带、亚热带、热带、赤道带"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 671,
+        "question": "从地面垂直向下的土壤纵断面称为_____。",
+        "answer": [
+            "土壤剖面"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 672,
+        "question": "土壤剖面中与地表大致平行的层次，是由成土作用而形成的，称为_____，简称土层。由非成土作用形成的层次，称为_____。",
+        "answer": [
+            "土壤发生层",
+            "土壤层次"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 673,
+        "question": "1967年国际土壤学会提出把土壤剖面划分为：_____、_____等主要发生层。",
+        "answer": [
+            "有机层、矿质土层、淋溶层、淀积层",
+            "母质层和母岩层"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 674,
+        "question": "在一定的区域范围内，土壤分布主要受某个因素的控制，则可以相对地划分相应的_____。",
+        "answer": [
+            "纬度地带性、经度地带性和垂直地带性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 675,
+        "question": "从发生学分类制角度看，我国东部土壤地带分布规律基本上与纬度带相一致，即由南而北依次为_____。",
+        "answer": [
+            "砖红壤、砖红壤性红壤、红壤、黄棕壤、棕壤、暗棕壤、灰化土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 676,
+        "question": "_____在地理环境中总是处于大气圈、水圈、岩石圈、生物圈之间的界面上，而且成为它们相互作用的产物。",
+        "answer": [
+            "土壤"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 677,
+        "question": "岩石风化成土壤的过程虽然是一个连续的渐变过程，但根据其代表性矿物可以划分出_____等阶段。",
+        "answer": [
+            "碎屑阶段、钙淀积阶段、酸性硅铝阶段、富铝化阶段"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 678,
+        "question": "中国土壤发生学分类首先必须贯彻_____，即必须坚持成土因素、成土过程、和土壤属性三结合作为土壤发生学分类的基本依据，但应该以土壤属性为基础。二是必须贯彻_____，即在土壤分类中，必须将耕种土壤和自然土壤作为统一整体进行土壤类型的划分。",
+        "answer": [
+            "发生学原则",
+            "统一性原则"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 679,
+        "question": "一般来说，干旱、半干旱及半湿润地区的土壤为_____的土壤，温带、亚热带、热带湿润地区的土壤为_____的土壤。",
+        "answer": [
+            "盐基饱和",
+            "盐基不饱和"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 680,
+        "question": "从暗棕壤到棕壤到黄棕壤，粘化作用呈现出_____的趋势。",
+        "answer": [
+            "不断加强"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 681,
+        "question": "土壤资源评价的具体方法有_____。",
+        "answer": [
+            "等级法和指数法"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 682,
+        "question": "土壤最大的特点是具有肥力，土壤四个肥力因素是_____。",
+        "answer": [
+            "水、肥、气、热"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 683,
+        "question": "土壤的团粒结构最适合农作物生长；卡庆斯基将土壤质地分为_____三大类，其中壤土在农业上是较理想的一种质地。",
+        "answer": [
+            "沙土、壤土、粘土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 684,
+        "question": "土壤结构体及其内部存在许多大小不一的孔隙，通常分为_____两类。",
+        "answer": [
+            "毛细孔隙、非毛细孔隙"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 685,
+        "question": "土壤中的有机质可以分为两大类：一类为_____、另一类为_____——腐殖质。",
+        "answer": [
+            "普通有机质",
+            "特殊有机质"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 686,
+        "question": "在我国范围内，按非纬度地带性因素和自然环境的综合表现，通常分为_____、_____三个大区。",
+        "answer": [
+            "东部季风大区",
+            "西北干旱大区、青藏高寒大区"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 687,
+        "question": "按热量的地域差异及其对其他成分的影响，我国可以分为_____六个热量带（及亚带）。各带的划分以活动积温总和（即年内日平均温度10C持续期内的总和）为主要参考指标。",
+        "answer": [
+            "寒温带、温带、暖温带、亚热带、热带、赤道带"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "高"
+    },
+    {
+        "id": 688,
+        "question": "土地类型的分布常按一定的格局组合而形成一个相对完整的区域。组合的形式多种多样，归纳起来可以分为_____两大类。",
+        "answer": [
+            "递变型组合和重复型组合"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 689,
+        "question": "一般来说，土壤的质地可以归纳为三大类型：_____。",
+        "answer": [
+            "砂质土类、粘质土类、壤质土类"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 690,
+        "question": "作为主要胶结剂的胶体物质有三类，他们的重要性顺序是_________________________。",
+        "answer": [
+            "腐殖质胶体",
+            ">",
+            "铁的氧化物胶体",
+            ">",
+            "粘粒胶体"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "中"
+    },
+    {
+        "id": 691,
+        "question": "如果用来鉴别土壤类型的依据不是土层，而是具有定量说明的土壤性质，则称为_____。",
+        "answer": [
+            "诊断特性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 692,
+        "question": "_____:凡是用于鉴别土壤类型，在性质上有一系列定量说明的土层，称为诊断层。按诊断层在土体中的位置不同，又分为“诊断表层”和“诊断表下层”及“其他诊断层”。",
+        "answer": [
+            "诊断层"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 693,
+        "question": "_____:太阳辐射从赤道向两极递减，气候、生物等成土因子也按纬度方向呈有规律的变化，导致地带性土壤相应地呈大致平行于纬线的带状变化的特性。",
+        "answer": [
+            "土壤分布的纬度地带性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 694,
+        "question": "_____:是指土壤外部的特征，如土壤剖面构造、土壤颜色、质地、结构、结特性、孔隙状况等。",
+        "answer": [
+            "土壤形态"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 695,
+        "question": "_____）:土壤中一些极小空隙中和颗粒的周围水分不能被植物利用，这样植物会出现凋萎现象，此时的土壤含水量称为凋萎系数或凋萎点。",
+        "answer": [
+            "凋萎系数（或凋萎点"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 696,
+        "question": "_____:土壤颗粒的表面有一些被紧紧吸附的水分子，它既不能被植物吸收，也难以自然蒸发，这部分水的含量称为吸湿系数。",
+        "answer": [
+            "吸湿系数数"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 697,
+        "question": "_____:从植物生长的需要来分析，土壤吸水力在15atm时是一个重要的临界点，因为植物根的吸水力约为15atm左右，受土壤吸力大于15atm的那部分水分，包括全部的吸湿水和内层毛管水，植物难以吸收，属于无效水的范围。",
+        "answer": [
+            "无效水"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 698,
+        "question": "_____:从植物生长的需要来分析，重力水的存在时间短，而且占据空气通道，限制根的呼吸作用，也是植物难以利用的，属于过剩水。",
+        "answer": [
+            "过剩水"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 699,
+        "question": "_____:从植物生长的需要来分析，处在田间持水量与凋萎点之间的部分毛管水，才是真正对植物有用的有效水。",
+        "answer": [
+            "有效水"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 700,
+        "question": "__________：认为土壤是在各种自然和人为因素的影响下由岩石风化成母质，再由母质演化成土壤的。",
+        "answer": [
+            "土壤发生学说",
+            "soilgenesistheory"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 701,
+        "question": "_____：是指土壤发育的原始阶段、幼年阶段、壮年阶段、老年阶段四个阶段。",
+        "answer": [
+            "土壤发育的相对年龄"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 702,
+        "question": "_____：是土壤形成经历的真正时间。",
+        "answer": [
+            "土壤发育的绝对年龄"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 703,
+        "question": "_____：岩石风化后，停留在原处很长时间的疏松物质。",
+        "answer": [
+            "残积母质"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 704,
+        "question": "_____：岩石风化后，由外力移至他处的疏松物质。",
+        "answer": [
+            "运积母质"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 705,
+        "question": "_____：处于同一气候带内，具有相似的母质，由于局部地形坡度及内部排水特性影响而形成的一组性质不同的土壤。",
+        "answer": [
+            "土链或土壤地形系列"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 706,
+        "question": "_____是一种生物成土过程。是指有机质主要以植物残体形式在土体上部积聚的过程，多出现于沼泽、河湖岸边的低湿地段，以湿生或水生植物为主。",
+        "answer": [
+            "泥炭化过程："
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 707,
+        "question": "_____：是指在土体上部，特别是亚表层中二氧化硅的相对富集，而在土体下部三、二氧化物相对富集的过程。",
+        "answer": [
+            "灰化过程"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 708,
+        "question": "_____：指土壤剖面中碳酸盐的淋溶与淀积过程，是干旱与半干旱地区土壤中普遍存在的成土过程。以中纬度的草原和荒漠草原地带最为典型。",
+        "answer": [
+            "钙化过程"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 709,
+        "question": "在干旱季节里，由于土壤表层蒸发强烈，雨季储存于下层深处的毛管水便会向上运动，上升到一定高度时水分蒸发，其中所含的Ca盐也会析出沉淀。这样就在土体之内形成一个含Ca量丰富的层次，称为_____。",
+        "answer": [
+            "钙积层"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 710,
+        "question": "CaCO或CaSO本身呈白色，在土壤中主要以细粒状和结核状出现，在含量特别大的情况下，聚集的碳酸盐会形成一个胶结致密的层次，称为_____。",
+        "answer": [
+            "石灰层"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 711,
+        "question": "由上部土层淋洗迁移而来的次生粘土矿物过程，称为_____。",
+        "answer": [
+            "淀积粘化"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 712,
+        "question": "_____：灰化、铁铝化、钙化和粘化四种成土过程都是与大范围的气候条件相联系的，它们的发生具有地带性的分布规律，因此也称为地带性成土作用。",
+        "answer": [
+            "地带性成土作用"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 713,
+        "question": "_____：局部地区排水条件不良而引起的成土过程。",
+        "answer": [
+            "隐地带性成土作用"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 714,
+        "question": "在渍水和有机物嫌气还原条件下，土壤矿物中的铁锰处于还原状态，从而使土体染成蓝色或青灰色的成土过程称为_____。",
+        "answer": [
+            "潜育化过程"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 715,
+        "question": "在地下水位较高而又气候干燥、蒸发力强的地方所进行的盐分在地表聚集的成土过程称为_____。",
+        "answer": [
+            "盐化过程"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 716,
+        "question": "指钠离子在土壤胶体上的累积，使土壤呈强碱性反应，并形成物理性质恶化的_____。",
+        "answer": [
+            "碱化层"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 717,
+        "question": "_____：常年被水饱和，还原作用占优势环境下形成的隐地带性土壤。",
+        "answer": [
+            "潜育土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 718,
+        "question": "_____：由于土壤有阻水层而导致上部土壤水分饱和的潜育土。",
+        "answer": [
+            "表层潜育土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 719,
+        "question": "_____：由地下水位升高而引起的潜育土。",
+        "answer": [
+            "地下水潜育土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 720,
+        "question": "_____：是由人类长期种植水稻而形成的一种农业土壤，在东亚和东南亚国家分布比较广泛。",
+        "answer": [
+            "水稻土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 721,
+        "question": "_____：在土壤水分饱和而气候又过度湿润和寒冷的条件下形成的隐地带性土壤。",
+        "answer": [
+            "泥炭土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 722,
+        "question": "_____：是指以盐化过程为主而形成的隐地带性土壤。可溶性盐由于强烈的蒸发作用积聚于土壤的表层。按其盐分组成的特点，盐成土壤可分为盐土和碱土两类。",
+        "answer": [
+            "盐成土壤"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 723,
+        "question": "_____：石灰性岩石上发育的薄层幼年土壤。",
+        "answer": [
+            "黑色石灰土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 724,
+        "question": "_____：在多雨地区石灰性岩石上发育的土壤。",
+        "answer": [
+            "红色石灰土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 725,
+        "question": "_____：在河流冲积物上发育形成的非地带性土壤。",
+        "answer": [
+            "冲积土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 726,
+        "question": "_____：主要出现在坡度陡峭的山地或不断有坡积-洪积物覆盖的山麓地区，分布广泛的一类非地带性土壤。",
+        "answer": [
+            "石质土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 727,
+        "question": "_____：一般见于缺乏植被保护的山地，多系土壤侵蚀而形成的一类非地带性土壤。",
+        "answer": [
+            "粗骨土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 728,
+        "question": "_____：是指轻度发育或者新近发育的矿质土壤。成土时间短，剖面性质很大程度上继承母质的特性。",
+        "answer": [
+            "新成土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 729,
+        "question": "_____：是一类富含蒙脱石等粘土矿物的黑粘土，具有很强的膨胀收缩性。",
+        "answer": [
+            "变性土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 730,
+        "question": "_____：是一类土层发育较弱，未成熟的各种幼年土壤的总称，包含许多不同的成因和类型，广泛分布于世界各地。",
+        "answer": [
+            "始成土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 731,
+        "question": "_____：具有灰化淀积层的土壤，大致与发生学分类中的灰化土相当。",
+        "answer": [
+            "灰土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 732,
+        "question": "_____：具有淋溶作用所形成的淀积粘化层，但淋洗的程度不强，因此土体中仍有中等到较高的盐基含量。",
+        "answer": [
+            "淋溶土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 733,
+        "question": "_____：具有淀积粘化层的土壤；但受风化作用较深，淋溶作用较强，盐基含量较低。",
+        "answer": [
+            "老成土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 734,
+        "question": "_____：属于风化作用和淋溶作用更强的土壤。以大量铁、铝氧化物聚集形成的氧化层或聚铁网纹层为典型特征。",
+        "answer": [
+            "氧化土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 735,
+        "question": "_____：是具有松软表层的一类土壤，主要出现于中纬度草原和湿草原地区；软土有机质和盐基的含量都较高。",
+        "answer": [
+            "软土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 736,
+        "question": "_____：指具有干旱土壤水分状况、分布于荒漠或半荒漠地区的土壤。",
+        "answer": [
+            "干旱土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 737,
+        "question": "_____：是指有机物质大量积累，有机质含量非常高的一类土壤。一般有机土出现在低洼积水的环境中，大致与发生学分类中的泥炭土相当。",
+        "answer": [
+            "有机土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 738,
+        "question": "_____：由火山灰母质发育形成的土壤。",
+        "answer": [
+            "火山灰土"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 739,
+        "question": "_____：是对某些有共性的土类的归纳和总结，是分类系统中的最高级分类单元。主要是根据土壤的诊断层所反映出的土体分异和发育程度进行划分；也有以土壤的特殊组成物质为依据而划分的。",
+        "answer": [
+            "土纲"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 740,
+        "question": "_____：在土纲范围内，根据土壤现实的水热状况、土层特征、风化程度等作为划分的依据，反映了控制现代成土过程的气候条件对于植物生长和种植制度也起着控制性作用。",
+        "answer": [
+            "亚纲"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 741,
+        "question": "_____：是土壤高级分类中的基本分类单元，主要依据土壤中的土层性质、排列等进行划分，强调成土条件、成土过程和土壤属性的三者统一和综合。",
+        "answer": [
+            "土类"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 742,
+        "question": "_____：是具有农、林、牧各业生产力的各种土壤类型的总称。是人类赖以生存的最基本和最重要的自然资源。人类的生活所需物质相当大—部分直接或间接地源于土壤资源。",
+        "answer": [
+            "土壤资源"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 743,
+        "question": "_____：是地带性规律在地球表面的具体表现，它表现为自然地理要素或自然综合体大致沿纬线延伸，按纬度发生有规律的排列，而产生南北向的分化。",
+        "answer": [
+            "纬向地带性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 744,
+        "question": "__________是非地带性规律在地表的具体表现。它表现为自然地理要素或自然综合体大致沿经线方向延仲，按经度由海向陆发生有规律的东西向分化。",
+        "answer": [
+            "经向地带性",
+            "："
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 745,
+        "question": "_____：是指自然地理要素和自然综合体大致沿等高线方向延伸，随地势高度，按垂直方向发生有规律的分异。山体高度越大，垂直带就越多。",
+        "answer": [
+            "垂直带性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 746,
+        "question": "_____：是在地带性与非地带性因素影响下，由局地分布因素影响而形成的陆地表面小范围、小尺度的分异规律性，地方性分异是自然地理环境最低级的地域分异。",
+        "answer": [
+            "地方性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 747,
+        "question": "_____：就是由于地球形状、地球的运动特征引起地球上太阳辐射分布不均而产生有规律的分异。",
+        "answer": [
+            "地带性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 748,
+        "question": "_____：是指由于地球产生海陆分布、地势起伏和构造运动而形成的有规律分异。",
+        "answer": [
+            "非地带性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 749,
+        "question": "_____：是对土地自然属性、社会经济要素的综合鉴定，将土地按质的差异划分为若干相对等级，以揭示在一定的技术经济条件下，对于某种特定用途的生产能力和价值。",
+        "answer": [
+            "土地评价"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    },
+    {
+        "id": 750,
+        "question": "_____：就是在一定条件（耕作技术水平、科学水平）下，土地资源对发展农、林、牧业生产所提供的生态环境的适宜程度。",
+        "answer": [
+            "土地资源的适宜性"
+        ],
+        "domain": "《土壤地理学》",
+        "difficulty level": "低"
+    }
+]

@@ -1,0 +1,4918 @@
+[
+    {
+        "id": 1,
+        "question": "土地的作用概括起来讲可以分为以下（）功能",
+        "options": [
+            {
+                "option": "A",
+                "content": "承载功能"
+            },
+            {
+                "option": "B",
+                "content": "生产功能"
+            },
+            {
+                "option": "C",
+                "content": "空间功能"
+            },
+            {
+                "option": "D",
+                "content": "价值功能"
+            },
+            {
+                "option": "E",
+                "content": "环境功能"
+            }
+        ],
+        "answer": "ABCE",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 2,
+        "question": "土地资源学的研究方法有（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "系统分析方法"
+            },
+            {
+                "option": "B",
+                "content": "景观生态分析方法"
+            },
+            {
+                "option": "C",
+                "content": "GIS技术"
+            },
+            {
+                "option": "D",
+                "content": "社会经济分析方法"
+            },
+            {
+                "option": "E",
+                "content": "RS技术"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 3,
+        "question": "与土地利用及其生产潜力关系密切的热量指标有（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "温度"
+            },
+            {
+                "option": "B",
+                "content": "积温"
+            },
+            {
+                "option": "C",
+                "content": "活动积温"
+            },
+            {
+                "option": "D",
+                "content": "无霜期"
+            },
+            {
+                "option": "E",
+                "content": "年均温"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 4,
+        "question": "土壤肥力因素主要是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "土壤水分"
+            },
+            {
+                "option": "B",
+                "content": "土壤养分"
+            },
+            {
+                "option": "C",
+                "content": "土壤空气"
+            },
+            {
+                "option": "D",
+                "content": "土壤热量"
+            },
+            {
+                "option": "E",
+                "content": "土壤质地"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 5,
+        "question": "地下水的类型主要包括（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "土壤水"
+            },
+            {
+                "option": "B",
+                "content": "上层滞水"
+            },
+            {
+                "option": "C",
+                "content": "潜水"
+            },
+            {
+                "option": "D",
+                "content": "层间水"
+            },
+            {
+                "option": "E",
+                "content": "包气带水"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 6,
+        "question": "中国土地退化的类型主要有（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "水土流失"
+            },
+            {
+                "option": "B",
+                "content": "土地沙漠化"
+            },
+            {
+                "option": "C",
+                "content": "土地次生盐渍化"
+            },
+            {
+                "option": "D",
+                "content": "土地污染"
+            },
+            {
+                "option": "E",
+                "content": "土地损毁"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 7,
+        "question": "平原根据沉积物的堆积形式不同可以分为（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "堆积平原"
+            },
+            {
+                "option": "B",
+                "content": "山前平原"
+            },
+            {
+                "option": "C",
+                "content": "冲积平原"
+            },
+            {
+                "option": "D",
+                "content": "湖积平原"
+            },
+            {
+                "option": "E",
+                "content": "滨海平原"
+            }
+        ],
+        "answer": "BCDE",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 8,
+        "question": "土地类型的地带性分布规律包括（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "经向地带性"
+            },
+            {
+                "option": "B",
+                "content": "纬向地带性"
+            },
+            {
+                "option": "C",
+                "content": "区域性"
+            },
+            {
+                "option": "D",
+                "content": "垂直地带性"
+            },
+            {
+                "option": "E",
+                "content": "地貌地带性"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 9,
+        "question": "土地利用专项规划具有（）的性质",
+        "options": [
+            {
+                "option": "A",
+                "content": "针对性"
+            },
+            {
+                "option": "B",
+                "content": "局面性"
+            },
+            {
+                "option": "C",
+                "content": "具体性"
+            },
+            {
+                "option": "D",
+                "content": "选择性"
+            },
+            {
+                "option": "E",
+                "content": "全面性"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 10,
+        "question": "土地利用专项规划包括（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "土地开发规划"
+            },
+            {
+                "option": "B",
+                "content": "土地整治规划"
+            },
+            {
+                "option": "C",
+                "content": "土地保护规划"
+            },
+            {
+                "option": "D",
+                "content": "土地整理规划"
+            },
+            {
+                "option": "E",
+                "content": "单项土地资源利用规划"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地资源学 Land Resources",
+        "difficulty level": "high"
+    },
+    {
+        "id": 11,
+        "question": "土壤污染具有什么样的特征（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "广泛性"
+            },
+            {
+                "option": "B",
+                "content": "多样性"
+            },
+            {
+                "option": "C",
+                "content": "隐蔽性"
+            },
+            {
+                "option": "D",
+                "content": "积累性"
+            },
+            {
+                "option": "E",
+                "content": "不可逆性"
+            },
+            {
+                "option": "F",
+                "content": "长期性"
+            }
+        ],
+        "answer": "ABCDEF",
+        "domain": "土壤污染治理与矿区生态修复现状与进展",
+        "difficulty level": "high"
+    },
+    {
+        "id": 12,
+        "question": "常有的土壤修复技术有哪些（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "表面覆盖与封装技术"
+            },
+            {
+                "option": "B",
+                "content": "电动修复技术"
+            },
+            {
+                "option": "C",
+                "content": "原位土壤淋洗技术"
+            },
+            {
+                "option": "D",
+                "content": "固化／稳定化技术"
+            },
+            {
+                "option": "E",
+                "content": "植物修复技术"
+            },
+            {
+                "option": "F",
+                "content": "填埋法"
+            }
+        ],
+        "answer": "ABCDEF",
+        "domain": "土壤污染治理与矿区生态修复现状与进展",
+        "difficulty level": "high"
+    },
+    {
+        "id": 13,
+        "question": "土壤盐渍化的原因有哪些（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "气候因素"
+            },
+            {
+                "option": "B",
+                "content": "水位因素"
+            },
+            {
+                "option": "C",
+                "content": "植被因素"
+            },
+            {
+                "option": "D",
+                "content": "地形因素"
+            },
+            {
+                "option": "E",
+                "content": "人类活动"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土壤污染治理与矿区生态修复现状与进展",
+        "difficulty level": "high"
+    },
+    {
+        "id": 14,
+        "question": "根据操作原理，土壤污染治理修复技术可分为（）方法。",
+        "options": [
+            {
+                "option": "A",
+                "content": "物理"
+            },
+            {
+                "option": "B",
+                "content": "化学"
+            },
+            {
+                "option": "C",
+                "content": "生物"
+            },
+            {
+                "option": "D",
+                "content": "原位/异位"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "土壤污染治理与矿区生态修复现状与进展",
+        "difficulty level": "high"
+    },
+    {
+        "id": 15,
+        "question": "按修复土壤的位置分，土壤污染修复技术可分为（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "原位修复技术"
+            },
+            {
+                "option": "B",
+                "content": "表层修复技术"
+            },
+            {
+                "option": "C",
+                "content": "异位修复技术"
+            },
+            {
+                "option": "D",
+                "content": "深层修复技术"
+            }
+        ],
+        "answer": "AC",
+        "domain": "土壤污染治理与矿区生态修复现状与进展",
+        "difficulty level": "high"
+    },
+    {
+        "id": 16,
+        "question": "下列说法中，属于土地自然特性的有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "土地功能的永久性"
+            },
+            {
+                "option": "B",
+                "content": "土地供给的稀缺性"
+            },
+            {
+                "option": "C",
+                "content": "土地报酬递减的可能性"
+            },
+            {
+                "option": "D",
+                "content": "土地质量的差异性"
+            },
+            {
+                "option": "E",
+                "content": "土地利用方向变更的困难性"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 17,
+        "question": "下列关于区位理论的各种说法中，正确的有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "从经济实质上看，屠能圈的理论基础是农业区位的级差地租"
+            },
+            {
+                "option": "B",
+                "content": "韦伯的工业区位论的核心思想是通过运输、劳动力以及集聚因素相互关系的分析与计算，找出工业产品生产成本最低的点作为工业企业的理想区位"
+            },
+            {
+                "option": "C",
+                "content": "克里斯塔勒的中心地理论是从中心居民点的物品供应、行政管理、交通运输等主要职能的角度，论述了城镇居民点的结构及其形成过程"
+            },
+            {
+                "option": "D",
+                "content": "空间结构理论是涉及到农业、工业、第三产业、城镇居民点区位的综合区位论"
+            },
+            {
+                "option": "E",
+                "content": "区位理论是关于自然物质及人类活动的空间分布及其在空间中的相互关系的学说"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 18,
+        "question": "建立土地市场的必要条件有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "市场经济环境"
+            },
+            {
+                "option": "B",
+                "content": "土地产权明晰"
+            },
+            {
+                "option": "C",
+                "content": "发达的土地金融市场"
+            },
+            {
+                "option": "D",
+                "content": "必要的土地法规"
+            },
+            {
+                "option": "E",
+                "content": "区域性的市场中介机构"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 19,
+        "question": "土地利用应遵循的基本原则包括：",
+        "options": [
+            {
+                "option": "A",
+                "content": "先调查、评价、规划，后开发利用"
+            },
+            {
+                "option": "B",
+                "content": "以集约利用为主与保证适量的耕地面积相结合"
+            },
+            {
+                "option": "C",
+                "content": "在农业优先的前提下，统筹安排用地比例"
+            },
+            {
+                "option": "D",
+                "content": "专业化利用与综合利用相结合"
+            },
+            {
+                "option": "E",
+                "content": "三效益（经济、社会、生态）最大化"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 20,
+        "question": "下列关于土地报酬变化阶段的定量分析的说法中，正确的有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "当APP（平均产量）达到最大值时，TPP（总产量）也达到最大值"
+            },
+            {
+                "option": "B",
+                "content": "当MPP（边际产量）达到最大值时，TPP也达到最大值"
+            },
+            {
+                "option": "C",
+                "content": "MPP曲线与APP曲线总是相交于APP曲线的最高点"
+            },
+            {
+                "option": "D",
+                "content": "EPP（生产弹性）表示报酬的强弱及变化方向"
+            },
+            {
+                "option": "E",
+                "content": "理性的生产者，总是在生产的第二阶段进行投入"
+            }
+        ],
+        "answer": "CD",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 21,
+        "question": "土地价格评估应遵循的原则有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "公平原则"
+            },
+            {
+                "option": "B",
+                "content": "收益最大化原则"
+            },
+            {
+                "option": "C",
+                "content": "替代原则"
+            },
+            {
+                "option": "D",
+                "content": "预期收益原则"
+            },
+            {
+                "option": "E",
+                "content": "供需原则"
+            }
+        ],
+        "answer": "ACDE",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 22,
+        "question": "国有企业改革中，原划拨土地使用权可采取的土地资产处置方式包括：",
+        "options": [
+            {
+                "option": "A",
+                "content": "出让"
+            },
+            {
+                "option": "B",
+                "content": "保留行政划拨"
+            },
+            {
+                "option": "C",
+                "content": "作价入股"
+            },
+            {
+                "option": "D",
+                "content": "授权经营"
+            },
+            {
+                "option": "E",
+                "content": "租赁"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 23,
+        "question": "下列关于城市土地利用特性的各种说法，正确的有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "位置在城市土地利用中很重要"
+            },
+            {
+                "option": "B",
+                "content": "土地利用途径的多样性"
+            },
+            {
+                "option": "C",
+                "content": "面积对于城市土地利用具有较小的限制作用"
+            },
+            {
+                "option": "D",
+                "content": "很难改变用途"
+            },
+            {
+                "option": "E",
+                "content": "交通运输对土地利用不重要"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 24,
+        "question": "下列关于耕地总量动态平衡的各种说法中，正确的有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "所谓总量，是指耕地数量的总和"
+            },
+            {
+                "option": "B",
+                "content": "耕地总量动态平衡具有长远性"
+            },
+            {
+                "option": "C",
+                "content": "耕地总量动态平衡具有区域性"
+            },
+            {
+                "option": "D",
+                "content": "耕地总量动态平衡要考虑环境的适应性"
+            },
+            {
+                "option": "E",
+                "content": "耕地总量动态平衡是指一定时期耕地的质量和数量的总和不变"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 25,
+        "question": "下列关于土地出让市场的各种说法，正确的有：",
+        "options": [
+            {
+                "option": "A",
+                "content": "土地使用权出让的地块、用途由市、县人民政府决定"
+            },
+            {
+                "option": "B",
+                "content": "我国境内外的一切公司、企业、其他组织和个人，都可以取得国有土地使用权"
+            },
+            {
+                "option": "C",
+                "content": "土地使用权出让的年限，一般根据不同行业和经营项目的实际需要确定，如综合用地的最高年限为40年"
+            },
+            {
+                "option": "D",
+                "content": "土地使用权出让，可以采取协议、招标、拍卖三种方式，但经营性用地，只能采取招标和拍卖"
+            },
+            {
+                "option": "E",
+                "content": "地下的各类自然资源、矿藏以及埋藏物等，不在土地使用权有偿出让之列"
+            }
+        ],
+        "answer": "BDE",
+        "domain": "土地经济学",
+        "difficulty level": "high"
+    },
+    {
+        "id": 26,
+        "domain": "耕地保护与土地整理管理",
+        "question": "省级政府耕地保护责任目标考核的标准是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "省级行政区域内的耕地保有量不得低于国务院下达的耕地保有量考核指标"
+            },
+            {
+                "option": "B",
+                "content": "省级行政区域内的基本农田保护面积不得低于国务院下达的基本农田保护面积考核指标"
+            },
+            {
+                "option": "C",
+                "content": "省级行政区域内各类非农建设经依法批准占用耕地和基本农田后，更多国土招聘考试试题真题，请淘宝国土考试小灵通补充的耕地和基本农田的面积与质量不得低于已占用的面积与质量。D.省级行政区域内的农用地转用指标不得低于国务院下达的农用地转用计划指标。"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 27,
+        "domain": "耕地保护与土地整理管理",
+        "question": "我国现阶段土地整理的主要内容包括()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "采用工程、生物等措施，平整土地，归并零散地块，修筑梯田，整治养殖水面，规整农村居民点用地"
+            },
+            {
+                "option": "B",
+                "content": "建设道路、机井、沟渠、护坡、防护林等农田和农业配套工程"
+            },
+            {
+                "option": "C",
+                "content": "界定土地权属、地类、面积，进行土地变更调查和登记等"
+            },
+            {
+                "option": "D",
+                "content": "治理沙化地、盐碱地、污染土地、改良土壤、恢复植被"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 28,
+        "domain": "耕地保护与土地整理管理",
+        "question": "耕地占补平衡是指占用单位按照占多少、恳多少、的原则，负责开垦与所占耕地的()相当的耕地。",
+        "options": [
+            {
+                "option": "A",
+                "content": "肥力"
+            },
+            {
+                "option": "B",
+                "content": "数量"
+            },
+            {
+                "option": "C",
+                "content": "质量"
+            },
+            {
+                "option": "D",
+                "content": "经济效益"
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 29,
+        "domain": "耕地保护与土地整理管理",
+        "question": "下列哪些属于耕地()",
+        "options": [
+            {
+                "option": "A",
+                "content": "旱地"
+            },
+            {
+                "option": "B",
+                "content": "水田"
+            },
+            {
+                "option": "C",
+                "content": "水浇地"
+            },
+            {
+                "option": "D",
+                "content": "菜地"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 30,
+        "domain": "耕地保护与土地整理管理",
+        "question": "省级人民政府在耕地占补偿制度中的职责是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "指定开垦耕地计划"
+            },
+            {
+                "option": "B",
+                "content": "对建设单位和县、市人民政府开垦耕地进行监督"
+            },
+            {
+                "option": "C",
+                "content": "组织开垦耕地"
+            },
+            {
+                "option": "D",
+                "content": "组织土地整理"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 31,
+        "domain": "耕地保护与土地整理管理",
+        "question": "补充耕地审核的内容主要包括()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "补充耕地责任单位、实施单位是否落实"
+            },
+            {
+                "option": "B",
+                "content": "补充耕地地块位置、面积是否确定"
+            },
+            {
+                "option": "C",
+                "content": "补充耕地方式方法是否得当"
+            },
+            {
+                "option": "D",
+                "content": "补充耕地的保证措施是否得力"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 32,
+        "domain": "耕地保护与土地整理管理",
+        "question": "基本农田保护区划定中，应优先划入基本弄给他保护区的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "需要退耕还湖的耕地"
+            },
+            {
+                "option": "B",
+                "content": "城市和村庄、集镇建设用地周边的耕地"
+            },
+            {
+                "option": "C",
+                "content": "根据总体利用规划，铁路公路等交通沿线周边的耕地"
+            },
+            {
+                "option": "D",
+                "content": "需要退耕还林的耕地"
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 33,
+        "domain": "耕地保护与土地整理管理",
+        "question": "下列哪些属于土地复垦的对象()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "废弃的公路"
+            },
+            {
+                "option": "B",
+                "content": "电厂储灰场"
+            },
+            {
+                "option": "C",
+                "content": "城市垃圾场"
+            },
+            {
+                "option": "D",
+                "content": "废弃建筑物压占的土地"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 34,
+        "domain": "耕地保护与土地整理管理",
+        "question": "下列应划入基本农田保护区的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "农业科研教学试验田"
+            },
+            {
+                "option": "B",
+                "content": "蔬菜生产基地"
+            },
+            {
+                "option": "C",
+                "content": "坡度为28度的耕地"
+            },
+            {
+                "option": "D",
+                "content": "集镇建设用地的周边土地"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 35,
+        "domain": "耕地保护与土地整理管理",
+        "question": "《基本农田保护条例》规定，禁止在基本农田保护区内()或者擅自采石、采矿、取土、堆放固体废弃物。",
+        "options": [
+            {
+                "option": "A",
+                "content": "修渠"
+            },
+            {
+                "option": "B",
+                "content": "建窑"
+            },
+            {
+                "option": "C",
+                "content": ".建房"
+            },
+            {
+                "option": "D",
+                "content": "建坟"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 36,
+        "domain": "耕地保护与土地整理管理",
+        "question": "关于耕地占补平衡下列说法正确的有()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "城市建设用地区统一征地后供地的，承担造地义务的为市、县人民政府"
+            },
+            {
+                "option": "B",
+                "content": "城市建设用地区外的建设项目用地，承担开垦耕地义务的是建设单位，市、县人民政府土地行政主管部门负责监督和验收"
+            },
+            {
+                "option": "C",
+                "content": "村庄、集镇建设占用耕地，可以不履行开垦耕地义务"
+            },
+            {
+                "option": "D",
+                "content": "没有条件开垦，或者开垦出的耕地不符合要求的，建设单位可以按照有关规定缴纳耕地开垦费"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 37,
+        "domain": "耕地保护与土地整理管理",
+        "question": "2000年我国制定的《土地开发整理标准》，包含以下三个标准：()",
+        "options": [
+            {
+                "option": "A",
+                "content": "《土地开发整理规划编制标准》"
+            },
+            {
+                "option": "B",
+                "content": "《土地开发整理项目规划设计规范》"
+            },
+            {
+                "option": "C",
+                "content": "《土地开发整理项目验收规程》"
+            },
+            {
+                "option": "D",
+                "content": "《土地开发整理项目资金管理规程》"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 38,
+        "domain": "耕地保护与土地整理管理",
+        "question": "耕地保护的重要性体现在()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "耕地保护关系到国家粮食安全"
+            },
+            {
+                "option": "B",
+                "content": "耕地保护对生态环境保护具有重要作用"
+            },
+            {
+                "option": "C",
+                "content": "耕地保护事关我国社会稳定"
+            },
+            {
+                "option": "D",
+                "content": "耕地保护事关我国经济社会可持续发展"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 39,
+        "domain": "耕地保护与土地整理管理",
+        "question": "基本建设过程中破坏的土地，土地复垦费用可以从()中列支。",
+        "options": [
+            {
+                "option": "A",
+                "content": "生产成本"
+            },
+            {
+                "option": "B",
+                "content": "企业利润"
+            },
+            {
+                "option": "C",
+                "content": "土地出让金"
+            },
+            {
+                "option": "D",
+                "content": "基本建设投资"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 40,
+        "domain": "耕地保护与土地整理管理",
+        "question": "依照《基本农田保护条例》的规定，()应划入基本农田保护区。",
+        "options": [
+            {
+                "option": "A",
+                "content": "水果生产基地"
+            },
+            {
+                "option": "B",
+                "content": "农业教学试验田"
+            },
+            {
+                "option": "C",
+                "content": "油料生产基地"
+            },
+            {
+                "option": "D",
+                "content": "正在实施改造计划的中、低产田"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 41,
+        "domain": "第三次全国土壤普查",
+        "question": "下列属于大地形的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "山地"
+            },
+            {
+                "option": "B",
+                "content": "洪积平原"
+            },
+            {
+                "option": "C",
+                "content": "丘陵"
+            },
+            {
+                "option": "D",
+                "content": "陡坡"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 42,
+        "domain": "第三次全国土壤普查",
+        "question": "下列属于耕地利用状况需要填写信息的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "作物类型"
+            },
+            {
+                "option": "B",
+                "content": "肥料类型"
+            },
+            {
+                "option": "C",
+                "content": "肥料施用量"
+            },
+            {
+                "option": "D",
+                "content": "产量水平"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 43,
+        "domain": "第三次全国土壤普查",
+        "question": "在外业调查的“侵蚀类型”的信息采集中，属于“水蚀”特征的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "以溅蚀和薄层漫流均匀剥蚀地表的现象"
+            },
+            {
+                "option": "B",
+                "content": "细小股流刻划地表形成的纹状细沟，深度与宽度均小于20cm，常因耕种而消失"
+            },
+            {
+                "option": "C",
+                "content": "较大股流切割地面形成的侵蚀沟，其深度一般在 1m 以内"
+            },
+            {
+                "option": "D",
+                "content": "在重力和水的综合作用下发生的士体下坠或位移的侵蚀现象，包括崩塌、滑坡崩岗、泄溜等"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 44,
+        "domain": "第三次全国土壤普查",
+        "question": "下列属于“丘陵山地起伏”地形部位的类型有()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "坡麓"
+            },
+            {
+                "option": "B",
+                "content": "上坡"
+            },
+            {
+                "option": "C",
+                "content": "中坡;"
+            },
+            {
+                "option": "D",
+                "content": "下坡"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 45,
+        "domain": "第三次全国土壤普查",
+        "question": "外业调查信息采集时，下列属于“地表特征”的信息是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "侵蚀;"
+            },
+            {
+                "option": "B",
+                "content": "母岩母质;"
+            },
+            {
+                "option": "C",
+                "content": "地表砾石 ;"
+            },
+            {
+                "option": "D",
+                "content": "基岩出露。"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 46,
+        "domain": "第三次全国土壤普查",
+        "question": "外业调查中，下列属于表层土壤调查需要采集的样品类型有()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "表层容重样品;"
+            },
+            {
+                "option": "B",
+                "content": "表层水稳性大团聚体样品"
+            },
+            {
+                "option": "C",
+                "content": "纸盒标本样品;"
+            },
+            {
+                "option": "D",
+                "content": "剖面发生层分析样品"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    },
+    {
+        "id": 47,
+        "domain": "第三次全国土壤普查",
+        "question": "剖面挖掘应遵循以下原则()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "基于若干观察剖面反复核查而确认的剖面挖掘地点，应该在景观部位、土壤类型、土地利用方面具有代表性"
+            },
+            {
+                "option": "B",
+                "content": "观察面应向着阳光照射的方向，避免出现阴影遮挡."
+            },
+            {
+                "option": "C",
+                "content": "观察面上部严禁人员走动或堆置物品以防止士壤压实或士壤物质发生位移而干扰观察和采样。"
+            },
+            {
+                "option": "D",
+                "content": "挖出的表士和心底土应分开堆放于士坑的左右两侧，观察完成后按土层原次序回填，以保持表层土壤的地力水平。"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 48,
+        "domain": "第三次全国土壤普查",
+        "question": "拍摄的剖面照片包括()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "全剖面照片"
+            },
+            {
+                "option": "B",
+                "content": "各个发生层照片"
+            },
+            {
+                "option": "C",
+                "content": "局部新生体、侵入体或士壤动物活动痕迹照片"
+            },
+            {
+                "option": "D",
+                "content": "工程建设照片"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 49,
+        "domain": "第三次全国土壤普查",
+        "question": "土壤发生层的形态学特征观察包括()",
+        "options": [
+            {
+                "option": "A",
+                "content": "发生层性状"
+            },
+            {
+                "option": "B",
+                "content": "颜色"
+            },
+            {
+                "option": "C",
+                "content": "干湿状况"
+            },
+            {
+                "option": "D",
+                "content": "根系"
+            },
+            {
+                "option": "E",
+                "content": "质地、结构"
+            }
+        ],
+        "answer": "ABCDE",
+        "difficulty level": "high"
+    },
+    {
+        "id": 50,
+        "domain": "第三次全国土壤普查",
+        "question": "土层间的过渡形式包括()",
+        "options": [
+            {
+                "option": "A",
+                "content": "平滑"
+            },
+            {
+                "option": "B",
+                "content": "波状"
+            },
+            {
+                "option": "C",
+                "content": "不规则"
+            },
+            {
+                "option": "D",
+                "content": "间断"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 51,
+        "domain": "第三次全国土壤普查",
+        "question": "土壤结构体形状主要包括()",
+        "options": [
+            {
+                "option": "A",
+                "content": "片状"
+            },
+            {
+                "option": "B",
+                "content": "棱柱状"
+            },
+            {
+                "option": "C",
+                "content": "粒状"
+            },
+            {
+                "option": "D",
+                "content": "团块状"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 52,
+        "domain": "第三次全国土壤普查",
+        "question": "关于表层土壤调查，混样点分布的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "若田块过小，混样点可分布于不同田块"
+            },
+            {
+                "option": "B",
+                "content": "要求所有混样点须均匀分布于同一个田块或样地"
+            },
+            {
+                "option": "C",
+                "content": "一般要求混样点两两间隔在15m以上"
+            },
+            {
+                "option": "D",
+                "content": "每个样点的混样点数量为5-15"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 53,
+        "domain": "第三次全国土壤普查",
+        "question": "关于设施菜地景观照拍摄的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "不必走出大棚或温室拍摄近景和远景相结合的信息"
+            },
+            {
+                "option": "B",
+                "content": "除在大棚或温室内拍摄外，还需走出大棚或温室，在样点附近的视野开阔处拍摄近景和远景相结合的信息"
+            },
+            {
+                "option": "C",
+                "content": "在大棚或温室内，拍摄东西南北四个方向的景观照即可"
+            },
+            {
+                "option": "D",
+                "content": "在大棚或温室外拍摄时，需将样点所在位置纳入取景框下半部分的中心处"
+            }
+        ],
+        "answer": "BD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 54,
+        "domain": "第三次全国土壤普查",
+        "question": "下列属于成士母质类型的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "花岗岩"
+            },
+            {
+                "option": "B",
+                "content": "残积物"
+            },
+            {
+                "option": "C",
+                "content": "冲积物"
+            },
+            {
+                "option": "D",
+                "content": "坡积物"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 55,
+        "domain": "第三次全国土壤普查",
+        "question": "蔬菜地可分为下列哪些类型()",
+        "options": [
+            {
+                "option": "A",
+                "content": "日光温室蔬菜地"
+            },
+            {
+                "option": "B",
+                "content": "玻璃温室蔬菜地"
+            },
+            {
+                "option": "C",
+                "content": "塑料大棚蔬菜地"
+            },
+            {
+                "option": "D",
+                "content": "露天蔬菜地"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 56,
+        "domain": "第三次全国土壤普查",
+        "question": "下列哪些属于非豆科绿肥作物()",
+        "options": [
+            {
+                "option": "A",
+                "content": "二月兰"
+            },
+            {
+                "option": "B",
+                "content": "首宿"
+            },
+            {
+                "option": "C",
+                "content": "油菜"
+            },
+            {
+                "option": "D",
+                "content": "蚕豆"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 57,
+        "domain": "第三次全国土壤普查",
+        "question": "下列哪些肥料中含有化学磷肥()",
+        "options": [
+            {
+                "option": "A",
+                "content": "尿素"
+            },
+            {
+                "option": "B",
+                "content": "硫酸钾"
+            },
+            {
+                "option": "C",
+                "content": "磷酸二按"
+            },
+            {
+                "option": "D",
+                "content": "有机-无机复混肥"
+            }
+        ],
+        "answer": "CD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 58,
+        "domain": "第三次全国土壤普查",
+        "question": "针对施肥管理调查，做法错误的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "针对一年两熟，仅填报一季作物的施肥情况即可"
+            },
+            {
+                "option": "B",
+                "content": "养分总用量通过肥料实物用量和有效养分含量计算得到"
+            },
+            {
+                "option": "C",
+                "content": "针对果园间种农作物的情况，需分别记录不同作物的施肥情况"
+            },
+            {
+                "option": "D",
+                "content": "针对一年三熟，仅填报一季作物的施肥情况即可"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 59,
+        "domain": "第三次全国土壤普查",
+        "question": "开展外业调查采样一般选择下列哪个时段()",
+        "options": [
+            {
+                "option": "A",
+                "content": "果园样点应在刚施肥后"
+            },
+            {
+                "option": "B",
+                "content": "耕地样点应在播种和施肥前或在作物收割后"
+            },
+            {
+                "option": "C",
+                "content": "果园样点应在果品采摘后至施肥前"
+            },
+            {
+                "option": "D",
+                "content": "耕地样点应在刚刚播种和施肥后"
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 60,
+        "domain": "第三次全国土壤普查",
+        "question": "关于园地景观照拍摄的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "在园地外拍摄时，需将样点所在位置纳入取景框下半部分的中心处"
+            },
+            {
+                "option": "B",
+                "content": "在园地内，拍摄东西南北四个方向的景观照即可"
+            },
+            {
+                "option": "C",
+                "content": "除在园地内拍摄外，还需走出园地，在样点附近的视野开阔处拍摄近景和远景相结合的信息"
+            },
+            {
+                "option": "D",
+                "content": "不必走出园地拍摄，近景和远景相结合的信息"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 61,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于士地利用变更调查的做法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "若存在变更，也可不填报变更情况"
+            },
+            {
+                "option": "B",
+                "content": "若存在多次变更，均需填报"
+            },
+            {
+                "option": "C",
+                "content": "若存在变更，则需要分别填报2000年.变更年份、调查年份的二级类名称"
+            },
+            {
+                "option": "D",
+                "content": "首先调查2000年至今是否存在士地利用级类间的变更"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 62,
+        "domain": "第三次全国土壤普查",
+        "question": "下列哪些施肥调查的做法是正确的()",
+        "options": [
+            {
+                "option": "A",
+                "content": "调查样点所在田块近1个熟制年度不同作物施用的肥料情况"
+            },
+            {
+                "option": "B",
+                "content": "填报肥料的具体种类"
+            },
+            {
+                "option": "C",
+                "content": "调查样点所在田块近5年施用的肥料情"
+            },
+            {
+                "option": "D",
+                "content": "填报肥料实物用量、有效养分含量和养分总用量"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 63,
+        "domain": "第三次全国土壤普查",
+        "question": "关于轮作制度填报，下列哪些说法是正确的()",
+        "options": [
+            {
+                "option": "A",
+                "content": "华北平原通常按先小麦、后玉米的顺序填报"
+            },
+            {
+                "option": "B",
+                "content": "针对一年三熟，按自然年内作物的收获时序进行填报"
+            },
+            {
+                "option": "C",
+                "content": "华北平原通常按先玉米、后小麦的顺序填报"
+            },
+            {
+                "option": "D",
+                "content": "针对一年两熟，按自然年内作物的播种时序进行填报"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    },
+    {
+        "id": 64,
+        "domain": "第三次全国土壤普查",
+        "question": "关于表层土壤容重样品采集，下列说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "在临近的三个混样点分别采集一个土壤容重平行样品"
+            },
+            {
+                "option": "B",
+                "content": "以梅花法的中心混样点为中心选择包含中心点的三个临近的混样点"
+            },
+            {
+                "option": "C",
+                "content": "当砾石丰度超过20%时，不采集士壤容重样品"
+            },
+            {
+                "option": "D",
+                "content": "三个土壤容重平行样品采集后混合成1个样品"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 65,
+        "domain": "第三次全国土壤普查",
+        "question": "下述哪些成士环境主要从局地尺度影响土壤类型()",
+        "options": [
+            {
+                "option": "A",
+                "content": "气候"
+            },
+            {
+                "option": "B",
+                "content": "母质"
+            },
+            {
+                "option": "C",
+                "content": "地形"
+            },
+            {
+                "option": "D",
+                "content": "时间"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 66,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于耕地样点所在田块秸秆还田比例估算的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "害分作物填报还田比例"
+            },
+            {
+                "option": "B",
+                "content": "若是油菜-水稻轮作，则需分别填报油菜和水稻各自还田比例"
+            },
+            {
+                "option": "C",
+                "content": "需调查近1个熟制年度内秸秆还田比例"
+            },
+            {
+                "option": "D",
+                "content": "高留茬秸秆量需计入还田比例"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 67,
+        "domain": "第三次全国土壤普查",
+        "question": "关于园地景观照拍摄的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "在园地外拍摄时，需将样点所在位置纳入取景框下半部分的中心处"
+            },
+            {
+                "option": "B",
+                "content": "在园地内，拍摄东西南北四个方向的景观照即可"
+            },
+            {
+                "option": "C",
+                "content": "除在园地内拍摄外，还需走出园地，在样点附近的视野开阔处拍摄近景和远景相结合的信息"
+            },
+            {
+                "option": "D",
+                "content": "不必走出园地拍摄，近景和远景相结合的信息需拍摄东、西、南、北四个方向的景观照"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 68,
+        "domain": "第三次全国土壤普查",
+        "question": "施肥调查时，农户施用的下列哪些肥料需计入化学氮肥用量()",
+        "options": [
+            {
+                "option": "A",
+                "content": "氮磷钾复合肥"
+            },
+            {
+                "option": "B",
+                "content": "鸡粪"
+            },
+            {
+                "option": "C",
+                "content": "有机-无机复混肥"
+            },
+            {
+                "option": "D",
+                "content": "尿素"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 69,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于坡度的描述，错误的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "坡度对丘陵山区士壤的影响很小，可不调查"
+            },
+            {
+                "option": "B",
+                "content": "若样点处于梯田，则不需要测量坡度"
+            },
+            {
+                "option": "C",
+                "content": "若样点处于梯田，则坡度记录为0度"
+            },
+            {
+                "option": "D",
+                "content": "指所处地形部位的整体坡度"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 70,
+        "domain": "第三次全国土壤普查",
+        "question": "填报耕地样点作物产量水平时，下列说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "若近1个熟制年度内种植的是小麦与水稻，则需分别填报小麦亩产和水稻亩产"
+            },
+            {
+                "option": "B",
+                "content": "不需要分作物填报"
+            },
+            {
+                "option": "C",
+                "content": "若近1个熟制年度内种植的是小麦与玉米，则需分别填报小麦亩产和玉米亩产"
+            },
+            {
+                "option": "D",
+                "content": "需要分作物填报"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 71,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于山地和丘陵的描述，准确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "低山的绝对高程大于500米，但小于1000米"
+            },
+            {
+                "option": "B",
+                "content": "丘陵的绝对高程高于1000米"
+            },
+            {
+                "option": "C",
+                "content": "低丘的相对高差大于200米，但小于500米"
+            },
+            {
+                "option": "D",
+                "content": "山地的绝对高程高于500米"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 72,
+        "domain": "第三次全国土壤普查",
+        "question": "若预设表层样点未通过局地代表性核查，列关于样点现场调整的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "原则上必须在同一士壤图范围内调整"
+            },
+            {
+                "option": "B",
+                "content": "丘陵区可在以预设样点为起点的200米范围内调整样点"
+            },
+            {
+                "option": "C",
+                "content": "样点现场调整不需要上报省级士壤普查办"
+            },
+            {
+                "option": "D",
+                "content": "平原区可在以预设样点为起点的300米范围内调整样点"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 73,
+        "domain": "第三次全国土壤普查",
+        "question": "关于耕地样点耕作层厚度调查的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "拍摄混样点照片时，需反映耕作层厚度"
+            },
+            {
+                "option": "B",
+                "content": "耕作层厚度是多点的平均值"
+            },
+            {
+                "option": "C",
+                "content": "至少调查三个混样点的耕作层厚度"
+            },
+            {
+                "option": "D",
+                "content": "仅记录一个混样点的耕作层厚度即可"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 74,
+        "domain": "第三次全国土壤普查",
+        "question": "关于基岩出露和地表砾石的描述，下列说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "地表砾石易于移动"
+            },
+            {
+                "option": "B",
+                "content": "出露的基岩是根植于士壤深处无法移动"
+            },
+            {
+                "option": "C",
+                "content": "出露的基岩易于移动"
+            },
+            {
+                "option": "D",
+                "content": "地表砾石根植于士壤深处，无法移动"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    },
+    {
+        "id": 75,
+        "domain": "第三次全国土壤普查",
+        "question": "开展盐碱地调查采样一般选择下列那个时段()",
+        "options": [
+            {
+                "option": "A",
+                "content": "尽可能选在旱季"
+            },
+            {
+                "option": "B",
+                "content": "可选在雨后1-2天内"
+            },
+            {
+                "option": "C",
+                "content": "可选在灌溉后一周内"
+            },
+            {
+                "option": "D",
+                "content": "应尽可能选择在返盐季"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 76,
+        "domain": "第三次全国土壤普查",
+        "question": "下列哪些施肥调查的做法是正确的()",
+        "options": [
+            {
+                "option": "A",
+                "content": "调查样点所在田块近1个熟制年度不同作物施用的肥料情况"
+            },
+            {
+                "option": "B",
+                "content": "调查样点所在田块近5年施用的肥料情"
+            },
+            {
+                "option": "C",
+                "content": "填报肥料实物用量、有效养分含量和养分总用量"
+            },
+            {
+                "option": "D",
+                "content": "填报肥料的具体种类"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 77,
+        "domain": "第三次全国土壤普查",
+        "question": "秸秆还田方式包括下列哪些类型()",
+        "options": [
+            {
+                "option": "A",
+                "content": "粉碎翻压还田"
+            },
+            {
+                "option": "B",
+                "content": "焚烧还田"
+            },
+            {
+                "option": "C",
+                "content": "留高茬还田"
+            },
+            {
+                "option": "D",
+                "content": "堆腐还田"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 78,
+        "domain": "第三次全国土壤普查",
+        "question": "下列哪些肥料中含有化学氮肥()",
+        "options": [
+            {
+                "option": "A",
+                "content": "尿素"
+            },
+            {
+                "option": "B",
+                "content": "钙镁磷肥"
+            },
+            {
+                "option": "C",
+                "content": "碳酸氢筱"
+            },
+            {
+                "option": "D",
+                "content": "磷酸二胺"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 79,
+        "domain": "第三次全国土壤普查",
+        "question": "针对轮作制度调查，下列说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "针对一年一熟，按不同年份作物的收获时序进行填报"
+            },
+            {
+                "option": "B",
+                "content": "针对一年两熟，第一季可填为小麦，第二季可填为玉米"
+            },
+            {
+                "option": "C",
+                "content": "针对一年三熟，按自然年内作物的收获时序进行填报"
+            },
+            {
+                "option": "D",
+                "content": "针对一年两熟，按自然年内作物的播种时序进行填报"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 80,
+        "domain": "第三次全国土壤普查",
+        "question": "开展表层样点调查采样时，下列哪些做法是正确的()",
+        "options": [
+            {
+                "option": "A",
+                "content": "若电子围栏内的样点不具代表性，也不必进行样点调整"
+            },
+            {
+                "option": "B",
+                "content": "必须在预设样点位置采样"
+            },
+            {
+                "option": "C",
+                "content": "需要进行局地代表性核查"
+            },
+            {
+                "option": "D",
+                "content": "样品采集时需要避开田坎、沟渠等的影响"
+            }
+        ],
+        "answer": "CD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 81,
+        "domain": "第三次全国土壤普查",
+        "question": "下列属于士地利用一级类之间变更的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "耕转草"
+            },
+            {
+                "option": "B",
+                "content": "水田改旱地"
+            },
+            {
+                "option": "C",
+                "content": "耕转园"
+            },
+            {
+                "option": "D",
+                "content": "草转耕"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 82,
+        "domain": "第三次全国土壤普查",
+        "question": "表层土壤调查时所有样点必须采集下列哪些照片()",
+        "options": [
+            {
+                "option": "A",
+                "content": "技术领队现场工作照"
+            },
+            {
+                "option": "B",
+                "content": "地表特写照"
+            },
+            {
+                "option": "C",
+                "content": "混样点照"
+            },
+            {
+                "option": "D",
+                "content": "景观照"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 83,
+        "domain": "第三次全国土壤普查",
+        "question": "园地调查时，需要填报下列哪些内容()",
+        "options": [
+            {
+                "option": "A",
+                "content": "园地作物株高"
+            },
+            {
+                "option": "B",
+                "content": "园地作物覆盖度"
+            },
+            {
+                "option": "C",
+                "content": "园地作物和植年龄"
+            },
+            {
+                "option": "D",
+                "content": "园地作物类型"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 84,
+        "domain": "第三次全国土壤普查",
+        "question": "外业调查采样技术领队有下列哪些任务()",
+        "options": [
+            {
+                "option": "A",
+                "content": "开展样品采集"
+            },
+            {
+                "option": "B",
+                "content": "在基层一线技术人员的深度参与下开展士壤利用调查"
+            },
+            {
+                "option": "C",
+                "content": "开展成土环境调查"
+            },
+            {
+                "option": "D",
+                "content": "开展外业样点定位与局地代表性核查"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 85,
+        "domain": "第三次全国土壤普查",
+        "question": "关于表层士壤调查混样点位置选择的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "需把混样点均匀布设在电子围栏内的同个代表性的田块上"
+            },
+            {
+                "option": "B",
+                "content": "耕地混样点位置选择需避开沟渠、田坎、防护林等的影响"
+            },
+            {
+                "option": "C",
+                "content": "混样点不能过于聚集，一般要求混样点两两间隔在15m以上"
+            },
+            {
+                "option": "D",
+                "content": "可把混样点布设在电子围栏内的多个田块上"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 86,
+        "domain": "第三次全国土壤普查",
+        "question": "针对熟制类型调查，下列说法错误的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "东北平原通常填一年一熟"
+            },
+            {
+                "option": "B",
+                "content": "四川盆地通常填一年一熟"
+            },
+            {
+                "option": "C",
+                "content": "华北平原通常填一年两熟"
+            },
+            {
+                "option": "D",
+                "content": "长江中下游平原通常填一年两熟"
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 87,
+        "domain": "第三次全国土壤普查",
+        "question": "下列成土母质中，不属于原位风化形成的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "冲积物"
+            },
+            {
+                "option": "B",
+                "content": "坡积物"
+            },
+            {
+                "option": "C",
+                "content": "洪积物"
+            },
+            {
+                "option": "D",
+                "content": "残积物"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 88,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于含砾石土壤样品采集的做法，正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "野外将过筛后的细士样品粒径小于2mm)和较小砾石(粒径2-5mm)全部装入样品袋，舍弃较大砾石"
+            },
+            {
+                "option": "B",
+                "content": "野外重估测研石主度"
+            },
+            {
+                "option": "C",
+                "content": "野外需使用5mm孔径的尼龙筛分离较大砾石，野外称量并记录较大砾石的重量"
+            },
+            {
+                "option": "D",
+                "content": "可用目测法、研石重量和密度ia体积排水量法等方法估测砾石丰度"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 89,
+        "domain": "第三次全国土壤普查",
+        "question": "蔬菜地可分为下列哪些类型()",
+        "options": [
+            {
+                "option": "A",
+                "content": "露天蔬菜地"
+            },
+            {
+                "option": "B",
+                "content": "日光温室蔬菜地"
+            },
+            {
+                "option": "C",
+                "content": "塑料大棚蔬菜地"
+            },
+            {
+                "option": "D",
+                "content": "玻璃温室蔬菜地"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 90,
+        "domain": "第三次全国土壤普查",
+        "question": "下列哪些肥料中含有化学磷肥()",
+        "options": [
+            {
+                "option": "A",
+                "content": "磷酸二按"
+            },
+            {
+                "option": "B",
+                "content": "尿素"
+            },
+            {
+                "option": "C",
+                "content": "有机-无机复混肥"
+            },
+            {
+                "option": "D",
+                "content": "硫酸钾"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 91,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于高原上区分低丘、高丘、低山等中地形的做法正确的是 ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "首先依据相对高差进行判断"
+            },
+            {
+                "option": "B",
+                "content": "当相对高差为100m时，可判断为低丘"
+            },
+            {
+                "option": "C",
+                "content": "直接按绝对高程进行判断"
+            },
+            {
+                "option": "D",
+                "content": "当相对高差为300m时，可判断为高丘"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 92,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于高原上区分低丘、高丘、低山、中山、高山、极高山等中地形的做法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "首先依据相对高差进行判断"
+            },
+            {
+                "option": "B",
+                "content": "当相对高差超过500m时，根据绝对高程判断"
+            },
+            {
+                "option": "C",
+                "content": "当相对高差小于200m时可判断为低丘"
+            },
+            {
+                "option": "D",
+                "content": "直接依据绝对高程进行判断"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 93,
+        "domain": "第三次全国土壤普查",
+        "question": "开展盐碱地调查采样一般选择下列那个时段()",
+        "options": [
+            {
+                "option": "A",
+                "content": "应尽可能选择在返盐季"
+            },
+            {
+                "option": "B",
+                "content": "可选在灌溉后一周内"
+            },
+            {
+                "option": "C",
+                "content": "尽可能选在旱季"
+            },
+            {
+                "option": "D",
+                "content": "可选在雨后1-2天内"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 94,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于土地利用变更调查的做法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "若存在变更，也可不填报变更情况"
+            },
+            {
+                "option": "B",
+                "content": "若存在变更，则需要分别填报2000年.变更年份、调查年份的二级类名称"
+            },
+            {
+                "option": "C",
+                "content": "首先调查2000年至今是否存在士地利用级类间的变更"
+            },
+            {
+                "option": "D",
+                "content": "若存在多次变更，均需填报"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 95,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于采样深度的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "若耕地样点耕作层厚度为25厘米，则采集0-20厘米深度的士壤"
+            },
+            {
+                "option": "B",
+                "content": "若园地样点有效士层厚度为13厘米，则采集0一40厘米深度的士壤"
+            },
+            {
+                "option": "C",
+                "content": "若耕地样点耕作层厚度为16厘米，则采集0一20厘米深度的士壤"
+            },
+            {
+                "option": "D",
+                "content": "若园地样点有效士层厚度为13厘米，则采集0一13厘米深度的士壤"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 96,
+        "domain": "第三次全国土壤普查",
+        "question": "关于表层样点采样深度描述正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "若耕地样点有效士层厚度不足20厘米采样深度为有效士层厚度"
+            },
+            {
+                "option": "B",
+                "content": "园地样点为0一40厘米"
+            },
+            {
+                "option": "C",
+                "content": "采样深度与耕层厚度需保持一致"
+            },
+            {
+                "option": "D",
+                "content": "耕地、林地与草地样点为0一20厘米"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 97,
+        "domain": "第三次全国土壤普查",
+        "question": "关于秸秆还田比例调查的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "还田量<10%时，视为无"
+            },
+            {
+                "option": "B",
+                "content": "还田量为50%时，视为中量"
+            },
+            {
+                "option": "C",
+                "content": "还田量为30%时，视为少量"
+            },
+            {
+                "option": "D",
+                "content": "还田量为60%时，视为大量"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 98,
+        "domain": "第三次全国土壤普查",
+        "question": "关于表层土壤调查，混样点的说法错误的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "北方部分地区田块细长，混样点可分布在多个田块"
+            },
+            {
+                "option": "B",
+                "content": "南方部分地区田块细小，混样点可分布在多个田块"
+            },
+            {
+                "option": "C",
+                "content": "每个样点的混样点数量为5一15个"
+            },
+            {
+                "option": "D",
+                "content": "要求所有混样点须均匀分布于同一个田块或样地"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    },
+    {
+        "id": 99,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于表层样点现场调整的做法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "野外通过APP在拟调整后的样点位置提出申请"
+            },
+            {
+                "option": "B",
+                "content": "省级士壤普查办审核通过后，即可在新调整后的样点位置开展调查采样"
+            },
+            {
+                "option": "C",
+                "content": "通过APP提交样点现场调整所需的图文等佐证材料至省级士壤普查办"
+            },
+            {
+                "option": "D",
+                "content": "在丘陵区，最大调整距离一般在F栏边界之外的100m以内"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 100,
+        "domain": "第三次全国土壤普查",
+        "question": "下列关于耕地样点所在田块秸秆还田比例估算的说法正确的是()",
+        "options": [
+            {
+                "option": "A",
+                "content": "需调查近1个熟制年度内秸秆还田比例"
+            },
+            {
+                "option": "B",
+                "content": "需分作物填报还田比例"
+            },
+            {
+                "option": "C",
+                "content": "若是油菜- 水稻轮作，则需分别填报油菜和水稻各自还田比例"
+            },
+            {
+                "option": "D",
+                "content": "高留茬秸秆量需计入还田比例"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 101,
+        "domain": "土地资源管理学",
+        "question": "按照现行土地分类，下列属于其他农用地的有()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "畜禽饲养地"
+            },
+            {
+                "option": "B",
+                "content": "设施农业用地"
+            },
+            {
+                "option": "C",
+                "content": "牧草地"
+            },
+            {
+                "option": "D",
+                "content": "坑塘水面"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 102,
+        "domain": "土地资源管理学",
+        "question": "下列关于租赁国有土地使用权，表述错误的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "租赁国有土地使用权是土地使用者以按期向土地所有者支付租金为代价而原始取得的一定期限的国有土地使用权"
+            },
+            {
+                "option": "B",
+                "content": "租赁土地使用权发生在土地二级市场，租赁土地使用权应作为土地使用权登记"
+            },
+            {
+                "option": "C",
+                "content": "租赁土地使用权人对其投资建造的地上建筑物.其他附着物不享有所有权"
+            },
+            {
+                "option": "D",
+                "content": "租赁土地使用权转租必须经土地所有权人同意后，不继续履行原国有土地租赁合同。"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 103,
+        "domain": "土地资源管理学",
+        "question": "下列关于土地权属争议调处的受理范围和管辖，说法正确的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "个人之间发生争议案件，由争议土地所在地的县级国土资源行政主管部门调查处理"
+            },
+            {
+                "option": "B",
+                "content": "单位与单位之间发生的争议案件，由争议土地所在地的省级国土资源行政主管部门调查处理"
+            },
+            {
+                "option": "C",
+                "content": "跨设区的市.自治州行政区域的土地权属争议案件，应由省.自治区.直辖市国土资源行政主管部门受理"
+            },
+            {
+                "option": "D",
+                "content": "争议一方为军队，且涉及土地面积较大的，应由设区的市.自治州国土资源行政主管部门受理"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 104,
+        "domain": "土地资源管理学",
+        "question": "土地利用总体规划的意义在于()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "编制和实施土地利用总体规划是解决各种土地利用矛盾的重要手段，也是保证国民经济顺利发展的重要措施"
+            },
+            {
+                "option": "B",
+                "content": "编制和实施土地利用总体规划是合理利用土地的基础"
+            },
+            {
+                "option": "C",
+                "content": "土地利用总体规划为国民经济持续.稳定.协调发展创造有利条件"
+            },
+            {
+                "option": "D",
+                "content": "土地利用总体规划是国家实行用途管制的基础"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 105,
+        "domain": "土地资源管理学",
+        "question": "土地复垦费用，应当根据()合理确定。",
+        "options": [
+            {
+                "option": "A",
+                "content": "土地被破坏程度"
+            },
+            {
+                "option": "B",
+                "content": "复垦时间"
+            },
+            {
+                "option": "C",
+                "content": "复垦工程量"
+            },
+            {
+                "option": "D",
+                "content": "复垦标准"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 106,
+        "domain": "土地资源管理学",
+        "question": "征收下列()用地，须经国务院批准。",
+        "options": [
+            {
+                "option": "A",
+                "content": "征收涉及基本农田的"
+            },
+            {
+                "option": "B",
+                "content": "征收基本农田以外的土地30公顷"
+            },
+            {
+                "option": "C",
+                "content": "征收基本农田以外的土地40公顷"
+            },
+            {
+                "option": "D",
+                "content": "其他土地超过70公顷的"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 107,
+        "domain": "土地资源管理学",
+        "question": "下列关于国有土地使用权出让的方式，表述正确的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "1990年颁布的《城镇国有土地使用权出让和转让暂行条例》，国有土地使用权出让可以采取拍卖.招标或者双方协议的方式"
+            },
+            {
+                "option": "B",
+                "content": "《招标拍卖挂牌出让国有土地使用权规定》(国土资源部令第11号)增加了国有土地使用权出让的挂牌出让方式"
+            },
+            {
+                "option": "C",
+                "content": "商业.公益事业.旅游.娱乐和商品住宅用地，必须采取拍卖.招标或者挂牌方式出让"
+            },
+            {
+                "option": "D",
+                "content": "土地使用权的协议出让指政府作为土地所有者(出让方)与选定的受让方磋商用地条件及价款，达成协议并签订土地使用权出让合同，有偿出让土地使用权的行为"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 108,
+        "domain": "土地资源管理学",
+        "question": "下列农用地转用的批准权限中，应由国务院批准的包括()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "城区人口在100万以上的其他城市用地"
+            },
+            {
+                "option": "B",
+                "content": "自治区人民政府所在地城市用地"
+            },
+            {
+                "option": "C",
+                "content": "涉及到基本农田的"
+            },
+            {
+                "option": "D",
+                "content": "县级市所在的城镇建设占用农用地的"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 109,
+        "domain": "土地资源管理学",
+        "question": "中国土地市场体系有其自身的特点，主要表现在()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "中国土地市场是政府驱动型市场"
+            },
+            {
+                "option": "B",
+                "content": "目前中国城市土地市场在土地市场体系中占据主导地位"
+            },
+            {
+                "option": "C",
+                "content": "中国城市土地市场是完全竞争型市场"
+            },
+            {
+                "option": "D",
+                "content": "在企业改制中实行土地政策性入市"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 110,
+        "domain": "土地资源管理学",
+        "question": "下列关于土地使用权抵押的法律特征，表述不正确的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "用于抵押的土地使用权必须是通过有偿出让或转让方式取得的合法土地使用权，并且是已办理土地登记手续的土地使用权"
+            },
+            {
+                "option": "B",
+                "content": "土地使用权抵押设定本身发生土地使用权转移"
+            },
+            {
+                "option": "C",
+                "content": "土地使用权抵押时，其地上建筑物及其他附着物随之抵押"
+            },
+            {
+                "option": "D",
+                "content": "土地使用权人将土地抵押后，丧失转让权"
+            }
+        ],
+        "answer": "BD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 112,
+        "domain": "土地资源管理学",
+        "question": "下列关于土地出让市场的各种说法，正确的有",
+        "options": [
+            {
+                "option": "A",
+                "content": "土地使用权出让的地块、用途由市、县人民政府决定。"
+            },
+            {
+                "option": "B",
+                "content": "我国境内外的一切公司、企业、其他组织和个人，都可以取得国有土地使用权。"
+            },
+            {
+                "option": "C",
+                "content": "土地使用权出让的年限，一般根据不同行业和经营项目的实际需要确定，如综合用地的最高年限40年。"
+            },
+            {
+                "option": "D",
+                "content": "土地使用权出让，可以采取协议、招标、拍卖三种方式，但经营性用地，只能采取招标和拍卖。"
+            }
+        ],
+        "answer": "BD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 113,
+        "domain": "土地资源管理学",
+        "question": "下列属于非法批地行为的有()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "县级人民政府批准农用地转用"
+            },
+            {
+                "option": "B",
+                "content": "省级人民政府批准征收基本农田以外的土地300亩"
+            },
+            {
+                "option": "C",
+                "content": "省级人民政府批准占用基本农田"
+            },
+            {
+                "option": "D",
+                "content": "国务院批准征收基本农田"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 114,
+        "domain": "土地资源管理学",
+        "question": "下列()的城市总体规划，应报国务院审批。",
+        "options": [
+            {
+                "option": "A",
+                "content": "重庆市的城市总体规划"
+            },
+            {
+                "option": "B",
+                "content": "南京市的城市总体规划"
+            },
+            {
+                "option": "C",
+                "content": "厦门市的城市总体规划"
+            },
+            {
+                "option": "D",
+                "content": "山东省临清市的城市总体规划"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 115,
+        "domain": "土地资源管理学",
+        "question": "下列属于《中华人民共和国土地管理法》确立的基本制度的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "国家实行土地登记制度"
+            },
+            {
+                "option": "B",
+                "content": "国家实行土地无偿无限期使用制度"
+            },
+            {
+                "option": "C",
+                "content": "国家实行保护耕地的制度"
+            },
+            {
+                "option": "D",
+                "content": "国家实行基本农田保护制度"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 116,
+        "domain": "土地资源管理学",
+        "question": "甲公司与乙公司就甲享有所有权的位于A县县城的某大厦以及该大厦占用范围内的国有土地使用权达成了转让协议，甲.乙两公司应当(ABD",
+        "options": [
+            {
+                "option": "A",
+                "content": "签订书面房地产转让合同"
+            },
+            {
+                "option": "B",
+                "content": "向A县人民政府房地产管理部门申请房产变更登记，并凭变更后的房屋所有权证书向A县土地管理部门申请土地使用权变更登记 "
+            },
+            {
+                "option": "C",
+                "content": "向A县人民政府土地管理部门申请土地使用权变更登记，并凭变更后的土地使用权证书向A县房地产管理部门申请房产所有权变更登记 "
+            },
+            {
+                "option": "D",
+                "content": "该房地产转让给乙公司后，原土地使用权出让合同中载明的权利和义务随之转移到乙公司，由乙公司享有和承担 "
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 117,
+        "domain": "土地资源管理学",
+        "question": "《中华人民共和国城市房地产管理法》规定，()应当定期确定并公布。",
+        "options": [
+            {
+                "option": "A",
+                "content": "基准地价"
+            },
+            {
+                "option": "B",
+                "content": "标定地价"
+            },
+            {
+                "option": "C",
+                "content": "各类房屋的重置价格"
+            },
+            {
+                "option": "D",
+                "content": "各类房屋的市场价格"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 118,
+        "domain": "土地资源管理学",
+        "question": "在土地利用总体规划确定的城市建设用地范围内，为实施城市规划占用土地的，按照下列()规定办理。",
+        "options": [
+            {
+                "option": "A",
+                "content": "市.县人民政府按照土地利用年度计划拟订农用地转用方案.补充耕地方案.征收土地方案，分批次逐级上报有批准权的人民政府"
+            },
+            {
+                "option": "B",
+                "content": "市.县人民政府土地行政主管部门按照土地利用年度计划拟订农用地转用方案.补充耕地方案.征收土地方案，分批次逐级上报有批准权的人民政府"
+            },
+            {
+                "option": "C",
+                "content": "有批准权的人民政府土地行政主管部门对农用地转用方案.补充耕地方案.征收土地方案进行审查，提出审查意见，报有批准权的人民政府批准;其中，补充耕地方案由批准农用地转用方案的人民政府在批准农用地转用方案时一并批准"
+            },
+            {
+                "option": "D",
+                "content": "农用地转用方案.补充耕地方案.征收土地方案经批准后，由市.县人民政府组织实施，按具体建设项目分别供地"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 119,
+        "domain": "土地资源管理学",
+        "question": "《土地复垦规定》规定，复垦后的土地用于农.林.牧.渔业生产的，依照国家有关规定();用于基本建设的，依照国家有关规定()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "减免农业税"
+            },
+            {
+                "option": "B",
+                "content": "减免耕地占用税"
+            },
+            {
+                "option": "C",
+                "content": "给予处罚"
+            },
+            {
+                "option": "D",
+                "content": "给予优惠"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 120,
+        "domain": "土地资源管理学",
+        "question": "《基本农田保护条例》规定，国务院()部门按照国务院规定的职责分工，依照本条例负责全国的基本农田保护管理工作。",
+        "options": [
+            {
+                "option": "A",
+                "content": "土地行政主管部门"
+            },
+            {
+                "option": "B",
+                "content": "农业行政主管部门"
+            },
+            {
+                "option": "C",
+                "content": "建设行政主管部门"
+            },
+            {
+                "option": "D",
+                "content": "发展改革委员会"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    },
+    {
+        "id": 121,
+        "domain": "土地资源管理学",
+        "question": "《城镇国有土地使用权出让和转让暂行条例》规定，土地使用权出让可以采取的方式有()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "挂牌"
+            },
+            {
+                "option": "B",
+                "content": "招标"
+            },
+            {
+                "option": "C",
+                "content": "协议"
+            },
+            {
+                "option": "D",
+                "content": "拍卖"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 122,
+        "domain": "土地资源管理学",
+        "question": "下列关于建设项目用地预审，表述正确的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "建设项目用地实行分级预审"
+            },
+            {
+                "option": "B",
+                "content": "需人民政府或有批准权的人民政府发展和改革等部门审批的建设项目，由该人民政府的国土资源管理部门预审"
+            },
+            {
+                "option": "C",
+                "content": "需核准和备案的建设项目，由与核准.备案机关上一级的国土资源管理部门预审"
+            },
+            {
+                "option": "D",
+                "content": "需核准和备案的建设项目，由与核准.备案机关同级的国土资源管理部门预审"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 123,
+        "domain": "土地资源管理学",
+        "question": "《招标拍卖挂牌出让国有土地使用权规定》规定，()情况下，主持人应当终止拍卖。",
+        "options": [
+            {
+                "option": "A",
+                "content": "竞买人不足三人"
+            },
+            {
+                "option": "B",
+                "content": "竞买人不足七人"
+            },
+            {
+                "option": "C",
+                "content": "竞买人的最低应价未达到底价"
+            },
+            {
+                "option": "D",
+                "content": "竞买人的最高应价未达到底价"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 124,
+        "domain": "土地资源管理学",
+        "question": "下列关于耕地总量动态平衡的各种说法中，正确的有",
+        "options": [
+            {
+                "option": "A",
+                "content": "所谓总量，是指耕地数量的总和"
+            },
+            {
+                "option": "B",
+                "content": "耕地总量动态平衡具有长远性"
+            },
+            {
+                "option": "C",
+                "content": "耕地总量动态平衡具有区域性。"
+            },
+            {
+                "option": "D",
+                "content": "耕地总量动态平衡要考虑环境的适应性"
+            },
+            {
+                "option": "E",
+                "content": "耕地总量动态平衡是指一定时期耕地的质量和数量的总和不变。"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 125,
+        "domain": "土地资源管理学",
+        "question": "W市A县县城居民孙某对A县人民政府国土资源管理部门对其做出的处罚行为不服，孙某可以向() 申请行政复议。",
+        "options": [
+            {
+                "option": "A",
+                "content": "A县人民政府"
+            },
+            {
+                "option": "B",
+                "content": "A县人民政府国土资源管理部门 "
+            },
+            {
+                "option": "C",
+                "content": "W市人民政府"
+            },
+            {
+                "option": "D",
+                "content": "W市人民政府国土资源管理部门"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 126,
+        "domain": "土地资源管理学",
+        "question": "《确定土地所有权和使用权的若干规定》明确，土地所有权和使用权由()确定，()部门具体承办。",
+        "options": [
+            {
+                "option": "A",
+                "content": "县级以上人民政府"
+            },
+            {
+                "option": "B",
+                "content": "乡级以上人民政府"
+            },
+            {
+                "option": "C",
+                "content": "土地管理部门"
+            },
+            {
+                "option": "D",
+                "content": "规划管理部门"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 127,
+        "domain": "土地资源管理学",
+        "question": "B县A房地产开发公司将其在C县县城开发建设的商品房预售给王某，按照《土地登记规则(修正)》规定，商品房预售，A房地产开发公司应当在该预售合同签订后三十日内，将预售合同向() 部门登记备案",
+        "options": [
+            {
+                "option": "A",
+                "content": "B县人民政府房产管理部门 "
+            },
+            {
+                "option": "B",
+                "content": "B县人民政府土地管理部门 "
+            },
+            {
+                "option": "C",
+                "content": "C县人民政府房产管理部门 "
+            },
+            {
+                "option": "D",
+                "content": "C县县人民政府土地管理部门 "
+            }
+        ],
+        "answer": "CD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 128,
+        "domain": "土地资源管理学",
+        "question": "《国务院关于加强土地调控有关问题的通知》()规定，征地补偿安置必须以()为原则。",
+        "options": [
+            {
+                "option": "A",
+                "content": "确保被征地农民原有生活水平不降低"
+            },
+            {
+                "option": "B",
+                "content": "确保被征地农民长远生计有保障"
+            },
+            {
+                "option": "C",
+                "content": "确保被征地农民长远生计有部分保障"
+            },
+            {
+                "option": "D",
+                "content": "确保被征地农民原有生活水平不提高"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    },
+    {
+        "id": 129,
+        "domain": "土地资源管理学",
+        "question": "下列土地，属于免征土地使用税的是()。",
+        "options": [
+            {
+                "option": "A",
+                "content": "国家机关自用的土地"
+            },
+            {
+                "option": "B",
+                "content": "市政街道.广场.绿化地带等公共用地"
+            },
+            {
+                "option": "C",
+                "content": "宗教寺庙.公园.名胜古迹自用的土地"
+            },
+            {
+                "option": "D",
+                "content": "由国家财政部门拨付事业经费的单位非自用的土地"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    },
+    {
+        "id": 130,
+        "domain": "土地资源管理学",
+        "question": "下列说法中，属于土地自然特性的有：()A、土地功能的永久性  B、土地供给的稀缺性C、土地报酬递减的可能性   D、土地质量的差异性E、土地利用方向变更的困难性",
+        "options": [
+            {
+                "option": "A",
+                "content": "土地功能的永久性"
+            },
+            {
+                "option": "B",
+                "content": "土地供给的稀缺性"
+            },
+            {
+                "option": "C",
+                "content": "土地报酬递减的可能性"
+            },
+            {
+                "option": "D",
+                "content": "土地质量的差异性"
+            },
+            {
+                "option": "E",
+                "content": "土地利用方向变更的困难性"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    },
+    {
+        "id": 131,
+        "question": "国有企业改革中，原划拨土地使用权可采取的土地资产处置方式包括：（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "出让"
+            },
+            {
+                "option": "B",
+                "content": "保留行政划拨"
+            },
+            {
+                "option": "C",
+                "content": "作价入股"
+            },
+            {
+                "option": "D",
+                "content": "授权经营"
+            },
+            {
+                "option": "E",
+                "content": "租赁"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 132,
+        "question": "下列关于城市土地利用特性的各种说法，正确的有：（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "位置在城市土地利用中很重要"
+            },
+            {
+                "option": "B",
+                "content": "土地利用途径的多样性"
+            },
+            {
+                "option": "C",
+                "content": "面积对于城市土地利用具有较小的限制作用"
+            },
+            {
+                "option": "D",
+                "content": "很难改变用途"
+            },
+            {
+                "option": "E",
+                "content": "交通运输对土地利用不重要"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 133,
+        "question": "根据土壤监测目的，土壤环境监测包括 等主要类型。（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "农田土壤环境质量监测"
+            },
+            {
+                "option": "B",
+                "content": "区域土壤环境背景监测"
+            },
+            {
+                "option": "C",
+                "content": "建设项目土壤环境评价监测"
+            },
+            {
+                "option": "D",
+                "content": "土壤污染事故监测"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 134,
+        "question": "下列哪些指标属于土壤环境监测重点项目？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "铜"
+            },
+            {
+                "option": "B",
+                "content": "阳离子交换量"
+            },
+            {
+                "option": "C",
+                "content": "滴滴涕"
+            },
+            {
+                "option": "D",
+                "content": "有机质"
+            }
+        ],
+        "answer": "AC",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 135,
+        "question": "土壤环境监测调查时，有哪几种布点方法？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "简单随机"
+            },
+            {
+                "option": "B",
+                "content": "分块随机"
+            },
+            {
+                "option": "C",
+                "content": "抽签随机"
+            },
+            {
+                "option": "D",
+                "content": "系统随机"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 136,
+        "question": "土壤样品采集分为哪几个阶段？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "预备采样"
+            },
+            {
+                "option": "B",
+                "content": "前期采样"
+            },
+            {
+                "option": "C",
+                "content": "正式采样"
+            },
+            {
+                "option": "D",
+                "content": "补充采样"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 137,
+        "question": "下列哪些情况可以直接采样？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "面积较小的土壤污染调查"
+            },
+            {
+                "option": "B",
+                "content": "面积较大的土壤污染调查"
+            },
+            {
+                "option": "C",
+                "content": "突发性土壤污染事故调查"
+            },
+            {
+                "option": "D",
+                "content": "持续性土壤污染事故调查"
+            }
+        ],
+        "answer": "AC",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 138,
+        "question": "进行区域土壤环境背景调查采样时，监测点位应符合下列哪些原则？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "采样点选在地形相对平坦、稳定、植被良好的地点"
+            },
+            {
+                "option": "B",
+                "content": "城镇、住宅、道路、沟渠、粪坑、坟墓附近等处不宜设采样点"
+            },
+            {
+                "option": "C",
+                "content": "采样点离铁路、公路至少200m以上"
+            },
+            {
+                "option": "D",
+                "content": "在水土流失严重处设采样点"
+            }
+        ],
+        "answer": "AB",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 139,
+        "question": "在进行土壤环境监测调查时，样品标签应注明哪些内容？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "采样时间"
+            },
+            {
+                "option": "B",
+                "content": "采样地点"
+            },
+            {
+                "option": "C",
+                "content": "监测项目"
+            },
+            {
+                "option": "D",
+                "content": "采样深度"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 140,
+        "question": "根据我国土壤质地分类标准，土壤质地分为（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "砂土"
+            },
+            {
+                "option": "B",
+                "content": "矿土"
+            },
+            {
+                "option": "C",
+                "content": "壤土"
+            },
+            {
+                "option": "D",
+                "content": "粘土"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 141,
+        "question": "对于农田土壤监测单元的点位布设情况，下列说法正确的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "大气污染型土壤监测单元采用均匀布点"
+            },
+            {
+                "option": "B",
+                "content": "固体废物堆污染型土壤监测单元以污染源为中心放射状布点"
+            },
+            {
+                "option": "C",
+                "content": "农用化学物质污染型土壤监测单元以污染源为中心放射状布点"
+            },
+            {
+                "option": "D",
+                "content": "综合污染型土壤监测单元布点采用综合放射状、均匀、带状布点法"
+            }
+        ],
+        "answer": "BD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 142,
+        "question": "一般农田土壤环境监测采集耕作层土样，采样深度说法正确的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "种植一般农作物采0～20cm"
+            },
+            {
+                "option": "B",
+                "content": "种植果林类农作物采0～60cm"
+            },
+            {
+                "option": "C",
+                "content": "种植一般农作物采0～60cm"
+            },
+            {
+                "option": "D",
+                "content": "种植果林类农作物采0～20cm"
+            }
+        ],
+        "answer": "AB",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 143,
+        "question": "建设项目土壤环境评价监测采样时，点位布设情况为（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "小型建设项目设1个柱状样采样点"
+            },
+            {
+                "option": "B",
+                "content": "大中型建设项目不少于3个柱状样采样点"
+            },
+            {
+                "option": "C",
+                "content": "特大型建设项目不少于4个柱状样采样点"
+            },
+            {
+                "option": "D",
+                "content": "对土壤环境影响敏感的建设项目不少于5个柱状样采样点"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 144,
+        "question": "对于非机械干扰土，每个柱状样取样深度都为100cm，分层取土样，正确的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "表层样（0～20cm）"
+            },
+            {
+                "option": "B",
+                "content": "表层样（5～20cm）"
+            },
+            {
+                "option": "C",
+                "content": "深层样（50～100cm）"
+            },
+            {
+                "option": "D",
+                "content": "深层样（60～100cm）"
+            }
+        ],
+        "answer": "AD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 145,
+        "question": "关于城市土壤的监测采样，说法正确的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "分两层采样"
+            },
+            {
+                "option": "B",
+                "content": "分三层采样"
+            },
+            {
+                "option": "C",
+                "content": "监测点以网距2000 m的网格布设为主"
+            },
+            {
+                "option": "D",
+                "content": "各层单独取样监测"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 146,
+        "question": "对于固体污染物抛洒污染型的事故土壤监测，采样点位需满足（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "打扫后采集表层5 cm土样"
+            },
+            {
+                "option": "B",
+                "content": "打扫后采集表层20 cm土样"
+            },
+            {
+                "option": "C",
+                "content": "采样点数不少于3个"
+            },
+            {
+                "option": "D",
+                "content": "采样点数不少于5个"
+            }
+        ],
+        "answer": "AC",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 147,
+        "question": "土壤粗磨样可直接用于土壤中 项目的分析。（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "pH值"
+            },
+            {
+                "option": "B",
+                "content": "阳离子交换量"
+            },
+            {
+                "option": "C",
+                "content": "元素有效态含量"
+            },
+            {
+                "option": "D",
+                "content": "有机质"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 148,
+        "question": "对于土壤细磨样，全部过孔径0.25mm（60目）筛的可用于 项目的分析。（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "有机质"
+            },
+            {
+                "option": "B",
+                "content": "农药"
+            },
+            {
+                "option": "C",
+                "content": "土壤全氮量"
+            },
+            {
+                "option": "D",
+                "content": "土壤元素全量"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 149,
+        "question": "下列关于土壤样品保存时限的说法，正确的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "分析取用后的剩余样品保留半年"
+            },
+            {
+                "option": "B",
+                "content": "预留样品保留2年"
+            },
+            {
+                "option": "C",
+                "content": "有争议样品保留5年"
+            },
+            {
+                "option": "D",
+                "content": "仲裁样品永久保存"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 150,
+        "question": "对于土壤样品风干室，需满足下列哪些要求？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "方向朝南，确保阳光照射土壤"
+            },
+            {
+                "option": "B",
+                "content": "通风良好"
+            },
+            {
+                "option": "C",
+                "content": "无易挥发性化学物质"
+            },
+            {
+                "option": "D",
+                "content": "整洁无尘污染"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 151,
+        "question": "对于测定 项目的土壤样品应装满装实采样瓶并密封。（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "氰化物"
+            },
+            {
+                "option": "B",
+                "content": "挥发性有机物"
+            },
+            {
+                "option": "C",
+                "content": "半挥发性有机物"
+            },
+            {
+                "option": "D",
+                "content": "硫化物"
+            }
+        ],
+        "answer": "BC",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 152,
+        "question": "土壤环境质量评价可采用哪些方法？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "内梅罗污染指数评价"
+            },
+            {
+                "option": "B",
+                "content": "超标率评价"
+            },
+            {
+                "option": "C",
+                "content": "背景值及标准偏差评价"
+            },
+            {
+                "option": "D",
+                "content": "综合污染指数评价"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 153,
+        "question": "农田土壤环境监测中，混合样的采集方法主要有（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "对角线法"
+            },
+            {
+                "option": "B",
+                "content": "棋盘式法"
+            },
+            {
+                "option": "C",
+                "content": "蛇形法"
+            },
+            {
+                "option": "D",
+                "content": "梅花点法"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 154,
+        "question": "《土壤环境监测技术规范》规定，新鲜土样在＜4℃的储存环境条件下保存一周后还能用于 项目的分析。（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "汞"
+            },
+            {
+                "option": "B",
+                "content": "砷"
+            },
+            {
+                "option": "C",
+                "content": "六价铬"
+            },
+            {
+                "option": "D",
+                "content": "氰化物"
+            }
+        ],
+        "answer": "AB",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 155,
+        "question": "土壤监测常规项目中的重金属包括 、铬、汞、砷、 、铜、锌、镍。（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "铊"
+            },
+            {
+                "option": "B",
+                "content": "烷基汞"
+            },
+            {
+                "option": "C",
+                "content": "镉"
+            },
+            {
+                "option": "D",
+                "content": "铅"
+            }
+        ],
+        "answer": "CD",
+        "domain": "土壤环境监测技术规范和标准",
+        "difficulty level": "high"
+    },
+    {
+        "id": 156,
+        "question": "环境监测可以分为（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "咨询服务监测"
+            },
+            {
+                "option": "B",
+                "content": "考核试验监测"
+            },
+            {
+                "option": "C",
+                "content": "污染事故监测"
+            },
+            {
+                "option": "D",
+                "content": "纠纷仲裁监测"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 157,
+        "question": "下列关于大气采样时，常用的布点方法分别是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "功能区布点法"
+            },
+            {
+                "option": "B",
+                "content": "矩形布点法"
+            },
+            {
+                "option": "C",
+                "content": "同心圆布点法"
+            },
+            {
+                "option": "D",
+                "content": "对角线布点法"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 158,
+        "question": "环境污染中的三致指的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "致癌"
+            },
+            {
+                "option": "B",
+                "content": "致畸"
+            },
+            {
+                "option": "C",
+                "content": "致突变"
+            },
+            {
+                "option": "D",
+                "content": "致病"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 159,
+        "question": "水样的采集与保存过程中，影响水质均匀的的因素包括（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "时间因素"
+            },
+            {
+                "option": "B",
+                "content": "生物多样性"
+            },
+            {
+                "option": "C",
+                "content": "空间因素"
+            },
+            {
+                "option": "D",
+                "content": "水体的PH值"
+            }
+        ],
+        "answer": "AC",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 160,
+        "question": "将一定量的硫酸肼与六次甲基四胺在一定温度下聚合，生成高分子聚合物，一次作为浊度标准液；在一定条件下与水样浊度相比较，该方法适用于（）浊度的测定。",
+        "options": [
+            {
+                "option": "A",
+                "content": "天然水"
+            },
+            {
+                "option": "B",
+                "content": "饮用水"
+            },
+            {
+                "option": "C",
+                "content": "工业废水"
+            },
+            {
+                "option": "D",
+                "content": "生活污水"
+            }
+        ],
+        "answer": "AB",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 161,
+        "question": "镉的毒性很强，我国规定工厂最高允许镉排放浓度为0.1mg/l，测定镉的方法有（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "冷原子荧光法"
+            },
+            {
+                "option": "B",
+                "content": "原子吸收分光光度法"
+            },
+            {
+                "option": "C",
+                "content": "双硫腙分光光度法"
+            },
+            {
+                "option": "D",
+                "content": "阳极溶出伏安法"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 162,
+        "question": "关于水样的采样时间和频率的说法，正确的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "较大水系干流全年采样不小于6次"
+            },
+            {
+                "option": "B",
+                "content": "采样时应选在丰水期，而不是枯水期"
+            },
+            {
+                "option": "C",
+                "content": "排污渠每年采样不少于3次"
+            },
+            {
+                "option": "D",
+                "content": "背景断面每年采样1次"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 163,
+        "question": "“三同时”制度中的三个同时，是指建设项目需要配套建设的环境保护设施，必须与主体工程（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "同时设计"
+            },
+            {
+                "option": "B",
+                "content": "同时施工"
+            },
+            {
+                "option": "C",
+                "content": "同时申报"
+            },
+            {
+                "option": "D",
+                "content": "同时投产使用"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 164,
+        "question": "富集(浓缩)采样法中吸收液的选择原则是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "与被采集的污染物质发生化学反应快或对其溶解度大"
+            },
+            {
+                "option": "B",
+                "content": "吸收液毒性小、价格低、易于购买，且尽可能回收利用"
+            },
+            {
+                "option": "C",
+                "content": "污染物质被吸收后，应有利于下一步分析测定，最好能直接用于测定"
+            },
+            {
+                "option": "D",
+                "content": "污染物质被吸收液吸收后，要有足够的稳定时间，以满足分析测定所需时间的要求"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 165,
+        "question": "下列选项中属于生物污染途径的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "生物积累"
+            },
+            {
+                "option": "B",
+                "content": "表面吸附"
+            },
+            {
+                "option": "C",
+                "content": "生物吸收"
+            },
+            {
+                "option": "D",
+                "content": "生物传播"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 166,
+        "question": "我国环境污染防治法规定的承担民事责任的方式是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "排除危害"
+            },
+            {
+                "option": "B",
+                "content": "赔礼道歉"
+            },
+            {
+                "option": "C",
+                "content": "恢复原状"
+            },
+            {
+                "option": "D",
+                "content": "支付违约"
+            }
+        ],
+        "answer": "AC",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 167,
+        "question": "关于自然资源使用权的取得方式的说法正确的是（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "授予取得"
+            },
+            {
+                "option": "B",
+                "content": "转让取得"
+            },
+            {
+                "option": "C",
+                "content": "强制取得"
+            },
+            {
+                "option": "D",
+                "content": "确认取得"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "生态环境监测",
+        "difficulty level": "high"
+    },
+    {
+        "id": 168,
+        "question": "2019年新修订的《土地管理法》规定，集体经营性建设用地符合以下条件可以通过出让、出租等方式交由农村集体以外的单位或个人直接使用（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "符合规划"
+            },
+            {
+                "option": "B",
+                "content": "依法登记"
+            },
+            {
+                "option": "C",
+                "content": "三分之二以上成员或者三分之二以上村民代表的同意"
+            },
+            {
+                "option": "D",
+                "content": "必须在年度计划中作出安排"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 169,
+        "question": "2019年新修订的《土地管理法》规定，允许已经进城落户的农村村民在符合（）原则下退出宅基地",
+        "options": [
+            {
+                "option": "A",
+                "content": "自愿原则"
+            },
+            {
+                "option": "B",
+                "content": "有偿退出"
+            },
+            {
+                "option": "C",
+                "content": "公平补偿"
+            },
+            {
+                "option": "A",
+                "content": "政府指导"
+            }
+        ],
+        "answer": "AB",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 170,
+        "question": "城市分批次范围内有具体建设项目，报批农用地转用、土地征收材料时，应附具项目名单，列明项目（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "名称"
+            },
+            {
+                "option": "B",
+                "content": "性质"
+            },
+            {
+                "option": "C",
+                "content": "规模"
+            },
+            {
+                "option": "D",
+                "content": "用地面积"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 171,
+        "question": "下列哪些情况下，县级以上人民政府自然资源主管部门可以责令交还土地，处以罚款？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "将农村集体土地使用权出租转让用于非农建设"
+            },
+            {
+                "option": "B",
+                "content": "依法收回国有土使用权当事人拒不交出土地的"
+            },
+            {
+                "option": "C",
+                "content": "临时使用土地期满拒不归还的"
+            },
+            {
+                "option": "D",
+                "content": "不按照批准的用途使用国有土地的"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 172,
+        "question": "在土地利用总体规划和城市总体规划确定的建设用地范围外，不得设立各类开发区（园区）和城市新区（小区）。对清理后拟保留的开发区，必须依据土地利用总体规划和城市总体规划，按照（）的原则严格审核",
+        "options": [
+            {
+                "option": "A",
+                "content": "布局集中"
+            },
+            {
+                "option": "B",
+                "content": "用地集约"
+            },
+            {
+                "option": "C",
+                "content": "节约用地"
+            },
+            {
+                "option": "D",
+                "content": "产业集聚"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 173,
+        "question": "征收土地需要报国务院审批的为（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "基本农田"
+            },
+            {
+                "option": "B",
+                "content": "基本农田以外的耕地不超过三十五公顷的"
+            },
+            {
+                "option": "C",
+                "content": "其他土地超过七十公顷的"
+            },
+            {
+                "option": "D",
+                "content": "沿海滩涂超过一百四十公顷的"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 174,
+        "question": "根据2019年新修订的《土地管理法》，土地利用总体规划编制的原则包括（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "落实国土空间开发保护要求，严格土地用途管制"
+            },
+            {
+                "option": "B",
+                "content": "提高土地节约集约利用水平"
+            },
+            {
+                "option": "C",
+                "content": "占用耕地与开发复垦耕地数量平衡、质量相当"
+            },
+            {
+                "option": "D",
+                "content": "严格保护永久基本农田，严格控制非农业建设占用农用地"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 175,
+        "question": "国家征收土地的，依照法定程序批准后，由县级以上地方人民政府予以公告并组织实施。县级以上地方人民政府拟申请征收土地的，应当开展拟征收土地（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "预评估"
+            },
+            {
+                "option": "B",
+                "content": "现状调查"
+            },
+            {
+                "option": "C",
+                "content": "社会稳定风险评估"
+            },
+            {
+                "option": "D",
+                "content": "社会保障"
+            }
+        ],
+        "answer": "BC",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 176,
+        "question": "在规划撤并的村庄范围内，停止审批（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "危房改造"
+            },
+            {
+                "option": "B",
+                "content": "新建住宅"
+            },
+            {
+                "option": "C",
+                "content": "重建住宅"
+            },
+            {
+                "option": "D",
+                "content": "改建住宅"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 177,
+        "question": "国家为了公共利益的需要，可以依法对集体所有的土地实行征用，公共利益包含下列哪些选项:（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "由政府组织实施的能源、交通、水利、通信、邮政等基础设施建设需要用地"
+            },
+            {
+                "option": "B",
+                "content": "军事和外交需要用地的"
+            },
+            {
+                "option": "C",
+                "content": "由政府组织实施的扶贫搬迁、保障性安居工程建设需要用地的"
+            },
+            {
+                "option": "D",
+                "content": "在土地利用总体规划确定的城镇建设用地范围内，经省级以上人民政府批准由县级以上地方人民政府组织实施的成片开发建设需要用地的"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 178,
+        "question": "非法批准征用、占用基本农田5亩以上不足10亩的，或者其他耕地15亩以上不足30亩的，或者其他土地30亩以上不足50亩的，给予（）或者（）处分",
+        "options": [
+            {
+                "option": "A",
+                "content": "记过"
+            },
+            {
+                "option": "B",
+                "content": "记大过"
+            },
+            {
+                "option": "C",
+                "content": "降级"
+            },
+            {
+                "option": "D",
+                "content": "撤职"
+            }
+        ],
+        "answer": "CD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 179,
+        "question": "为了公共利益的需要，有下列哪些情形之一，确需征收农民集体所有的土地的，可以依法实施征收（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "军事和外交需要用地的"
+            },
+            {
+                "option": "B",
+                "content": "由政府组织实施的能源、交通、水利、通信、邮政等基础设施建设需要用地的"
+            },
+            {
+                "option": "C",
+                "content": "由政府组织实施的扶贫搬迁、保障性安居工程建设需要用地的"
+            },
+            {
+                "option": "D",
+                "content": "在土地利用总体规划确定的城镇建设用地范围内，经省级以上人民政府批准由县级以上地方人民政府组织实施的成片开发建设需要用地的"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 180,
+        "question": "土地行政主管部门的工作人员明知土地违法案件正在查处中，仍继续为其办理土地审批、颁发土地证书等手续，情节较轻的，给予（）或者（）处分",
+        "options": [
+            {
+                "option": "A",
+                "content": "警告"
+            },
+            {
+                "option": "B",
+                "content": "记过"
+            },
+            {
+                "option": "C",
+                "content": "记大过"
+            },
+            {
+                "option": "D",
+                "content": "降级"
+            }
+        ],
+        "answer": "BC",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 181,
+        "question": "经县级以上人民政府依法批准，哪些建设用地可以以划拨方式取得：（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "国家机关用地和军事用地"
+            },
+            {
+                "option": "B",
+                "content": "城市基础设施用地和公益事业用地"
+            },
+            {
+                "option": "C",
+                "content": "因撤销、迁移等原因停止使用土地的"
+            },
+            {
+                "option": "D",
+                "content": "国家重点扶持的能源、交通、水利等基础设施用地"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 182,
+        "question": "下列哪些耕地应当根据土地利用总体规划划为永久基本农田，严格保护？（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "经国务院农业农村主管部门或者县级以上地方人民政府批准确定的粮、棉、油、糖等重要农产品生产基地内的耕地"
+            },
+            {
+                "option": "B",
+                "content": "有良好的水利与水土保持设施的耕地，正在实施改造计划以及可以改造的中、低产田和巳建成的高标准农田"
+            },
+            {
+                "option": "C",
+                "content": "农业科研、教学试验田"
+            },
+            {
+                "option": "D",
+                "content": "蔬菜生产基地"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 183,
+        "question": "有下列情形之一的，由有关人民政府自然资源主管部门报经原批准用地的人民政府或者有批准权的人民政府批准，可以收回国有土地使用权：（）",
+        "options": [
+            {
+                "option": "A",
+                "content": "为实施城市规划进行旧城区改建以及其他公共利益需要，确需使用土地的"
+            },
+            {
+                "option": "B",
+                "content": "土地出让等有偿使用合同约定的使用期限巳经届满的"
+            },
+            {
+                "option": "C",
+                "content": "因单位撤销、迁移等原因，停止使用原划拨的国有土地的"
+            },
+            {
+                "option": "D",
+                "content": "公路、铁路、机场、矿场等经核准报废的"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "土地管理法",
+        "difficulty level": "high"
+    },
+    {
+        "id": 184,
+        "question": "间套作时，带宽的调整取决于 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "农作物品种特性"
+            },
+            {
+                "option": "B",
+                "content": "土壤肥力"
+            },
+            {
+                "option": "C",
+                "content": "农机具"
+            },
+            {
+                "option": "D",
+                "content": "种植密度"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 185,
+        "question": "棉薯间作时，棉花的边行优势为 1－4 行，甘薯的边行劣势为 1－3 行，下列的行比中哪一个合适 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "4：2"
+            },
+            {
+                "option": "B",
+                "content": "6：8"
+            },
+            {
+                "option": "C",
+                "content": "2：8"
+            },
+            {
+                "option": "D",
+                "content": "8：8"
+            }
+        ],
+        "answer": "AC",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 186,
+        "question": "翻耕的作用在于 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "松土"
+            },
+            {
+                "option": "B",
+                "content": "翻土"
+            },
+            {
+                "option": "C",
+                "content": "碎土"
+            },
+            {
+                "option": "D",
+                "content": "平整地面"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 187,
+        "question": "基本耕作包括 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "旋耕"
+            },
+            {
+                "option": "B",
+                "content": "中耕"
+            },
+            {
+                "option": "C",
+                "content": "深松耕"
+            },
+            {
+                "option": "D",
+                "content": "作畦"
+            }
+        ],
+        "answer": "AC",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 188,
+        "question": "起垄的作用有 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "提高地温"
+            },
+            {
+                "option": "B",
+                "content": "防止表土板结"
+            },
+            {
+                "option": "C",
+                "content": "压埋杂草"
+            },
+            {
+                "option": "D",
+                "content": "保墒"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 189,
+        "question": "少耕免耕的做法有 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "用生物措施代替土壤耕作"
+            },
+            {
+                "option": "B",
+                "content": "用化学措施代替土壤耕作"
+            },
+            {
+                "option": "C",
+                "content": "用先进的机具代替土壤耕作"
+            },
+            {
+                "option": "D",
+                "content": "用休闲代替土壤耕作"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 190,
+        "question": "复种争取农时的技术有 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "选择适宜的农作物组合和品种"
+            },
+            {
+                "option": "B",
+                "content": "套作"
+            },
+            {
+                "option": "C",
+                "content": "抢时播种早发早熟"
+            },
+            {
+                "option": "D",
+                "content": "育苗移栽"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 191,
+        "question": "复种的形式有 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "再生复种"
+            },
+            {
+                "option": "B",
+                "content": "接茬复种"
+            },
+            {
+                "option": "C",
+                "content": "移栽复种"
+            },
+            {
+                "option": "D",
+                "content": "套作复种"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 192,
+        "question": "两熟复种的主要形式有 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "小麦玉米两熟"
+            },
+            {
+                "option": "B",
+                "content": "小麦花生两熟"
+            },
+            {
+                "option": "C",
+                "content": "小麦棉花两熟"
+            },
+            {
+                "option": "D",
+                "content": "小麦大豆两熟"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    },
+    {
+        "id": 193,
+        "question": "间套作的作用有 （）",
+        "options": [
+            {
+                "option": "A",
+                "content": "增产增效"
+            },
+            {
+                "option": "B",
+                "content": "稳产保收"
+            },
+            {
+                "option": "C",
+                "content": "协调农作物争地矛盾"
+            },
+            {
+                "option": "D",
+                "content": "减轻杂草危害"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "作物生产之耕作制度",
+        "difficulty level": "high"
+    }
+]

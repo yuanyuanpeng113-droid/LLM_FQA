@@ -1,0 +1,4918 @@
+[
+    {
+        "id": 1,
+        "question": "The role of land can be summarized into the following () functions",
+        "options": [
+            {
+                "option": "A",
+                "content": "Carrying Functions"
+            }, 
+            {
+                "option": "B",
+                "content": "Production function"
+            }, 
+            {
+                "option": "C",
+                "content": "Space functions"
+            }, 
+            {
+                "option": "D",
+                "content": "Value Functions"
+            }, 
+            {
+                "option": "E",
+                "content": "Environmental Functions"
+            }
+        ],
+        "answer": "ABCE",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 2,
+        "question": "The research methods of land resource science are ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Methods of Systems Analysis"
+            }, 
+            {
+                "option": "B",
+                "content": "Methods of landscape ecological analysis"
+            }, 
+            {
+                "option": "C",
+                "content": "GIS technology"
+            }, 
+            {
+                "option": "D",
+                "content": "Methods of socio-economic analysis"
+            }, 
+            {
+                "option": "E",
+                "content": "RS Technology"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 3,
+        "question": "The heat indicators that are closely related to land use and its production potential are ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Temperature"
+            }, 
+            {
+                "option": "B",
+                "content": "cumulative temperature"
+            }, 
+            {
+                "option": "C",
+                "content": "active cumulative temperature"
+            }, 
+            {
+                "option": "D",
+                "content": "Frost-free period"
+            }, 
+            {
+                "option": "E",
+                "content": "Mean annual temperature"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 4,
+        "question": "Soil fertility factors are mainly ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Soil moisture"
+            }, 
+            {
+                "option": "B",
+                "content": "Soil nutrients"
+            }, 
+            {
+                "option": "C",
+                "content": "Soil air"
+            }, 
+            {
+                "option": "D",
+                "content": "Soil heat"
+            }, 
+            {
+                "option": "E",
+                "content": "Soil texture"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 5,
+        "question": "The main types of groundwater include ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Soil water"
+            }, 
+            {
+                "option": "B",
+                "content": "Upper stagnant water"
+            }, 
+            {
+                "option": "C",
+                "content": "Diving"
+            }, 
+            {
+                "option": "D",
+                "content": "Interlayer water"
+            }, 
+            {
+                "option": "E",
+                "content": "Packing gas and water"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 6,
+        "question": "The main types of land degradation in China are ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Soil erosion"
+            }, 
+            {
+                "option": "B",
+                "content": "Land desertification"
+            }, 
+            {
+                "option": "C",
+                "content": "Secondary salinization of land"
+            }, 
+            {
+                "option": "D",
+                "content": "Land contamination"
+            }, 
+            {
+                "option": "E",
+                "content": "Land destruction"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 7,
+        "question": "Plains can be categorized into () depending on the form of accumulation of sediments",
+        "options": [
+            {
+                "option": "A",
+                "content": "Stacked plains"
+            }, 
+            {
+                "option": "B",
+                "content": "Mountain front plains"
+            }, 
+            {
+                "option": "C",
+                "content": "Alluvial plains"
+            }, 
+            {
+                "option": "D",
+                "content": "Lacustrine Plain"
+            }, 
+            {
+                "option": "E",
+                "content": "Coastal Plain"
+            }
+        ],
+        "answer": "BCDE",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 8,
+        "question": "The zonal distribution pattern of land types includes ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Meridional zonation"
+            }, 
+            {
+                "option": "B",
+                "content": "Latitudinal zonation"
+            }, 
+            {
+                "option": "C",
+                "content": "Regional"
+            }, 
+            {
+                "option": "D",
+                "content": "Vertical Zonality"
+            }, 
+            {
+                "option": "E",
+                "content": "Geomorphic zonation"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 9,
+        "question": "Specialized land-use planning is of the nature of (...)",
+        "options": [
+            {
+                "option": "A",
+                "content": "targeted"
+            }, 
+            {
+                "option": "B",
+                "content": "Situational"
+            }, 
+            {
+                "option": "C",
+                "content": "Specificity"
+            }, 
+            {
+                "option": "D",
+                "content": "selective"
+            }, 
+            {
+                "option": "E",
+                "content": "Comprehensiveness"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 10,
+        "question": "Specialized land-use planning includes ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Land development planning"
+            }, 
+            {
+                "option": "B",
+                "content": "Land remediation planning"
+            }, 
+            {
+                "option": "C",
+                "content": "Land conservation planning"
+            }, 
+            {
+                "option": "D",
+                "content": "Land consolidation planning"
+            }, 
+            {
+                "option": "E",
+                "content": "Individual land resource utilization planning"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "Land Resources Land Resources",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 11,
+        "question": "What are the characteristics of soil contamination ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Broad"
+            }, 
+            {
+                "option": "B",
+                "content": "Diversity"
+            }, 
+            {
+                "option": "C",
+                "content": "Concealment"
+            }, 
+            {
+                "option": "D",
+                "content": "Cumulative"
+            }, 
+            {
+                "option": "E",
+                "content": "Irreversibility"
+            }, 
+            {
+                "option": "F",
+                "content": "Long-term"
+            }
+        ],
+        "answer": "ABCDEF",
+        "domain": "Current status and progress of soil pollution control and ecological remediation of mining areas",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 12,
+        "question": "What are the commonly available soil remediation techniques ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Surface Covering and Encapsulation Technologies"
+            }, 
+            {
+                "option": "B",
+                "content": "Electric restoration technology"
+            }, 
+            {
+                "option": "C",
+                "content": "In situ soil leaching technology"
+            }, 
+            {
+                "option": "D",
+                "content": "Curing/stabilization technology"
+            }, 
+            {
+                "option": "E",
+                "content": "Phytoremediation techniques"
+            }, 
+            {
+                "option": "F",
+                "content": "Landfill method"
+            }
+        ],
+        "answer": "ABCDEF",
+        "domain": "Current status and progress of soil pollution control and ecological remediation of mining areas",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 13,
+        "question": "What are the causes of soil salinization ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Climatic factors"
+            }, 
+            {
+                "option": "B",
+                "content": "Water level factors"
+            }, 
+            {
+                "option": "C",
+                "content": "Vegetation factors"
+            }, 
+            {
+                "option": "D",
+                "content": "Topographical factors"
+            }, 
+            {
+                "option": "E",
+                "content": "Human activities"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "Current status and progress of soil pollution control and ecological remediation of mining areas",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 14,
+        "question": "According to the principle of operation, soil pollution treatment and remediation technology can be divided into () methods." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Physical"
+            }, 
+            {
+                "option": "B",
+                "content": "Chemistry"
+            }, 
+            {
+                "option": "C",
+                "content": "Bio"
+            }, 
+            {
+                "option": "D",
+                "content": "in situ/isotopic"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Current status and progress of soil pollution control and ecological remediation of mining areas",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 15,
+        "question": "According to the location of the remediated soil, soil pollution remediation technologies can be categorized into ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "In-situ restoration techniques"
+            }, 
+            {
+                "option": "B",
+                "content": "Surface repair techniques"
+            }, 
+            {
+                "option": "C",
+                "content": "ectopic repair techniques"
+            }, 
+            {
+                "option": "D",
+                "content": "Deep Repair Technology"
+            }
+        ],
+        "answer": "AC",
+        "domain": "Current status and progress of soil pollution control and ecological remediation of mining areas",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 16,
+        "question": "The following statements are among the natural characteristics of land:",
+        "options": [
+            {
+                "option": "A",
+                "content": "Permanence of land functions"
+            }, 
+            {
+                "option": "B",
+                "content": "Scarcity of land supply"
+            }, 
+            {
+                "option": "C",
+                "content": "The potential for diminishing returns to land"
+            }, 
+            {
+                "option": "D",
+                "content": "Variability in land quality"
+            }, 
+            {
+                "option": "E",
+                "content": "Difficulty of changing land use directions"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 17,
+        "question": "Of the following various statements about the theory of location, the following are correct:", "Question": "The following statements about the theory of location are correct:",
+        "options": [
+            {
+                "option": "A",
+                "content": "In terms of economic substance, the theoretical basis of the Slaughter Energy Circle is the cascading land rent of agricultural location"
+            }, 
+            {
+                "option": "B",
+                "content": "The core idea of Weber's industrial location theory is to identify the point with the lowest cost of production of industrial products as the ideal location for industrial firms through the analysis and calculation of the interrelationships of transportation, labor, and agglomeration factors"
+            }, 
+            {
+                "option": "C",
+                "content": "Christaller's central place theory deals with the structure of town settlements and the process of their formation from the point of view of the main functions of central settlements, such as the supply of goods, administration, and transportation"
+            }, 
+            {
+                "option": "D",
+                "content": "The theory of spatial structure is a comprehensive location theory involving the location of agricultural, industrial, tertiary, and urban settlements"
+            }, 
+            {
+                "option": "E",
+                "content": "Location theory is the doctrine of the spatial distribution of natural substances and human activities and their interrelationships in space."
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 18,
+        "question": "The necessary conditions for the establishment of a land market are:",
+        "options": [
+            {
+                "option": "A",
+                "content": "Market economic environment"
+            }, 
+            {
+                "option": "B",
+                "content": "Clarity of land ownership"
+            }, 
+            {
+                "option": "C",
+                "content": "Developed land finance markets"
+            }, 
+            {
+                "option": "D",
+                "content": "Necessary land regulations"
+            }, 
+            {
+                "option": "E",
+                "content": "Regional market intermediaries"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 19,
+        "question": "土地利用应遵循的基本原则包括：",
+        "options": [
+            {
+                "option": "A",
+                "content": "Survey, evaluate and plan first, then develop and utilize"
+            }, 
+            {
+                "option": "B",
+                "content": "Combination of predominantly intensive utilization with guaranteeing an appropriate amount of arable land area"
+            }, 
+            {
+                "option": "C",
+                "content": "Integrate land use ratios while prioritizing agriculture"
+            }, 
+            {
+                "option": "D",
+                "content": "Combination of specialized and integrated utilization"
+            }, 
+            {
+                "option": "E",
+                "content": "Maximizing the three benefits (economic, social and ecological)"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 20,
+        "question": "The following statements regarding the quantitative analysis of the stages of change in the remuneration of land are correct:",
+        "options": [
+            {
+                "option": "A",
+                "content": "When APP (average production) is maximized, TPP (total production) is also maximized"
+            }, 
+            {
+                "option": "B",
+                "content": "When MPP (marginal production) is maximized, TPP is also maximized"
+            }, 
+            {
+                "option": "C",
+                "content": "The MPP curve and the APP curve always intersect at the highest point of the APP curve"
+            }, 
+            {
+                "option": "D",
+                "content": "EPP (elasticity of production) indicates the strength and direction of change in compensation"
+            }, 
+            {
+                "option": "E",
+                "content": "A rational producer always invests in the second stage of production"
+            }
+        ],
+        "answer": "CD",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 21,
+        "question": "The principles to be followed in land price assessment are:",
+        "options": [
+            {
+                "option": "A",
+                "content": "Principle of equity"
+            }, 
+            {
+                "option": "B",
+                "content": "The principle of maximizing returns"
+            }, 
+            {
+                "option": "C",
+                "content": "Alternative principles"
+            }, 
+            {
+                "option": "D",
+                "content": "Principle of expected returns"
+            }, 
+            {
+                "option": "E",
+                "content": "Principles of supply and demand"
+            }
+        ],
+        "answer": "ACDE",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 22,
+        "question": "In the reform of state-owned enterprises, the land asset disposal methods that can be adopted for the original allocated land use rights include:",
+        "options": [
+            {
+                "option": "A",
+                "content": "ceded"
+            }, 
+            {
+                "option": "B",
+                "content": "Retention of administrative transfers"
+            }, 
+            {
+                "option": "C",
+                "content": "equity participation"
+            }, 
+            {
+                "option": "D",
+                "content": "Authorization to operate"
+            }, 
+            {
+                "option": "E",
+                "content": "Leasing"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 23,
+        "question": "The following various statements about the characteristics of urban land use are correct:", 
+        "options": [
+            {
+                "option": "A",
+                "content": "Location matters in urban land use"
+            }, 
+            {
+                "option": "B",
+                "content": "Diversity of land-use pathways"
+            }, 
+            {
+                "option": "C",
+                "content": "Area has a less restrictive effect on urban land use"
+            }, 
+            {
+                "option": "D",
+                "content": "Hard to change use"
+            }, 
+            {
+                "option": "E",
+                "content": "Transportation is not important for land use"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 24,
+        "question": "Of the following various statements about the dynamic balance of the total amount of arable land, the following are correct:", 
+        "options": [
+            {
+                "option": "A",
+                "content": "By total, we mean the sum of the amount of arable land."
+            }, 
+            {
+                "option": "B",
+                "content": "Dynamic balance of the total amount of arable land has a long-term nature"
+            }, 
+            {
+                "option": "C",
+                "content": "Dynamic balance of the total amount of arable land has a regional dimension"
+            }, 
+            {
+                "option": "D",
+                "content": "Dynamic balance of the total amount of arable land takes into account the adaptability of the environment"
+            }, 
+            {
+                "option": "E",
+                "content": "Dynamic equilibrium of the total amount of arable land means that the sum of the quality and quantity of arable land remains unchanged for a certain period of time"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 25,
+        "question": "The following various statements about the land grant market are correct:___",
+        "options": [
+            {
+                "option": "A",
+                "content": "The parcels and uses of land use rights to be granted shall be decided by the people's governments of cities and counties."
+            }, 
+            {
+                "option": "B",
+                "content": "All companies, enterprises, other organizations and individuals, both within and outside China, may acquire the right to use State-owned land."
+            }, 
+            {
+                "option": "C",
+                "content": "The number of years for which land use rights are granted is generally determined according to the actual needs of different industries and business projects, such as a maximum of 40 years for integrated land use"
+            }, 
+            {
+                "option": "D",
+                "content": "Land use rights may be granted by agreement, tender or auction, but for operational land use, only tender and auction may be used."
+            }, 
+            {
+                "option": "E",
+                "content": "Underground natural resources of all kinds, mineral deposits and buried objects, etc., are excluded from land-use rights concessions in return for payment."
+            }
+        ],
+        "answer": "BDE",
+        "domain": "land economics",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 26,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The criteria for assessing the provincial government's responsibility target for arable land protection is ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "The amount of arable land retained in provincial administrative areas shall not be lower than the assessment index of arable land retained issued by the State Council."
+            }, 
+            {
+                "option": "B",
+                "content": "The basic farmland protection area in provincial administrative areas shall not be lower than the assessment index of basic farmland protection area issued by the State Council."
+            }, 
+            {
+                "option": "C",
+                "content": "After all kinds of non-agricultural construction within the provincial administrative area are approved by law to occupy cropland and basic farmland, the area and quality of the cropland and basic farmland supplemented by more land recruitment test questions and problems, please Taobao Land Examination Xiaolingxin shall not be lower than the area and quality of the cropland and basic farmland that has already been occupied.D. The index of the agricultural land diversion within the provincial administrative area shall not be lower than the index of the agricultural land diversion plan issued by the State Council. "
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 27,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The main elements of land consolidation at this stage in China include ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Adoption of engineering, biological and other measures to level land, consolidate fragmented plots, build terraces, regulate aquaculture waters and regularize land for rural settlements"
+            }, 
+            {
+                "option": "B",
+                "content": "Construction of roads, wells, ditches, slopes, protective forests and other farmland and agricultural support works"
+            }, 
+            {
+                "option": "C",
+                "content": "Definition of land tenure, land class, area, survey and registration of land changes, etc."
+            }, 
+            {
+                "option": "D",
+                "content": "Management of sandy, saline and polluted land, soil improvement and revegetation"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 28,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "Cultivated land occupation and replenishment balance means that the occupying unit is responsible for reclaiming cultivated land equivalent to the occupied cultivated land () in accordance with the principle of occupying as much as possible and pleading as much as possible." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Fertility"
+            }, 
+            {
+                "option": "B",
+                "content": "number"
+            }, 
+            {
+                "option": "C",
+                "content": "quality"
+            }, 
+            {
+                "option": "D",
+                "content": "Economic benefits"
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 29,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "Which of the following is arable land ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Drylands"
+            }, 
+            {
+                "option": "B",
+                "content": "paddy fields"
+            }, 
+            {
+                "option": "C",
+                "content": "Watered land"
+            }, 
+            {
+                "option": "D",
+                "content": "Vegetable Patch"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 30,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The responsibility of the provincial people's government in the compensation system for farmland occupation is ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Designation of Cropland Reclamation Programs"
+            }, 
+            {
+                "option": "B",
+                "content": "Supervision of the reclamation of arable land by construction units and the people's governments of counties and municipalities"
+            }, 
+            {
+                "option": "C",
+                "content": "Organization of the reclamation of arable land"
+            }, 
+            {
+                "option": "D",
+                "content": "Organization of land consolidation"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 31,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "Supplemental cropland audits are mainly composed of ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Whether the unit responsible for replenishing arable land and the implementation unit are implemented"
+            }, 
+            {
+                "option": "B",
+                "content": "Whether the location and area of supplementary cropland plots are determined"
+            }, 
+            {
+                "option": "C",
+                "content": "Appropriateness of ways and means of replenishing arable land"
+            }, 
+            {
+                "option": "D",
+                "content": "The adequacy of measures to ensure the replenishment of arable land"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 32,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "In the delineation of basic farmland protection zones, priority should be given to the basic get to his protection zone ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Cultivated land that needs to be returned to the lake"
+            }, 
+            {
+                "option": "B",
+                "content": "Cultivated land around construction sites in cities and villages, market towns"
+            }, 
+            {
+                "option": "C",
+                "content": "Cultivated land around transportation routes, such as railroads and highways, according to the General Utilization Plan"
+            }, 
+            {
+                "option": "D",
+                "content": "Cropland in need of reforestation"
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 33,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "Which of the following are objects of land reclamation ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Abandoned highway"
+            }, 
+            {
+                "option": "B",
+                "content": "Power plant ash storage site"
+            }, 
+            {
+                "option": "C",
+                "content": "Municipal dumps"
+            }, 
+            {
+                "option": "D",
+                "content": "Land occupied by abandoned buildings"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 34,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The following should be classified as basic farmland protection zones ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Experimental fields for teaching agricultural research"
+            }, 
+            {
+                "option": "B",
+                "content": "Vegetable production sites"
+            }, 
+            {
+                "option": "C",
+                "content": "Cropland with a slope of 28 degrees"
+            }, 
+            {
+                "option": "D",
+                "content": "Land surrounding the building site of the market town"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 35,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The Regulations on the Protection of Basic Farmland stipulate that it is prohibited to () or unauthorized quarrying, mining, earth extraction, or solid waste piling in the basic farmland protection zone." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Drainage repair"
+            }, 
+            {
+                "option": "B",
+                "content": "Jian kiln"
+            }, 
+            {
+                "option": "C",
+                "content": ", Building a house"
+            }, 
+            {
+                "option": "D",
+                "content": "Building Graves"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 36,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The following statements about arable land occupation and compensation balance are correct ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Where land is supplied after unified land acquisition for urban construction sites, the people's governments of cities and counties shall be responsible for the obligation to create land."
+            }, 
+            {
+                "option": "B",
+                "content": "For construction project sites outside urban construction sites, it is the construction unit that bears the obligation to reclaim arable land, and the competent land administration department of the municipal or county people's government is responsible for supervision and acceptance"
+            }, 
+            {
+                "option": "C",
+                "content": "The construction of villages and market towns occupying arable land may be exempted from the obligation to reclaim arable land."
+            }, 
+            {
+                "option": "D",
+                "content": "If there are no conditions for reclamation, or if the reclaimed arable land does not meet the requirements, the construction unit can pay the arable land reclamation fee in accordance with the relevant provisions"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 37,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The Land Development and Consolidation Standards (LDCS), which were developed in China in 2000, contain the following three standards: ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Standards for the Preparation of Land Development and Consolidation Plans"
+            }, 
+            {
+                "option": "B",
+                "content": "Specification for Planning and Design of Land Development and Consolidation Projects"
+            }, 
+            {
+                "option": "C",
+                "content": "Acceptance Procedures for Land Development and Consolidation Projects"
+            }, 
+            {
+                "option": "D",
+                "content": "Regulations for the Management of Funds for Land Development and Consolidation Projects"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 38,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The importance of arable land protection is reflected in ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Arable land protection is related to national food security"
+            }, 
+            {
+                "option": "B",
+                "content": "Arable land protection plays an important role in ecological environment protection"
+            }, 
+            {
+                "option": "C",
+                "content": "Arable land protection is a matter of social stability in our country."
+            }, 
+            {
+                "option": "D",
+                "content": "Arable land protection is a matter of sustainable economic and social development in China"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 39,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "The cost of land reclamation can be charged to () for land destroyed in the course of capital construction." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Production costs"
+            }, 
+            {
+                "option": "B",
+                "content": "Corporate profits"
+            }, 
+            {
+                "option": "C",
+                "content": "Land premiums"
+            }, 
+            {
+                "option": "D",
+                "content": "Capital investment"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 40,
+        "domain": "Cropland protection and land consolidation management",
+        "question": "In accordance with the Regulations on the Protection of Basic Farmland, () shall be assigned to the Basic Farmland Protection Zone." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Fruit production sites"
+            }, 
+            {
+                "option": "B",
+                "content": "Experimental field for teaching agriculture"
+            }, 
+            {
+                "option": "C",
+                "content": "Oil production base"
+            }, 
+            {
+                "option": "D",
+                "content": "Medium and low yielding fields undergoing rehabilitation programs"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 41,
+        "domain": "Third National Soil Census",
+        "question": "The following are part of a large terrain ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Mountain"
+            }, 
+            {
+                "option": "B",
+                "content": "Floodplain"
+            }, 
+            {
+                "option": "C",
+                "content": "Hills"
+            }, 
+            {
+                "option": "D",
+                "content": "Steep slopes"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 42,
+        "domain": "Third National Soil Census",
+        "question": "The following are among the information that needs to be filled in for cropland utilization status ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Crop type"
+            }, 
+            {
+                "option": "B",
+                "content": "Fertilizer type"
+            }, 
+            {
+                "option": "C",
+                "content": "Fertilizer application rates"
+            }, 
+            {
+                "option": "D",
+                "content": "Production levels"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 43,
+        "domain": "Third National Soil Census",
+        "question": "In the collection of information on the erosion type of the field survey, the feature that is characterized by water erosion is ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "The phenomenon of uniform stripping of the surface by spattering and thin diffuse flow"
+            }, 
+            {
+                "option": "B",
+                "content": "Ripple-like grooves formed by fine strands carving the surface, less than 20 cm in depth and width, often disappearing due to cultivation"
+            }, 
+            {
+                "option": "C",
+                "content": "Erosion gullies formed by larger streams cutting through the ground, generally to a depth of less than 1m"
+            }, 
+            {
+                "option": "D",
+                "content": "Erosion phenomena that occur when a taxicab body falls or is displaced by a combination of gravity and water, including landslides, landslide avalanches, and drainage slides"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 44,
+        "domain": "Third National Soil Census",
+        "question": "The following are types of hilly and undulating terrain ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Poipu"
+            }, 
+            {
+                "option": "B",
+                "content": "Uphill"
+            }, 
+            {
+                "option": "C",
+                "content": "Middle Slope;"
+            }, 
+            {
+                "option": "D",
+                "content": "Downhill"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 45,
+        "domain": "Third National Soil Census",
+        "question": "When collecting information for field surveys, the following information belongs to the category of `surface features' ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Erosion;"
+            }, 
+            {
+                "option": "B",
+                "content": "parent rock parent material;"
+            }, 
+            {
+                "option": "C",
+                "content": "Surface gravel ;"
+            }, 
+            {
+                "option": "D",
+                "content": "Bedrock outcrop."
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 46,
+        "domain": "Third National Soil Census",
+        "question": "The following are the types of samples that need to be collected for a topsoil survey in a field survey ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Sample surface capacity;"
+            }, 
+            {
+                "option": "B",
+                "content": "Surface water-stable macroaggregate samples"
+            }, 
+            {
+                "option": "C",
+                "content": "carton specimen sample;"
+            }, 
+            {
+                "option": "D",
+                "content": "Samples for profiling occurs layer analysis"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 47,
+        "domain": "Third National Soil Census",
+        "question": "Profile excavation should follow the following principles ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Profile excavation sites identified based on repeated verification of several observation profiles should be representative in terms of landscape parts, soil types, land use"
+            }, 
+            {
+                "option": "B",
+                "content": "The viewing surface should be oriented in the direction of sunlight to avoid shadow obscuration..."
+            }, 
+            {
+                "option": "C",
+                "content": "The upper portion of the observation surface is strictly off limits to prevent soil compaction or displacement of soil material that could interfere with observation and sampling."
+            }, 
+            {
+                "option": "D",
+                "content": "Excavated topsoil and subsoil shall be stockpiled separately on the left and right sides of the soil pit and backfilled in the original order of the soil layers after completion of the observation in order to maintain the topsoil at the level of the topsoil."
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 48,
+        "domain": "Third National Soil Census",
+        "question": "The profile photographs taken include ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Full profile photo"
+            }, 
+            {
+                "option": "B",
+                "content": "Photographs of individual occurrence layers"
+            }, 
+            {
+                "option": "C",
+                "content": "Photographs of localized neonates, invasives, or signs of serpentine faunal activity."
+            }, 
+            {
+                "option": "D",
+                "content": "Engineering and construction photos"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 49,
+        "domain": "Third National Soil Census",
+        "question": "Observations of morphological characteristics of the soil occurrence layer include ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Occurrence layer traits"
+            }, 
+            {
+                "option": "B",
+                "content": "color"
+            }, 
+            {
+                "option": "C",
+                "content": "wet and dry conditions"
+            }, 
+            {
+                "option": "D",
+                "content": "root system"
+            }, 
+            {
+                "option": "E",
+                "content": "texture, structure"
+            }
+        ],
+        "answer": "ABCDE",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 50,
+        "domain": "Third National Soil Census",
+        "question": "Forms of transition between soil layers include ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Smooth"
+            }, 
+            {
+                "option": "B",
+                "content": "wavy"
+            }, 
+            {
+                "option": "C",
+                "content": "irregular"
+            }, 
+            {
+                "option": "D",
+                "content": "intermittent"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 51,
+        "domain": "Third National Soil Census",
+        "question": "Soil structural body shapes mainly include ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "flake"
+            }, 
+            {
+                "option": "B",
+                "content": "prismatic"
+            }, 
+            {
+                "option": "C",
+                "content": "granular"
+            }, 
+            {
+                "option": "D",
+                "content": "clumping"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 52,
+        "domain": "Third National Soil Census",
+        "question": "With respect to topsoil surveys, the distribution of mixed-sample sites is correctly stated ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "If the field is too small, the mixing points can be distributed in different fields"
+            }, 
+            {
+                "option": "B",
+                "content": "Requirement that all mixing points be evenly distributed in the same field or sample plot"
+            }, 
+            {
+                "option": "C",
+                "content": "Generally requires that the mixing points are separated by more than 15 m"
+            }, 
+            {
+                "option": "D",
+                "content": "The number of mixing points per sample point is 5-15"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 53,
+        "domain": "Third National Soil Census",
+        "question": "What is correctly said about landscape photo shoots of facility vegetable plots ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "No need to step out of the shed or greenhouse to capture a combination of close-up and distant information"
+            }, 
+            {
+                "option": "B",
+                "content": "In addition to photographing inside the shed or greenhouse, it is necessary to get out of the shed or greenhouse and photograph a combination of close-up and long-distance information in the vicinity of the sample point with an open view"
+            }, 
+            {
+                "option": "C",
+                "content": "In a shed or greenhouse, it's enough to take landscape shots in four directions: east, west, south, north and south"
+            }, 
+            {
+                "option": "D",
+                "content": "When shooting outside of a shed or greenhouse, the location of the sample point needs to be incorporated into the center of the bottom half of the viewfinder frame"
+            }
+        ],
+        "answer": "BD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 54,
+        "domain": "Third National Soil Census",
+        "question": "The following are the types of adult matrices ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Granite"
+            }, 
+            {
+                "option": "B",
+                "content": "Residuals"
+            }, 
+            {
+                "option": "C",
+                "content": "Alluvial deposits"
+            }, 
+            {
+                "option": "D",
+                "content": "Slope deposits"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 55,
+        "domain": "Third National Soil Census",
+        "question": "Vegetable plots can be categorized into which of the following types ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Solar greenhouse vegetable plots"
+            }, 
+            {
+                "option": "B",
+                "content": "Glass greenhouse vegetable plots"
+            }, 
+            {
+                "option": "C",
+                "content": "Plastic greenhouse vegetable plots"
+            }, 
+            {
+                "option": "D",
+                "content": "Open Vegetable Plots"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 56,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following are non-leguminous green manure crops ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "February Orchid"
+            }, 
+            {
+                "option": "B",
+                "content": "Shujuku"
+            }, 
+            {
+                "option": "C",
+                "content": "rape"
+            }, 
+            {
+                "option": "D",
+                "content": "Fava beans"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 57,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following fertilizers contain chemical phosphate fertilizers ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Urea"
+            }, 
+            {
+                "option": "B",
+                "content": "Potassium sulphate"
+            }, 
+            {
+                "option": "C",
+                "content": "Di-Press Phosphate"
+            }, 
+            {
+                "option": "D",
+                "content": "Organic-inorganic compound fertilizers"
+            }
+        ],
+        "answer": "CD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 58,
+        "domain": "Third National Soil Census",
+        "question": "In response to a survey on fertilizer management, the wrong practice is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "For biannual crops, it is sufficient to report fertilizer application for one crop only"
+            }, 
+            {
+                "option": "B",
+                "content": "Total nutrient use is calculated from the physical amount of fertilizer and the effective nutrient content"
+            }, 
+            {
+                "option": "C",
+                "content": "For the case of orchard intercropping crops, the fertilization of different crops needs to be recorded separately"
+            }, 
+            {
+                "option": "D",
+                "content": "For three crops per year, it is sufficient to report the fertilizer application for one crop only"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 59,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following time periods is generally chosen for conducting field survey sampling ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Orchard sample points should be just after fertilization"
+            }, 
+            {
+                "option": "B",
+                "content": "Cropland sample points should be before seeding and fertilizer application or after crop harvest"
+            }, 
+            {
+                "option": "C",
+                "content": "Orchard sample points should be after fruit picking and before fertilizer application"
+            }, 
+            {
+                "option": "D",
+                "content": "Cropland sample points should be just after seeding and fertilizer application"
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 60,
+        "domain": "Third National Soil Census",
+        "question": "What is correctly said about garden landscape photo shoots ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "When shooting outside the garden, the location of the sample point needs to be included in the center of the lower half of the viewfinder frame"
+            }, 
+            {
+                "option": "B",
+                "content": "Within the garden, it is sufficient to take landscape photos in four directions: east, west, south, north and south"
+            }, 
+            {
+                "option": "C",
+                "content": "In addition to shooting in the garden, you need to get out of the garden and shoot a combination of close-up and long-distance information in an open view near the sample point"
+            }, 
+            {
+                "option": "D",
+                "content": "No need to get out of the garden to shoot, a combination of close up and distance information"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 61,
+        "domain": "Third National Soil Census",
+        "question": "The following is a correct approach to land-use change surveys ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Changes may be excluded if they exist"
+            }, 
+            {
+                "option": "B",
+                "content": "If there are multiple changes, they all need to be reported"
+            }, 
+            {
+                "option": "C",
+                "content": "If there is a change, you need to fill in separately 2000. Year of change, year of survey secondary class name"
+            }, 
+            {
+                "option": "D",
+                "content": "First to investigate whether there has been a change between land-use classes from 2000 to the present."
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 62,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following fertilizer surveys are correct ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Fertilizer applied to different crops in the last 1 maturity year in the field where the survey sample site is located"
+            }, 
+            {
+                "option": "B",
+                "content": "Fill in the specific type of fertilizer"
+            }, 
+            {
+                "option": "C",
+                "content": "Fertilizer applied in the last 5 years in the field where the survey sample site is located"
+            }, 
+            {
+                "option": "D",
+                "content": "Reporting the physical amount of fertilizer, the effective nutrient content and the total amount of nutrients used"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 63,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following statements are true about crop rotation system filling ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "The North China Plain is usually filled in the order of wheat first, then corn"
+            }, 
+            {
+                "option": "B",
+                "content": "For triple cropping in a year, fill in the harvest sequence of crops in the natural year"
+            }, 
+            {
+                "option": "C",
+                "content": "The North China Plain is usually filled in the order of corn first, then wheat"
+            }, 
+            {
+                "option": "D",
+                "content": "For biannual crops, fill in the time sequence of sowing of crops in the natural year"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 64,
+        "domain": "Third National Soil Census",
+        "question": "The following statement is correct regarding the collection of topsoil bulk weight samples ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "One parallel sample of soil bulk weight was collected at each of the three adjacent mixing points"
+            }, 
+            {
+                "option": "B",
+                "content": "Selection of the three adjacent mixing points containing the center point using the center mixing point of the plum method"
+            }, 
+            {
+                "option": "C",
+                "content": "When gravel abundance exceeds 20%, no soil bulk weight samples are collected."
+            }, 
+            {
+                "option": "D",
+                "content": "Three parallel samples of soil bulk weight collected and mixed into 1 sample"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 65,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following stylized environments affects soil types mainly at the local scale ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Climate"
+            }, 
+            {
+                "option": "B",
+                "content": "Matrix"
+            }, 
+            {
+                "option": "C",
+                "content": "terrain"
+            }, 
+            {
+                "option": "D",
+                "content": "time"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 66,
+        "domain": "Third National Soil Census",
+        "question": "The following statement is correct about the estimation of the proportion of straw returned to the field where the cropland sample site is located ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Harmful sub-crops fill in the return percentage"
+            }, 
+            {
+                "option": "B",
+                "content": "In case of oilseed rape-rice rotation, the respective percentage of oilseed rape and rice returned to the field should be reported separately"
+            }, 
+            {
+                "option": "C",
+                "content": "Need to investigate the proportion of straw returned to the field in the last 1 maturity year"
+            }, 
+            {
+                "option": "D",
+                "content": "The amount of straw in high stubble retention needs to be counted as a percentage of return to the field."
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 67,
+        "domain": "Third National Soil Census",
+        "question": "What is correctly said about garden landscape photo shoots ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "When shooting outside the garden, the location of the sample point needs to be included in the center of the lower half of the viewfinder frame"
+            }, 
+            {
+                "option": "B",
+                "content": "Within the garden, it is sufficient to take landscape photos in four directions: east, west, south, north and south"
+            }, 
+            {
+                "option": "C",
+                "content": "In addition to shooting in the garden, you need to get out of the garden and shoot a combination of close-up and long-distance information in an open view near the sample point"
+            }, 
+            {
+                "option": "D",
+                "content": "No need to get out of the garden to shoot, a combination of close-up and distant information is needed to take landscape photos in four directions: east, west, south and north"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 68,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following fertilizers applied by farmers need to be counted as chemical nitrogen fertilizer use in the fertilizer application survey ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Nitrogen-phosphorus-potassium compound fertilizer"
+            }, 
+            {
+                "option": "B",
+                "content": "Chicken manure"
+            }, 
+            {
+                "option": "C",
+                "content": "Organic-inorganic compound fertilizers"
+            }, 
+            {
+                "option": "D",
+                "content": "Urea"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 69,
+        "domain": "Third National Soil Census",
+        "question": "The following description of the slope is incorrect ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Slope has little effect on hilly mountainous soils and may not be investigated"
+            }, 
+            {
+                "option": "B",
+                "content": "If the sample point is in a terraced field, the slope measurement is not required"
+            }, 
+            {
+                "option": "C",
+                "content": "If the sample point is in a terrace, the slope is recorded as 0 degrees"
+            }, 
+            {
+                "option": "D",
+                "content": "refers to the overall slope of the part of the terrain in which it is located"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 70,
+        "domain": "Third National Soil Census",
+        "question": "The following statements are correct when filling in the crop yield levels for the cropland sample sites ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "If wheat and rice were planted in the last 1 ripening year, the acres of wheat and acres of rice should be reported separately"
+            }, 
+            {
+                "option": "B",
+                "content": "No sub-crop filling required"
+            }, 
+            {
+                "option": "C",
+                "content": "If wheat and corn were planted in the last 1 maturity year, report wheat acres and corn acres separately"
+            }, 
+            {
+                "option": "D",
+                "content": "Need to fill in by crop"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 71,
+        "domain": "Third National Soil Census",
+        "question": "The following descriptions of mountains and hills are accurate ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Absolute elevation of low mountains greater than 500 meters but less than 1000 meters"
+            }, 
+            {
+                "option": "B",
+                "content": "Absolute elevation of hills above 1000 meters"
+            }, 
+            {
+                "option": "C",
+                "content": "Relative elevation differences of low hills greater than 200 meters but less than 500 meters"
+            }, 
+            {
+                "option": "D",
+                "content": "Absolute elevation of mountains is higher than 500 meters"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 72,
+        "domain": "Third National Soil Census",
+        "question": "If the pre-determined surface sample points do not pass the local representativeness check, the correct statement about the sample point site adjustment is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "In principle, adjustments must be made within the same serigraphic map."
+            }, 
+            {
+                "option": "B",
+                "content": "Hilly areas can be adjusted within 200 meters of the starting point of the predefined sample point"
+            }, 
+            {
+                "option": "C",
+                "content": "Sample site adjustments do not need to be reported to the Provincial Census Office"
+            }, 
+            {
+                "option": "D",
+                "content": "Plain area can be adjusted within 300 meters of the starting point of the preset sample point"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 73,
+        "domain": "Third National Soil Census",
+        "question": "The correct statement about the survey of the thickness of the tillage layer in the cropland sample site is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Photographs of mixed sample sites need to be taken to reflect the thickness of the tillage layer"
+            }, 
+            {
+                "option": "B",
+                "content": "Tillage layer thickness is an average of multiple points"
+            }, 
+            {
+                "option": "C",
+                "content": "Tillage thickness surveyed in at least three mixed sampling sites"
+            }, 
+            {
+                "option": "D",
+                "content": "It is sufficient to record the thickness of the tillage layer at only one mixing point."
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 74,
+        "domain": "Third National Soil Census",
+        "question": "The following statements are correct in describing bedrock outcrops and surface gravels ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Easy movement of surface gravel"
+            }, 
+            {
+                "option": "B",
+                "content": "The exposed bedrock is rooted deep in the soil and cannot be moved."
+            }, 
+            {
+                "option": "C",
+                "content": "Outcropping bedrock is easy to move"
+            }, 
+            {
+                "option": "D",
+                "content": "Surface gravels are rooted deep in the soil and cannot be moved."
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 75,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following time periods is generally chosen for conducting saline survey sampling ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Choose the dry season if possible"
+            }, 
+            {
+                "option": "B",
+                "content": "Optional within 1-2 days of rain"
+            }, 
+            {
+                "option": "C",
+                "content": "Optional within one week of irrigation"
+            }, 
+            {
+                "option": "D",
+                "content": "Should be chosen during the salt return season whenever possible"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 76,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following fertilizer surveys are correct ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Fertilizer applied to different crops in the last 1 maturity year in the field where the survey sample site is located"
+            }, 
+            {
+                "option": "B",
+                "content": "Fertilizer applied in the last 5 years in the field where the survey sample site is located"
+            }, 
+            {
+                "option": "C",
+                "content": "Reporting the physical amount of fertilizer, the effective nutrient content and the total amount of nutrients used"
+            }, 
+            {
+                "option": "D",
+                "content": "Fill in the specific type of fertilizer"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 77,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following types of straw return methods are included ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Crushing and tumbling to return to the field"
+            }, 
+            {
+                "option": "B",
+                "content": "Burning to return to the land"
+            }, 
+            {
+                "option": "C",
+                "content": "Leave high stubble to return to the field"
+            }, 
+            {
+                "option": "D",
+                "content": "Heap rotting to fields"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 78,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following fertilizers contain chemical nitrogen fertilizers ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Urea"
+            }, 
+            {
+                "option": "B",
+                "content": "Calcium-magnesium phosphate fertilizer"
+            }, 
+            {
+                "option": "C",
+                "content": "Bicarbonate of Shinoda"
+            }, 
+            {
+                "option": "D",
+                "content": "Diamine phosphate"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 79,
+        "domain": "Third National Soil Census",
+        "question": "In response to the survey on crop rotation systems, the following statement is correct ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "For annual maturity, fill in the harvest timing of crops in different years"
+            }, 
+            {
+                "option": "B",
+                "content": "For biannual crops, the first season can be filled in with wheat and the second season with corn."
+            }, 
+            {
+                "option": "C",
+                "content": "For triple cropping in a year, fill in the harvest sequence of crops in the natural year"
+            }, 
+            {
+                "option": "D",
+                "content": "For biannual crops, fill in the time sequence of sowing of crops in the natural year"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 80,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following practices are correct when conducting a surface sample point survey sampling ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Sample point adjustment is not necessary if the sample points in the e-fence are not representative"
+            }, 
+            {
+                "option": "B",
+                "content": "Must be sampled at a preset sample location"
+            }, 
+            {
+                "option": "C",
+                "content": "Local representation verification required"
+            }, 
+            {
+                "option": "D",
+                "content": "Samples need to be collected to avoid the effects of field banks, ditches, etc."
+            }
+        ],
+        "answer": "CD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 81,
+        "domain": "Third National Soil Census",
+        "question": "The following are changes between classes at the land-use level ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Tillage to grass"
+            }, 
+            {
+                "option": "B",
+                "content": "Conversion of paddy fields to drylands"
+            }, 
+            {
+                "option": "C",
+                "content": "Plow to Garden"
+            }, 
+            {
+                "option": "D",
+                "content": "Grass to Plow"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 82,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following photographs must be taken at all sample sites during a topsoil survey ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Technical Leader Field Work Photos"
+            }, 
+            {
+                "option": "B",
+                "content": "Close-up photo of the surface"
+            }, 
+            {
+                "option": "C",
+                "content": "Mixed sample point-and-shoot"
+            }, 
+            {
+                "option": "D",
+                "content": "Landscape photos"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 83,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following are required to be filled out for the garden survey ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Garden crop height"
+            }, 
+            {
+                "option": "B",
+                "content": "Garden crop cover"
+            }, 
+            {
+                "option": "C",
+                "content": "Garden crops and plant age"
+            }, 
+            {
+                "option": "D",
+                "content": "Garden crop types"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 84,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following tasks does the Technical Leader of the Field Survey Sampling ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Conducting sample collection"
+            }, 
+            {
+                "option": "B",
+                "content": "Conducting soil utilization surveys with deep involvement of frontline technicians at the grassroots level"
+            }, 
+            {
+                "option": "C",
+                "content": "Conducting soil-forming environmental surveys"
+            }, 
+            {
+                "option": "D",
+                "content": "Conducting field sample point location and local representation verification"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 85,
+        "domain": "Third National Soil Census",
+        "question": "The correct statement regarding the selection of the location of the mixed sample sites for the surface soil survey is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Mixed sample points need to be spread evenly over the same representative field within the electronic fence"
+            }, 
+            {
+                "option": "B",
+                "content": "Cropland mixed-sample locations need to be selected to avoid the effects of ditches, field canals, shelterbelts, etc."
+            }, 
+            {
+                "option": "C",
+                "content": "Mixed sample points should not be too congregated, generally require that the mixing points are separated by more than 15 meters."
+            }, 
+            {
+                "option": "D",
+                "content": "Mixed sample points can be placed on multiple fields within the electronic fence"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 86,
+        "domain": "Third National Soil Census",
+        "question": "In response to the ripening type survey, the following statement is incorrect ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "The Northeast Plains are usually filled with annual crops."
+            }, 
+            {
+                "option": "B",
+                "content": "The Sichuan basin is usually filled with one year of ripening."
+            }, 
+            {
+                "option": "C",
+                "content": "The North China Plain is usually filled with biannual ripening."
+            }, 
+            {
+                "option": "D",
+                "content": "The plains of the middle and lower reaches of the Yangtze River are usually filled with biannual ripening."
+            }
+        ],
+        "answer": "BC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 87,
+        "domain": "Third National Soil Census",
+        "question": "The following soil-forming matrices are not formed by in-situ weathering ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Alluvial deposits"
+            }, 
+            {
+                "option": "B",
+                "content": "Slope deposits"
+            }, 
+            {
+                "option": "C",
+                "content": "Flood deposits"
+            }, 
+            {
+                "option": "D",
+                "content": "Residuals"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 88,
+        "domain": "Third National Soil Census",
+        "question": "The following is correct regarding the collection of gravel-bearing soil samples ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "In the field, sieved samples of fines (<2mm) and smaller gravels (2-5mm) were all filled into sample bags, discarding the larger gravels."
+            }, 
+            {
+                "option": "B",
+                "content": "Field Reassessment Measurement of Research Stone Main Degree"
+            }, 
+            {
+                "option": "C",
+                "content": "Field requires the use of a 5mm aperture nylon sieve to separate larger gravels, field weighing and recording the weight of larger gravels"
+            }, 
+            {
+                "option": "D",
+                "content": "Gravel abundance can be estimated by visual methods, weight and density ia volumetric drainage of research stones"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 89,
+        "domain": "Third National Soil Census",
+        "question": "Vegetable plots can be categorized into which of the following types ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Open Vegetable Plots"
+            }, 
+            {
+                "option": "B",
+                "content": "Solar greenhouse vegetable plots"
+            }, 
+            {
+                "option": "C",
+                "content": "Plastic greenhouse vegetable plots"
+            }, 
+            {
+                "option": "D",
+                "content": "Glass greenhouse vegetable plots"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 90,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following fertilizers contain chemical phosphate fertilizers ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Di-Press Phosphate"
+            }, 
+            {
+                "option": "B",
+                "content": "Urea"
+            }, 
+            {
+                "option": "C",
+                "content": "Organic-inorganic compound fertilizers"
+            }, 
+            {
+                "option": "D",
+                "content": "Potassium sulphate"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 91,
+        "domain": "Third National Soil Census",
+        "question": "The following is correct about the distinction between low hills, high hills, low mountains, and other medium terrain on the plateau ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Judgment based on relative height difference first"
+            }, 
+            {
+                "option": "B",
+                "content": "When the relative height difference is 100m, it can be judged as a low hill"
+            }, 
+            {
+                "option": "C",
+                "content": "Judge directly by absolute elevation"
+            }, 
+            {
+                "option": "D",
+                "content": "When the relative height difference is 300m, it can be judged as a high hill"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 92,
+        "domain": "Third National Soil Census",
+        "question": "The following is correct about the distinction between low hills, high hills, low mountains, medium mountains, high mountains, very high mountains, and other medium terrain on the plateau ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Judgment based on relative height difference first"
+            }, 
+            {
+                "option": "B",
+                "content": "When the relative elevation difference exceeds 500m, the judgment is based on the absolute elevation"
+            }, 
+            {
+                "option": "C",
+                "content": "When the relative height difference is less than 200m it can be judged as a low hill"
+            }, 
+            {
+                "option": "D",
+                "content": "Directly based on absolute elevation"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 93,
+        "domain": "Third National Soil Census",
+        "question": "Which of the following time periods is generally chosen for conducting saline survey sampling ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Should be chosen during the salt return season whenever possible"
+            }, 
+            {
+                "option": "B",
+                "content": "Optional within one week of irrigation"
+            }, 
+            {
+                "option": "C",
+                "content": "Choose the dry season if possible"
+            }, 
+            {
+                "option": "D",
+                "content": "Optional within 1-2 days of rain"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 94,
+        "domain": "Third National Soil Census",
+        "question": "The following is a correct approach to land use change surveys ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Changes may be excluded if they exist"
+            }, 
+            {
+                "option": "B",
+                "content": "If there is a change, you need to fill in separately 2000. Year of change, year of survey secondary class name"
+            }, 
+            {
+                "option": "C",
+                "content": "First to investigate whether there has been a change between land-use classes from 2000 to the present."
+            }, 
+            {
+                "option": "D",
+                "content": "If there are multiple changes, they all need to be reported"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 95,
+        "domain": "Third National Soil Census",
+        "question": "The following statement about the sampling depth is correct ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "If the thickness of the tillage layer in the arable sample site is 25 cm, collect the cab soil at a depth of 0-20 cm"
+            }, 
+            {
+                "option": "B",
+                "content": "If the effective layer thickness of the garden sample site is 13 centimeters, then collect 0.1-40 centimeters depth of cab loam."
+            }, 
+            {
+                "option": "C",
+                "content": "If the thickness of the tillage layer in the arable sample site is 16 centimeters, collect the cab soil at a depth of 0 to 20 centimeters."
+            }, 
+            {
+                "option": "D",
+                "content": "If the effective layer thickness of the garden sample site is 13 centimeters, then collect the cab soil at a depth of 0 to 13 centimeters."
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 96,
+        "domain": "Third National Soil Census",
+        "question": "The correct description of the depth of sampling of the surface sample points is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "If the effective stratum thickness of the cropland sample site is less than 20 centimeters, the sampling depth is the effective stratum thickness."
+            }, 
+            {
+                "option": "B",
+                "content": "Garden sample points are 0 to 40 centimeters."
+            }, 
+            {
+                "option": "C",
+                "content": "Sampling depth and tillage thickness need to be consistent"
+            }, 
+            {
+                "option": "D",
+                "content": "Cropland, woodland and grassland sample points are 0 to 20 centimeters"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 97,
+        "domain": "Third National Soil Census",
+        "question": "The correct statement about the survey on the proportion of straw returned to the field is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Considered nil if return to field <10%"
+            }, 
+            {
+                "option": "B",
+                "content": "A return of 50% is considered medium"
+            }, 
+            {
+                "option": "C",
+                "content": "When the amount of return to the field is 30%, it is considered a small amount"
+            }, 
+            {
+                "option": "D",
+                "content": "A return of 60% is considered significant"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 98,
+        "domain": "Third National Soil Census",
+        "question": "With respect to the topsoil survey, the mixed-sample point is incorrectly stated as ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Fields are elongated in parts of the north, and mixing points can be distributed over multiple fields"
+            }, 
+            {
+                "option": "B",
+                "content": "Fields are small in parts of the South, and mixing points can be spread across multiple fields"
+            }, 
+            {
+                "option": "C",
+                "content": "The number of mixing points per sample point is 5 to 15."
+            }, 
+            {
+                "option": "D",
+                "content": "Requirement that all mixing points be evenly distributed in the same field or sample plot"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 99,
+        "domain": "Third National Soil Census",
+        "question": "The following is correct regarding the field adjustment of the surface sample points ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Field application via APP at proposed adjusted sample point locations"
+            }, 
+            {
+                "option": "B",
+                "content": "After the Provincial Shisan Soil Census Office has passed the audit, survey sampling can be carried out at the newly adjusted sample point locations."
+            }, 
+            {
+                "option": "C",
+                "content": "Submitting the supporting materials such as graphs and documents required for on-site adjustments of sample sites to the provincial Shiyang Census Office through APP"
+            }, 
+            {
+                "option": "D",
+                "content": "In hilly areas, the maximum adjustment distance is generally within 100m beyond the boundary of column F"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 100,
+        "domain": "Third National Soil Census",
+        "question": "The following statement is correct about the estimation of the proportion of straw returned to the field where the cropland sample site is located ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Need to investigate the proportion of straw returned to the field in the last 1 maturity year"
+            }, 
+            {
+                "option": "B",
+                "content": "Return rate by crop is required"
+            }, 
+            {
+                "option": "C",
+                "content": "In case of oilseed rape - rice rotation, the respective percentage of oilseed rape and rice returned to the field should be reported separately."
+            }, 
+            {
+                "option": "D",
+                "content": "The amount of straw in high stubble retention needs to be counted as a percentage of return to the field."
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 101,
+        "domain": "land resource management science",
+        "question": "According to the current land classification, the following are other agricultural land ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Livestock feeding grounds"
+            }, 
+            {
+                "option": "B",
+                "content": "Land for facility-based agriculture"
+            }, 
+            {
+                "option": "C",
+                "content": "Pastureland"
+            }, 
+            {
+                "option": "D",
+                "content": "Pothole water surface"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 102,
+        "domain": "land resource management science",
+        "question": "The following is an incorrect statement about leasing state-owned land use rights ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Leasehold State-owned land use right is the State-owned land use right for a certain period of time originally acquired by a land user in consideration of paying rent to the landowner on a regular basis."
+            }, 
+            {
+                "option": "B",
+                "content": "Leasehold land use rights occur in the secondary market for land and leasehold land use rights shall be registered as land use rights"
+            }, 
+            {
+                "option": "C",
+                "content": "Leasehold land use right holders do not have ownership rights over the buildings on the ground that they have invested in constructing.... Other attachments do not enjoy ownership rights."
+            }, 
+            {
+                "option": "D",
+                "content": "The sublease of the right to use leased land must be made with the consent of the landowner without continuing to fulfill the original state-owned land lease contract."
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 103,
+        "domain": "land resource management science",
+        "question": "The following is a correct statement about the scope of acceptance and jurisdiction of land tenure dispute mediation ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Cases of disputes between individuals shall be investigated and handled by the administrative department of land and resources at the county level where the disputed land is located"
+            }, 
+            {
+                "option": "B",
+                "content": "Cases of disputes between units shall be investigated and handled by the administrative department of land and resources at the provincial level where the disputed land is located"
+            }, 
+            {
+                "option": "C",
+                "content": "Cases of land ownership disputes across the . Autonomous Prefecture administrative area of the land ownership dispute cases, shall be the province. Autonomous regions. Municipalities directly under the Central Government shall accept cases of disputes over land ownership in the administrative areas of provinces, autonomous regions and prefectures."
+            }, 
+            {
+                "option": "D",
+                "content": "Where one of the parties to the dispute is the military and the area of land involved is large, it shall be accepted by the municipal . . the administrative department of land and resources of an autonomous prefecture shall accept the case."
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 104,
+        "domain": "land resource management science",
+        "question": "The significance of a master land use plan is ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "The preparation and implementation of land-use master plans is an important means of resolving various land-use conflicts, and an important measure to ensure the smooth development of the national economy"
+            }, 
+            {
+                "option": "B",
+                "content": "Preparation and implementation of land use master plans is the basis for rational land use"
+            }, 
+            {
+                "option": "C",
+                "content": "Land use master plan for national economic sustainability. Stable. Creating favorable conditions for the coordinated development of the national economy"
+            }, 
+            {
+                "option": "D",
+                "content": "Land use master plans are the basis for the State's use control"
+            }
+        ],
+        "answer": "ABCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 105,
+        "domain": "land resource management science",
+        "question": "The cost of land reclamation shall be reasonably determined on the basis of ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Degree of land destruction"
+            }, 
+            {
+                "option": "B",
+                "content": "Reclamation time"
+            }, 
+            {
+                "option": "C",
+                "content": "Volume of reclamation works"
+            }, 
+            {
+                "option": "D",
+                "content": "Reclamation standards"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 106,
+        "domain": "land resource management science",
+        "question": "The expropriation of the following () land shall be subject to the approval of the State Council." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Expropriation involving basic farmland"
+            }, 
+            {
+                "option": "B",
+                "content": "Expropriation of 30 hectares of land other than basic farmland"
+            }, 
+            {
+                "option": "C",
+                "content": "Expropriation of 40 hectares of land other than basic farmland"
+            }, 
+            {
+                "option": "D",
+                "content": "Other land over 70 hectares"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 107,
+        "domain": "land resource management science",
+        "question": "The following is a correct statement about the way in which state-owned land use rights are granted ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "The Interim Regulations on the Granting and Transfer of State-owned Land Use Rights in Cities and Towns, promulgated in 1990, state-owned land use rights can be granted by auction . . bidding or by mutual agreement."
+            }, 
+            {
+                "option": "B",
+                "content": "The Provisions on Tendering, Auctioning and Listing of State-owned Land Use Rights (Ministry of Land and Resources Decree No. 11) added the listing and listing method for the granting of state-owned land use rights."
+            }, 
+            {
+                "option": "C",
+                "content": "Business. Business. Tourism. Entertainment and commercial residential land must be sold by auction. Bidding or listing for sale."
+            }, 
+            {
+                "option": "D",
+                "content": "Agreed transfer of land use rights refers to the act of transferring land use rights in return for payment by the Government, as the landowner (transferor), negotiating the terms and conditions of the site and the price with the selected transferee, reaching an agreement and signing a land use rights transfer contract"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 108,
+        "domain": "land resource management science",
+        "question": "Of the following authorizations for agricultural land conversion, those that should be approved by the State Council include ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Other urban land with an urban population of 1 million or more"
+            }, 
+            {
+                "option": "B",
+                "content": "Urban land where the People's Government of the Autonomous Region is located"
+            }, 
+            {
+                "option": "C",
+                "content": "involving basic agricultural land"
+            }, 
+            {
+                "option": "D",
+                "content": "If the construction of a town in which a county municipality is located occupies agricultural land"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 109,
+        "domain": "land resource management science",
+        "question": "China's land market system has its own characteristics, mainly in ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "China's land market is government-driven"
+            }, 
+            {
+                "option": "B",
+                "content": "China's urban land market currently dominates the land market system"
+            }, 
+            {
+                "option": "C",
+                "content": "China's urban land market is a fully competitive market"
+            }, 
+            {
+                "option": "D",
+                "content": "Implementing land policy for market entry in enterprise restructuring"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 110,
+        "domain": "land resource management science",
+        "question": "The following statement about the legal characteristics of a mortgage on land use rights is incorrect ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "The land use right used for mortgage must be a legal land use right acquired by way of compensated concession or transfer, and a land use right that has been subject to land registration procedures"
+            }, 
+            {
+                "option": "B",
+                "content": "Transfer of land use rights occurs by the creation of the land use right mortgage itself"
+            }, 
+            {
+                "option": "C",
+                "content": "When a land use right is mortgaged, the buildings and other attachments on the land are mortgaged with it."
+            }, 
+            {
+                "option": "D",
+                "content": "Loss of right to alienate after the land user mortgages the land"
+            }
+        ],
+        "answer": "BD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 112,
+        "domain": "land resource management science",
+        "question": "The following various statements about the land grant market are correct",
+        "options": [
+            {
+                "option": "A",
+                "content": "The parcels and uses of land use rights to be offered for sale shall be decided by the people's governments of cities and counties."
+            }, 
+            {
+                "option": "B",
+                "content": "All companies, enterprises, other organizations and individuals, both within and outside China, may acquire the right to use State-owned land."
+            }, 
+            {
+                "option": "C",
+                "content": "The number of years for which land use rights are granted is generally determined according to the actual needs of different industries and business projects, such as a maximum of 40 years for comprehensive land use."
+            }, 
+            {
+                "option": "D",
+                "content": "Land use rights can be granted by agreement, tender and auction, but for operational land, only tender and auction can be used."
+            }
+        ],
+        "answer": "BD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 113,
+        "domain": "land resource management science",
+        "question": "The following are illegal land grants ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Approval of agricultural land conversion by county-level people's governments"
+            }, 
+            {
+                "option": "B",
+                "content": "The provincial people's government approved the expropriation of 300 mu of land other than basic farmland."
+            }, 
+            {
+                "option": "C",
+                "content": "Provincial people's governments approve the occupation of basic farmland"
+            }, 
+            {
+                "option": "D",
+                "content": "State Council approves acquisition of basic farmland"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 114,
+        "domain": "land resource management science",
+        "question": "The following () urban master plans shall be submitted to the State Council for approval." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Chongqing's Urban Master Plan"
+            }, 
+            {
+                "option": "B",
+                "content": "Nanjing's Urban Master Plan"
+            }, 
+            {
+                "option": "C",
+                "content": "Xiamen City's Urban Master Plan"
+            }, 
+            {
+                "option": "D",
+                "content": "Urban Master Plan of Linqing City, Shandong Province"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 115,
+        "domain": "land resource management science",
+        "question": "The following belongs to the basic system established by the Land Management Law of the People's Republic of China ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "National implementation of a land registration system"
+            }, 
+            {
+                "option": "B",
+                "content": "The State has introduced a system of land use without compensation and for an indefinite period of time."
+            }, 
+            {
+                "option": "C",
+                "content": "The State implements a system for the protection of arable land"
+            }, 
+            {
+                "option": "D",
+                "content": "The State implements a basic farmland protection system"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 116,
+        "domain": "land resource management science",
+        "question": "Company A and Company B have reached an agreement on the transfer of a building located in the county seat of County A, to which A has the right of ownership, as well as the right of use of state-owned land within the area occupied by the building, and A . B and Company B shall (ABD",
+        "options": [
+            {
+                "option": "A",
+                "content": "Conclusion of a written contract for the transfer of real estate"
+            }, 
+            {
+                "option": "B",
+                "content": "Apply to the real estate administration department of the People's Government of County A for the registration of change in property, and apply to the land administration department of County A for the registration of change in land use right with the certificate of ownership of the changed house "
+            }, 
+            {
+                "option": "C",
+                "content": "Apply for registration of change of land use right with the land administration department of the People's Government of County A, and apply for registration of change of property ownership with the real estate administration department of County A on the basis of the changed land use right certificate "
+            }, 
+            {
+                "option": "D",
+                "content": "Upon the transfer of the real estate to Company B, the rights and obligations set forth in the original land use right grant contract are subsequently transferred to Company B, to be enjoyed and assumed by Company B."
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 117,
+        "domain": "land resource management science",
+        "question": "The Law of the People's Republic of China on Urban Real Estate Management stipulates that () shall be determined and published periodically." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Benchmark land value"
+            }, 
+            {
+                "option": "B",
+                "content": "Calibrated land value"
+            }, 
+            {
+                "option": "C",
+                "content": "Replacement prices of various types of housing"
+            }, 
+            {
+                "option": "D",
+                "content": "Market prices of various types of housing"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 118,
+        "domain": "land resource management science",
+        "question": "Where land is occupied for the implementation of urban planning within the scope of urban construction land determined by the overall land use plan, it shall be handled in accordance with the following () provisions." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Municipalities. The people's governments of cities and counties, in accordance with the annual land use plan, formulate agricultural land diversion programs. Supplementary Cropland Program. The land expropriation program is submitted in batches to the people's government with approval authority at each level."
+            }, 
+            {
+                "option": "B",
+                "content": "Municipal . The competent land administration department of the people's government of the city or county shall, in accordance with the annual land use plan, formulate a program for the diversion of agricultural land. Supplementary Cropland Program. The land expropriation program is submitted in batches to the people's government with approval authority at each level."
+            }, 
+            {
+                "option": "C",
+                "content": "The land administration department of the people's government with approval authority on the agricultural land conversion program . The program for supplementing farmland. The program for expropriation of land is examined, and an opinion on the examination is submitted for approval by the people's government with approval authority; of which, the program for replenishing arable land is approved by the people's government that approves the program for agricultural land diversion in conjunction with the approval of the program for agricultural land diversion."
+            }, 
+            {
+                "option": "D",
+                "content": "Agricultural Land Conversion Program . Supplementary Cropland Program . After the approval of the land acquisition program, the municipal and county people's governments will organize the implementation of the program and supply land according to specific construction projects. County people's governments to organize and implement, according to the specific construction projects for land supply"
+            }
+        ],
+        "answer": "ACD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 119,
+        "domain": "land resource management science",
+        "question": "The Land Reclamation Regulations stipulate that reclaimed land is used for agriculture . Forestry . Pastoralism. Fishery production, in accordance with relevant state regulations (); for capital construction, in accordance with relevant state regulations ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Agricultural tax relief"
+            }, 
+            {
+                "option": "B",
+                "content": "Reduction of the occupation tax on arable land"
+            }, 
+            {
+                "option": "C",
+                "content": "Penalties imposed"
+            }, 
+            {
+                "option": "D",
+                "content": "Giving Preference"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 120,
+        "domain": "land resource management science",
+        "question": "The Regulations on the Protection of Basic Farmland stipulate that the State Council () departments are responsible for the management of basic farmland protection throughout the country in accordance with these Regulations, in accordance with the division of responsibilities stipulated by the State Council." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Land administration authorities"
+            }, 
+            {
+                "option": "B",
+                "content": "Agricultural administrative authorities"
+            }, 
+            {
+                "option": "C",
+                "content": "Construction administration authorities"
+            }, 
+            {
+                "option": "D",
+                "content": "Development Reform Commission"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 121,
+        "domain": "land resource management science",
+        "question": "The Interim Regulations on the Granting and Transfer of State-owned Land Use Rights in Cities and Towns stipulate that land use rights can be granted in the following ways ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "listing"
+            }, 
+            {
+                "option": "B",
+                "content": "Tenders"
+            }, 
+            {
+                "option": "C",
+                "content": "protocol"
+            }, 
+            {
+                "option": "D",
+                "content": "Auction"
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 122,
+        "domain": "land resource management science",
+        "question": "The following is a correct statement about pre-approval of land for construction projects ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Graded pre-approval of land for construction projects"
+            }, 
+            {
+                "option": "B",
+                "content": "Construction projects requiring the approval of the people's government or the development and reform departments of the people's government with approval authority shall be pre-approved by the land resources management department of that people's government"
+            }, 
+            {
+                "option": "C",
+                "content": "Construction projects subject to approval and filing shall be pre-approved by the land resource management department at the same level as the approving . Pre-approval by the land resource management department at the level above the filing authority"
+            }, 
+            {
+                "option": "D",
+                "content": "Construction projects subject to approval and filing shall be pre-examined by the land resource management department at the same level as the approving . The land resource management department at the same level as the filing authority prequalifies the project."
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 123,
+        "domain": "land resource management science",
+        "question": "The Provisions on Tendering, Auctioning and Listing of State-owned Land Use Rights stipulate that the presiding officer shall terminate the auction in () cases." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Fewer than three bidders"
+            }, 
+            {
+                "option": "B",
+                "content": "Fewer than seven bidders."
+            }, 
+            {
+                "option": "C",
+                "content": "The lowest bidder's response did not meet the reserve price"
+            }, 
+            {
+                "option": "D",
+                "content": "The highest bidder's response did not reach the reserve price"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 124,
+        "domain": "land resource management science",
+        "question": "Of the following various statements about the dynamic equilibrium of the total amount of arable land, the correct one is",
+        "options": [
+            {
+                "option": "A",
+                "content": "By total, we mean the sum of the amount of arable land."
+            }, 
+            {
+                "option": "B",
+                "content": "Dynamic balance of the total amount of arable land has a long-term nature"
+            }, 
+            {
+                "option": "C",
+                "content": "Dynamic balance of the total amount of arable land is regional in nature."
+            }, 
+            {
+                "option": "D",
+                "content": "Dynamic balance of the total amount of arable land takes into account the adaptability of the environment"
+            }, 
+            {
+                "option": "E",
+                "content": "Dynamic equilibrium of the total amount of arable land means that the sum of the quality and quantity of arable land remains unchanged for a certain period of time."
+            }
+        ],
+        "answer": "BCD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 125,
+        "domain": "land resource management science",
+        "question": "Sun, a resident of the county seat of County A of City W, is dissatisfied with the punishment imposed on him by the Land Resources Management Department of the People's Government of County A. Sun may apply for administrative reconsideration to ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "People's Government of County A"
+            }, 
+            {
+                "option": "B",
+                "content": "A County People's Government Land Resources Management Department "
+            }, 
+            {
+                "option": "C",
+                "content": "W Municipal People's Government"
+            }, 
+            {
+                "option": "D",
+                "content": "W Municipal People's Government Land Resources Management Department"
+            }
+        ],
+        "answer": "AD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 126,
+        "domain": "land resource management science",
+        "question": "Several Provisions on Determination of Land Ownership and Use Rights specify that land ownership and use rights are determined by the (), with specific undertakings by the () department." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "People's governments above the county level"
+            }, 
+            {
+                "option": "B",
+                "content": "People's governments above the township level"
+            }, 
+            {
+                "option": "C",
+                "content": "Land administration"
+            }, 
+            {
+                "option": "D",
+                "content": "Planning Administration"
+            }
+        ],
+        "answer": "AC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 127,
+        "domain": "land resource management science",
+        "question": "County B, A real estate development company will be developed and constructed in the county town of County C county of commercial property pre-sale to Wang Mou, according to the Land Registration Rules (Amendment), the pre-sale of commercial property, A real estate development company should be within thirty days after the signing of such pre-sale contract, the pre-sale contract to () department registration for the record ",
+        "options": [
+            {
+                "option": "A",
+                "content": "County B People's Real Estate Administration "
+            }, 
+            {
+                "option": "B",
+                "content": "Land Management Department of the People's Government of County B "
+            }, 
+            {
+                "option": "C",
+                "content": "C County People's Property Management "
+            }, 
+            {
+                "option": "D",
+                "content": "Land Management Department of the County People's Government of County C "
+            }
+        ],
+        "answer": "CD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 128,
+        "domain": "land resource management science",
+        "question": "The Circular of the State Council on Relevant Issues on Strengthening Land Regulation () stipulates that compensation and resettlement for land acquisition must be based on the principle of ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Ensure that the original standard of living of expropriated farmers is not lowered"
+            }, 
+            {
+                "option": "B",
+                "content": "Ensure that the long-term livelihoods of expropriated farmers are secure"
+            }, 
+            {
+                "option": "C",
+                "content": "Ensure that the long-term livelihoods of expropriated farmers are partially secured"
+            }, 
+            {
+                "option": "D",
+                "content": "Ensure that the original standard of living of expropriated farmers is not raised"
+            }
+        ],
+        "answer": "AB",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 129,
+        "domain": "land resource management science",
+        "question": "The following land, which is exempt from land use tax, is ()." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "Land used by State agencies for their own purposes"
+            }, 
+            {
+                "option": "B",
+                "content": "Municipal streets. Plazas . Green areas and other public lands"
+            }, 
+            {
+                "option": "C",
+                "content": "Religious temples. Parks . Land used by monuments for their own purposes."
+            }, 
+            {
+                "option": "D",
+                "content": "Land not used for personal use by units financed by the state treasury for business purposes"
+            }
+        ],
+        "answer": "ABC",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 130,
+        "domain": "land resource management science",
+        "question": "The following statements are natural characteristics of land: () A. Permanence of land functions B. Scarcity of land supply C. Possibility of diminishing returns to land D. Difference in land quality E. Difficulty in changing land use directions",
+        "options": [
+            {
+                "option": "A",
+                "content": "Permanence of land functions"
+            }, 
+            {
+                "option": "B",
+                "content": "Scarcity of land supply"
+            }, 
+            {
+                "option": "C",
+                "content": "The potential for diminishing returns to land"
+            }, 
+            {
+                "option": "D",
+                "content": "Variability in land quality"
+            }, 
+            {
+                "option": "E",
+                "content": "Difficulty of changing land use directions"
+            }
+        ],
+        "answer": "ABD",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 131,
+        "question": "In the reform of state-owned enterprises, the original allocated land use rights can be taken in the form of land asset disposal, including: (...)",
+        "options": [
+            {
+                "option": "A",
+                "content": "ceded"
+            }, 
+            {
+                "option": "B",
+                "content": "Retention of administrative transfers"
+            }, 
+            {
+                "option": "C",
+                "content": "equity participation"
+            }, 
+            {
+                "option": "D",
+                "content": "Authorization to operate"
+            }, 
+            {
+                "option": "E",
+                "content": "Leasing"
+            }
+        ],
+        "answer": "ABCDE",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 132,
+        "question": "The following various statements about the characteristics of urban land use are correct: ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Location matters in urban land use"
+            }, 
+            {
+                "option": "B",
+                "content": "Diversity of land-use pathways"
+            }, 
+            {
+                "option": "C",
+                "content": "Area has a less restrictive effect on urban land use"
+            }, 
+            {
+                "option": "D",
+                "content": "Hard to change use"
+            }, 
+            {
+                "option": "E",
+                "content": "Transportation is not important for land use"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 133,
+        "question": "Depending on the purpose of soil monitoring, soil environmental monitoring includes such major types as. ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Environmental quality monitoring of agricultural soils"
+            }, 
+            {
+                "option": "B",
+                "content": "Regional soil environmental background monitoring"
+            }, 
+            {
+                "option": "C",
+                "content": "Soil environmental assessment monitoring for construction projects"
+            }, 
+            {
+                "option": "D",
+                "content": "Monitoring of soil contamination incidents"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 134,
+        "question": "Which of the following indicators are priorities for soil environmental monitoring? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Copper"
+            }, 
+            {
+                "option": "B",
+                "content": "Cation exchange capacity"
+            }, 
+            {
+                "option": "C",
+                "content": "DDT"
+            }, 
+            {
+                "option": "D",
+                "content": "Organic matter"
+            }
+        ],
+        "answer": "AC",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 135,
+        "question": "What are the types of placement methods used in soil environmental monitoring surveys? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Simple Random"
+            }, 
+            {
+                "option": "B",
+                "content": "chunked random"
+            }, 
+            {
+                "option": "C",
+                "content": "Drawing of lots at random"
+            }, 
+            {
+                "option": "D",
+                "content": "systematic randomization"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 136,
+        "question": "What are the stages of soil sample collection? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Preparing for sampling"
+            }, 
+            {
+                "option": "B",
+                "content": "Pre-sampling"
+            }, 
+            {
+                "option": "C",
+                "content": "Official Sampling"
+            }, 
+            {
+                "option": "D",
+                "content": "Supplementary sampling"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 137,
+        "question": "Which of the following can be sampled directly? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Investigation of soil contamination in smaller areas"
+            }, 
+            {
+                "option": "B",
+                "content": "Survey of soil contamination over a large area"
+            }, 
+            {
+                "option": "C",
+                "content": "Investigation of sudden soil contamination accidents"
+            }, 
+            {
+                "option": "D",
+                "content": "Investigation of persistent soil contamination incidents"
+            }
+        ],
+        "answer": "AC",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 138,
+        "question": "When conducting regional soil environmental background survey sampling, monitoring locations should comply with which of the following principles? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Sampling sites were selected in locations with relatively flat, stable and well-vegetated terrain."
+            }, 
+            {
+                "option": "B",
+                "content": "Sampling points should not be located near towns, homes, roads, ditches, cesspits, graves, etc."
+            }, 
+            {
+                "option": "C",
+                "content": "Sampling points are at least 200m from railroads and roads"
+            }, 
+            {
+                "option": "D",
+                "content": "Setting up sampling points in areas of high erosion"
+            }
+        ],
+        "answer": "AB",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 139,
+        "question": "What should sample labels indicate when conducting soil environmental monitoring surveys? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Sampling time"
+            }, 
+            {
+                "option": "B",
+                "content": "Sampling locations"
+            }, 
+            {
+                "option": "C",
+                "content": "Monitoring projects"
+            }, 
+            {
+                "option": "D",
+                "content": "Sampling depth"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 140,
+        "question": "According to our soil texture classification standard, soil texture is categorized into ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Sandy soil"
+            }, 
+            {
+                "option": "B",
+                "content": "Mineral soil"
+            }, 
+            {
+                "option": "C",
+                "content": "Loamy soil"
+            }, 
+            {
+                "option": "D",
+                "content": "Clay"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 141,
+        "question": "The following statements are correct regarding the placement of points in the soil monitoring unit on agricultural land ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Uniform distribution of air-polluting soil monitoring units is used"
+            }, 
+            {
+                "option": "B",
+                "content": "Solid Waste Pile Contaminated Soil Monitoring Units Radially Distributed with Contamination Sources at the Center"
+            }, 
+            {
+                "option": "C",
+                "content": "Agrochemical-contaminated soil monitoring units radially distributed with contamination sources at the center"
+            }, 
+            {
+                "option": "D",
+                "content": "Integrated contaminated soil monitoring unit placement using an integrated radial, homogeneous, banded placement method"
+            }
+        ],
+        "answer": "BD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 142,
+        "question": "General farmland soil environment monitoring collects soil samples from the till layer, the sampling depth is correctly stated as ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Planting general crops picking 0-20cm"
+            }, 
+            {
+                "option": "B",
+                "content": "Planting of fruit and forest crops picking 0-60cm"
+            }, 
+            {
+                "option": "C",
+                "content": "Planting general crops picking 0-60cm"
+            }, 
+            {
+                "option": "D",
+                "content": "Planting of fruit and forest crops picking 0-20cm"
+            }
+        ],
+        "answer": "AB",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 143,
+        "question": "When sampling for soil environment assessment monitoring of construction projects, the point placement is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "1 column sample point for small construction projects"
+            }, 
+            {
+                "option": "B",
+                "content": "No less than 3 columnar sample sampling points for medium and large construction projects"
+            }, 
+            {
+                "option": "C",
+                "content": "No fewer than four columnar sample sampling points for mega construction projects"
+            }, 
+            {
+                "option": "D",
+                "content": "No fewer than five column sample sampling points for construction projects sensitive to environmental impacts on soil"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 144,
+        "question": "For non-mechanically disturbed soils, each column sample is taken at a depth of 100 cm and the soil samples are taken in layers, correctly ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Surface sample (0-20cm)"
+            }, 
+            {
+                "option": "B",
+                "content": "Surface sample (5-20cm)"
+            }, 
+            {
+                "option": "C",
+                "content": "Deep sample (50-100cm)"
+            }, 
+            {
+                "option": "D",
+                "content": "Deep sample (60-100cm)"
+            }
+        ],
+        "answer": "AD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 145,
+        "question": "Regarding monitoring sampling of urban soils, the correct statement is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Sampling in two layers"
+            }, 
+            {
+                "option": "B",
+                "content": "Sampling in three layers"
+            }, 
+            {
+                "option": "C",
+                "content": "The monitoring points are laid out in grids with a grid spacing of 2000 m."
+            }, 
+            {
+                "option": "D",
+                "content": "Individual sampling and monitoring of each stratum"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 146,
+        "question": "For accidental soil monitoring of the solid pollutant spill contamination type, the sampling sites need to meet ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Top 5 cm soil samples collected after cleaning"
+            }, 
+            {
+                "option": "B",
+                "content": "Top 20 cm soil samples were collected after cleaning."
+            }, 
+            {
+                "option": "C",
+                "content": "The number of sampling points is not less than 3"
+            }, 
+            {
+                "option": "D",
+                "content": "The number of sampling points is not less than 5"
+            }
+        ],
+        "answer": "AC",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 147,
+        "question": "Coarsely ground samples of soil can be used directly for analysis of items in soil. ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "pH"
+            }, 
+            {
+                "option": "B",
+                "content": "Cation exchange capacity"
+            }, 
+            {
+                "option": "C",
+                "content": "Elemental effective state content"
+            }, 
+            {
+                "option": "D",
+                "content": "Organic matter"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 148,
+        "question": "For soil finely ground samples, all samples passing a 0.25 mm (60 mesh) sieve pore size may be analyzed for the project. ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Organic matter"
+            }, 
+            {
+                "option": "B",
+                "content": "Pesticides"
+            }, 
+            {
+                "option": "C",
+                "content": "Total soil nitrogen"
+            }, 
+            {
+                "option": "D",
+                "content": "Soil elemental totals"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 149,
+        "question": "The following statement about the time limit for preservation of soil samples is correct ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Retain remaining samples for six months after analytical withdrawal"
+            }, 
+            {
+                "option": "B",
+                "content": "Reserved samples retained for 2 years"
+            }, 
+            {
+                "option": "C",
+                "content": "Contested samples retained for 5 years"
+            }, 
+            {
+                "option": "D",
+                "content": "Permanent preservation of arbitration samples"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 150,
+        "question": "For soil sample air drying chambers, which of the following requirements need to be met? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Orientation facing south to ensure sunlight hits the soil"
+            }, 
+            {
+                "option": "B",
+                "content": "well ventilated"
+            }, 
+            {
+                "option": "C",
+                "content": "No volatile chemicals"
+            }, 
+            {
+                "option": "D",
+                "content": "Neat and free of dust contamination"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 151,
+        "question": "Soil samples for the determination program should be filled to the top of the sample bottle and sealed. ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Cyanide"
+            }, 
+            {
+                "option": "B",
+                "content": "VOCs"
+            }, 
+            {
+                "option": "C",
+                "content": "Semi-volatile organic compounds"
+            }, 
+            {
+                "option": "D",
+                "content": "Sulphides"
+            }
+        ],
+        "answer": "BC",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 152,
+        "question": "What methods can be used to evaluate the quality of the soil environment? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Nemero Pollution Index Evaluation"
+            }, 
+            {
+                "option": "B",
+                "content": "Evaluation of Exceedance Rates"
+            }, 
+            {
+                "option": "C",
+                "content": "Evaluation of background values and standard deviations"
+            }, 
+            {
+                "option": "D",
+                "content": "Integrated Pollution Index Evaluation"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 153,
+        "question": "The main methods of collecting mixed samples in the environmental monitoring of agricultural soils are ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Diagonal method"
+            }, 
+            {
+                "option": "B",
+                "content": "Checkerboard method"
+            }, 
+            {
+                "option": "C",
+                "content": "Serpentine Method"
+            }, 
+            {
+                "option": "D",
+                "content": "Plum Dot Method"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 154,
+        "question": "The Technical Specification for Soil Environmental Monitoring stipulates that fresh soil samples can be used for the analysis of the project after being stored for one week at <4°C storage ambient conditions. ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "mercury"
+            }, 
+            {
+                "option": "B",
+                "content": "Arsenic"
+            }, 
+            {
+                "option": "C",
+                "content": "Hexavalent chromium"
+            }, 
+            {
+                "option": "D",
+                "content": "Cyanide"
+            }
+        ],
+        "answer": "AB",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 155,
+        "question": "Heavy metals in routine soil monitoring programs include , chromium, mercury, arsenic, , copper, zinc, and nickel. ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "thallium"
+            }, 
+            {
+                "option": "B",
+                "content": "Alkyl mercury"
+            }, 
+            {
+                "option": "C",
+                "content": "Cadmium"
+            }, 
+            {
+                "option": "D",
+                "content": "Lead"
+            }
+        ],
+        "answer": "CD",
+        "domain": "Technical norms and standards for soil environmental monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 156,
+        "question": "Environmental monitoring can be categorized as ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Monitoring of advisory services"
+            }, 
+            {
+                "option": "B",
+                "content": "Appraisal test monitoring"
+            }, 
+            {
+                "option": "C",
+                "content": "Monitoring of pollution incidents"
+            }, 
+            {
+                "option": "D",
+                "content": "Dispute arbitration monitoring"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 157,
+        "question": "The following are the common methods of deployment used when sampling the atmosphere ()", 
+        "options": [
+            {
+                "option": "A",
+                "content": "Functional Area Layout Method"
+            }, 
+            {
+                "option": "B",
+                "content": "Rectangular pointing method"
+            }, 
+            {
+                "option": "C",
+                "content": "Concentric Circle Layout Method"
+            }, 
+            {
+                "option": "D",
+                "content": "Diagonal Layout Method"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 158,
+        "question": "The trichotomy in environmental pollution refers to ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Carcinogenic"
+            }, 
+            {
+                "option": "B",
+                "content": "Teratogenic"
+            }, 
+            {
+                "option": "C",
+                "content": "Mutagenesis"
+            }, 
+            {
+                "option": "D",
+                "content": "Pathogenic"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 159,
+        "question": "Factors affecting the homogeneity of water quality during the collection and preservation of water samples include ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Time factor"
+            }, 
+            {
+                "option": "B",
+                "content": "Biodiversity"
+            }, 
+            {
+                "option": "C",
+                "content": "Spatial factors"
+            }, 
+            {
+                "option": "D",
+                "content": "PH of the water body"
+            }
+        ],
+        "answer": "AC",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 160,
+        "question": "A certain amount of hydrazine sulfate is polymerized with hexamethylenetetramine at a certain temperature to produce a polymer, which is used once as a turbidity standard solution; the method is suitable for the determination of () turbidity when compared with the turbidity of water samples under certain conditions." ,
+        "options": [
+            {
+                "option": "A",
+                "content": "natural water"
+            }, 
+            {
+                "option": "B",
+                "content": "Drinking water"
+            }, 
+            {
+                "option": "C",
+                "content": "Industrial wastewater"
+            }, 
+            {
+                "option": "D",
+                "content": "Domestic sewage"
+            }
+        ],
+        "answer": "AB",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 161,
+        "question": "Cadmium is very toxic, our country stipulates that the maximum permissible concentration of cadmium emissions from factories is 0.1mg/l, and the methods of cadmium determination are ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Cold Atomic Fluorescence Method"
+            }, 
+            {
+                "option": "B",
+                "content": "Atomic Absorption Spectrophotometry"
+            }, 
+            {
+                "option": "C",
+                "content": "Dithizone spectrophotometry"
+            }, 
+            {
+                "option": "D",
+                "content": "Anodic dissolution voltammetry"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 162,
+        "question": "The correct statement about the sampling time and frequency of water samples is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Larger water system mainstems sampled no less than 6 times throughout the year"
+            }, 
+            {
+                "option": "B",
+                "content": "Sampling should be done during periods of high water, not low water"
+            }, 
+            {
+                "option": "C",
+                "content": "Sampling of outfalls no less than 3 times per year"
+            }, 
+            {
+                "option": "D",
+                "content": "Background transects sampled 1 time per year"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 163,
+        "question": "Three simultaneous system in the three simultaneous, refers to the construction project needs to be supporting the construction of environmental protection facilities, must be with the main project ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Simultaneous design"
+            }, 
+            {
+                "option": "B",
+                "content": "Simultaneous construction"
+            }, 
+            {
+                "option": "C",
+                "content": "Simultaneous declaration"
+            }, 
+            {
+                "option": "D",
+                "content": "Simultaneous commissioning and use"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 164,
+        "question": "The principle for the selection of the absorbent solution in the enrichment (concentration) sampling method is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Rapid chemical reaction with or high solubility for the collected contaminants"
+            }, 
+            {
+                "option": "B",
+                "content": "Absorbent fluids are less toxic, less expensive, easier to purchase and, where possible, recycled"
+            }, 
+            {
+                "option": "C",
+                "content": "After the contaminants have been absorbed, they should facilitate the next analytical determination and preferably be used directly in the determination"
+            }, 
+            {
+                "option": "D",
+                "content": "After the contaminant is absorbed by the absorbent solution, there is a sufficient stabilization time to meet the time required for analytical determination"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 165,
+        "question": "One of the following options is a biological pollution pathway ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Bioaccumulation"
+            }, 
+            {
+                "option": "B",
+                "content": "Surface Adsorption"
+            }, 
+            {
+                "option": "C",
+                "content": "Bioabsorption"
+            }, 
+            {
+                "option": "D",
+                "content": "Biological transmission"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 166,
+        "question": "China's environmental pollution prevention and control law provides for civil liability in the form of ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Exclusion of Hazards"
+            }, 
+            {
+                "option": "B",
+                "content": "Apologize"
+            }, 
+            {
+                "option": "C",
+                "content": "Restore the status quo ante"
+            }, 
+            {
+                "option": "D",
+                "content": "Payment default"
+            }
+        ],
+        "answer": "AC",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 167,
+        "question": "The correct statement regarding the mode of acquisition of the right to use natural resources is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Granting of access"
+            }, 
+            {
+                "option": "B",
+                "content": "Transfer of acquisitions"
+            }, 
+            {
+                "option": "C",
+                "content": "mandatory acquisition"
+            }, 
+            {
+                "option": "D",
+                "content": "Confirmation of acquisition"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "ecological monitoring",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 168,
+        "question": "The newly revised Land Management Law of 2019 stipulates that land for collective operational construction can be handed over to units or individuals other than rural collectives for direct use by way of granting, leasing, etc. under the following conditions ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Compliance with planning"
+            }, 
+            {
+                "option": "B",
+                "content": "Registered in accordance with the law"
+            }, 
+            {
+                "option": "C",
+                "content": "Consent of more than two thirds of the members or more than two thirds of the village representatives"
+            }, 
+            {
+                "option": "D",
+                "content": "must be scheduled in the annual plan"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 169,
+        "question": "The newly revised Land Management Law of 2019 stipulates that rural villagers who have settled in cities are allowed to withdraw from their homesteads in line with the principle of ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Voluntary principles"
+            }, 
+            {
+                "option": "B",
+                "content": "Paid exit"
+            }, 
+            {
+                "option": "C",
+                "content": "Fair compensation"
+            }, 
+            {
+                "option": "A",
+                "content": "Government guidance"
+            }
+        ],
+        "answer": "AB",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 170,
+        "question": "When submitting materials for approval of agricultural land conversion and land acquisition for specific construction projects within the city's sub-lot boundaries, a list of the projects shall be attached, listing the projects ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "name"
+            }, 
+            {
+                "option": "B",
+                "content": "nature"
+            }, 
+            {
+                "option": "C",
+                "content": "scale"
+            }, 
+            {
+                "option": "D",
+                "content": "Site area"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 171,
+        "question": "In which of the following cases, the competent department of natural resources of the people's government at or above the county level may order the return of land and impose a fine? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Leasing and transferring rural collective land use rights for non-agricultural construction"
+            }, 
+            {
+                "option": "B",
+                "content": "The party that has legally recovered the right to use state-owned land refuses to hand over the land."
+            }, 
+            {
+                "option": "C",
+                "content": "Refusal to return land after the expiration of the period of temporary use"
+            }, 
+            {
+                "option": "D",
+                "content": "Those who do not use State-owned land in accordance with the approved use"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 172,
+        "question": "In the overall land use planning and urban master plan to determine the scope of the construction land, may not establish all kinds of development zones (parks) and new urban areas (district). Development zones to be retained after clearance must be strictly scrutinized in accordance with the principles of (...), based on the overall land-use plan and the overall urban plan",
+        "options": [
+            {
+                "option": "A",
+                "content": "Layout centralization"
+            }, 
+            {
+                "option": "B",
+                "content": "Land use intensification"
+            }, 
+            {
+                "option": "C",
+                "content": "Land conservation"
+            }, 
+            {
+                "option": "D",
+                "content": "Industrial agglomeration"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 173,
+        "question": "The expropriation of land needs to be submitted to the State Council for approval as ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Basic agricultural land"
+            }, 
+            {
+                "option": "B",
+                "content": "Cultivated land other than basic farmland not exceeding thirty-five hectares"
+            }, 
+            {
+                "option": "C",
+                "content": "Other land over seventy hectares"
+            }, 
+            {
+                "option": "D",
+                "content": "Coastal mudflats exceeding one hundred and forty hectares"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 174,
+        "question": "According to the newly revised Land Management Law of 2019, the principles for the preparation of land use master plans include ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Implementing the requirements for spatial development and protection of the national territory and strict land-use control"
+            }, 
+            {
+                "option": "B",
+                "content": "Improvement of land conservation and intensive utilization"
+            }, 
+            {
+                "option": "C",
+                "content": "Occupation of arable land and development and reclamation of arable land are balanced in quantity and comparable in quality"
+            }, 
+            {
+                "option": "D",
+                "content": "Strictly protect permanent basic farmland and strictly control the occupation of agricultural land for non-agricultural construction"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 175,
+        "question": "Where the State expropriates land, after approval in accordance with legal procedures, the local people's government at or above the county level shall make a public announcement and organize its implementation. Where a local people's government at or above the county level intends to apply for the expropriation of land, it shall carry out the proposed expropriation of the land ()", 
+        "options": [
+            {
+                "option": "A",
+                "content": "Pre-assessment"
+            }, 
+            {
+                "option": "B",
+                "content": "Status survey"
+            }, 
+            {
+                "option": "C",
+                "content": "Social Stability Risk Assessment"
+            }, 
+            {
+                "option": "D",
+                "content": "Social security"
+            }
+        ],
+        "answer": "BC",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 176,
+        "question": "Within the boundaries of villages planned for annexation, stop approving (...)",
+        "options": [
+            {
+                "option": "A",
+                "content": "Rehabilitation of dilapidated buildings"
+            }, 
+            {
+                "option": "B",
+                "content": "New residential construction"
+            }, 
+            {
+                "option": "C",
+                "content": "Reconstruction of housing"
+            }, 
+            {
+                "option": "D",
+                "content": "Conversion of dwellings"
+            }
+        ],
+        "answer": "BCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 177,
+        "question": "The State may, in accordance with the law, expropriate collectively owned land in the public interest, which of the following options is included in the public interest: ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Land needed for the construction of energy, transportation, water conservancy, communications, postal and other infrastructure organized and implemented by the Government"
+            }, 
+            {
+                "option": "B",
+                "content": "Military and Diplomatic Requirements"
+            }, 
+            {
+                "option": "C",
+                "content": "Land required for the construction of poverty alleviation and relocation and security housing projects organized and implemented by the Government"
+            }, 
+            {
+                "option": "D",
+                "content": "Within the urban construction land area determined by the overall land use plan, land is needed for piecemeal development and construction approved by the people's government at or above the provincial level and organized and implemented by the local people's government at or above the county level"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 178,
+        "question": "Anyone who unlawfully authorizes the expropriation or occupation of more than 5 acres and less than 10 acres of basic farmland, or more than 15 acres and less than 30 acres of other cultivated land, or more than 30 acres and less than 50 acres of other land, shall be given a punishment of () or ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Marked"
+            }, 
+            {
+                "option": "B",
+                "content": "demerits"
+            }, 
+            {
+                "option": "C",
+                "content": "demotion"
+            }, 
+            {
+                "option": "D",
+                "content": "Removal from office"
+            }
+        ],
+        "answer": "CD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 179,
+        "question": "Where, in the public interest, there is a genuine need to expropriate land collectively owned by peasants under any of the following circumstances, such expropriation may be carried out in accordance with the law (...)",
+        "options": [
+            {
+                "option": "A",
+                "content": "Military and Diplomatic Requirements"
+            }, 
+            {
+                "option": "B",
+                "content": "Land required for the construction of energy, transportation, water conservancy, communication, postal and other infrastructures organized and implemented by the Government"
+            }, 
+            {
+                "option": "C",
+                "content": "Land required for the construction of poverty alleviation and relocation and security housing projects organized and implemented by the Government"
+            }, 
+            {
+                "option": "D",
+                "content": "Within the urban construction land area determined by the overall land use plan, land is needed for piecemeal development and construction approved by the people's government at or above the provincial level and organized and implemented by the local people's government at or above the county level"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 180,
+        "question": "If a staff member of a land administration department knows that a case of land violation is being investigated or dealt with and still continues to handle procedures for land approval and issuance of land certificates, under less serious circumstances, he or she shall be given a sanction of (...) or (...)",
+        "options": [
+            {
+                "option": "A",
+                "content": "Warning"
+            }, 
+            {
+                "option": "B",
+                "content": "Marked"
+            }, 
+            {
+                "option": "C",
+                "content": "demerits"
+            }, 
+            {
+                "option": "D",
+                "content": "demotion"
+            }
+        ],
+        "answer": "BC",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 181,
+        "question": "Which construction sites can be acquired by way of allocation, as approved by the people's government at or above the county level in accordance with the law: ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Land for State organs and military land"
+            }, 
+            {
+                "option": "B",
+                "content": "Land for urban infrastructure and public utilities"
+            }, 
+            {
+                "option": "C",
+                "content": "Cessation of land use due to revocation, relocation, etc."
+            }, 
+            {
+                "option": "D",
+                "content": "Land for energy, transportation, water conservancy and other infrastructures that are key to national support"
+            }
+        ],
+        "answer": "ABD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 182,
+        "question": "Which of the following arable lands should be designated as permanent basic farmland and strictly protected according to the overall land use plan? ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Cultivated land within the production bases for grain, cotton, oil, sugar and other important agricultural products that have been approved and determined by the competent agricultural and rural departments under the State Council or by local people's governments at or above the county level."
+            }, 
+            {
+                "option": "B",
+                "content": "Cultivated land with good water conservancy and soil and water conservation facilities, medium- and low-yield fields that are undergoing renovation programs, and medium- and low-yield fields that can be renovated, and high-standard farmland that has been completed."
+            }, 
+            {
+                "option": "C",
+                "content": "Experimental fields for agricultural research and teaching"
+            }, 
+            {
+                "option": "D",
+                "content": "Vegetable production sites"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 183,
+        "question": "In any of the following cases, the natural resources department of the relevant people's government may, with the approval of the people's government that originally approved the land use or the people's government that has the power to do so, take back the state-owned land use right: ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "For the implementation of urban planning for the reconstruction of old urban areas and other public interest needs, there is a real need to use the land."
+            }, 
+            {
+                "option": "B",
+                "content": "Where the term of use agreed upon in the contract for the granting of land, etc., for compensated use has expired."
+            }, 
+            {
+                "option": "C",
+                "content": "Cessation of the use of previously allocated State-owned land due to unit abolition, relocation, etc."
+            }, 
+            {
+                "option": "D",
+                "content": "Roads, railroads, airports, mines, etc. approved for scrapping"
+            }
+        ],
+        "answer": "ACD",
+        "domain": "land administration law",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 184,
+        "question": "In intercropping, the adjustment of bandwidth depends on ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Crop variety characteristics"
+            }, 
+            {
+                "option": "B",
+                "content": "Soil fertility"
+            }, 
+            {
+                "option": "C",
+                "content": "Agricultural implements"
+            }, 
+            {
+                "option": "D",
+                "content": "Planting density"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 185,
+        "question": "When intercropping cotton and sweetpotato, cotton has a side-row advantage of 1-4 rows and sweetpotato has a side-row disadvantage of 1-3 rows, which of the following row ratios is appropriate ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "4:2"
+            }, 
+            {
+                "option": "B",
+                "content": "6:8"
+            }, 
+            {
+                "option": "C",
+                "content": "2:8"
+            }, 
+            {
+                "option": "D",
+                "content": "8:8"
+            }
+        ],
+        "answer": "AC",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 186,
+        "question": "Tilling is useful for ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Loose soil"
+            }, 
+            {
+                "option": "B",
+                "content": "Turning the soil"
+            }, 
+            {
+                "option": "C",
+                "content": "Broken earth"
+            }, 
+            {
+                "option": "D",
+                "content": "Leveling the ground"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 187,
+        "question": "Basic farming includes ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Rotary Tillage"
+            }, 
+            {
+                "option": "B",
+                "content": "Middle Plowing"
+            }, 
+            {
+                "option": "C",
+                "content": "Deep plowing"
+            }, 
+            {
+                "option": "D",
+                "content": "Making beds"
+            }
+        ],
+        "answer": "AC",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 188,
+        "question": "The role of monopoly is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Increase in ground temperature"
+            }, 
+            {
+                "option": "B",
+                "content": "Preventing topsoil sloughing"
+            }, 
+            {
+                "option": "C",
+                "content": "Buried weeds"
+            }, 
+            {
+                "option": "D",
+                "content": "Moisture retention"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 189,
+        "question": "No-tillage practices include ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Replacing soil tillage with biological measures"
+            }, 
+            {
+                "option": "B",
+                "content": "Replacing soil tillage with chemical measures"
+            }, 
+            {
+                "option": "C",
+                "content": "Replacing soil tillage with advanced implements"
+            }, 
+            {
+                "option": "D",
+                "content": "Replacing soil tillage with recreation"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 190,
+        "question": "Techniques for replanting to maximize farm time are ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Selection of suitable crop combinations and varieties"
+            }, 
+            {
+                "option": "B",
+                "content": "set"
+            }, 
+            {
+                "option": "C",
+                "content": "Sowing at the right time for early growth and maturity"
+            }, 
+            {
+                "option": "D",
+                "content": "Seedling transplanting"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 191,
+        "question": "Multiple species have the form ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Regenerative replanting"
+            }, 
+            {
+                "option": "B",
+                "content": "Stubble replanting"
+            }, 
+            {
+                "option": "C",
+                "content": "Replanting and replanting"
+            }, 
+            {
+                "option": "D",
+                "content": "Cropping and replanting"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 192,
+        "question": "The main forms of two-maturity replanting are ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Wheat-corn double cropping"
+            }, 
+            {
+                "option": "B",
+                "content": "Wheat and peanuts twice cooked"
+            }, 
+            {
+                "option": "C",
+                "content": "Double cropping of wheat and cotton"
+            }, 
+            {
+                "option": "D",
+                "content": "Wheat-soybean double cropping"
+            }
+        ],
+        "answer": "ABCD",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }, 
+    {
+        "id": 193,
+        "question": "The role of intercropping is ()",
+        "options": [
+            {
+                "option": "A",
+                "content": "Increasing production and efficiency"
+            }, 
+            {
+                "option": "B",
+                "content": "Stabilizing production and preserving harvests"
+            }, 
+            {
+                "option": "C",
+                "content": "Harmonization of conflicts over land for crops"
+            }, 
+            {
+                "option": "D",
+                "content": "Mitigating weed damage"
+            }
+        ],
+        "answer": "ABC",
+        "domain": "Cropping systems for crop production",
+        "difficulty level": "high"
+    }
+]
